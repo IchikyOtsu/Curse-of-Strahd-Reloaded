@@ -1295,177 +1295,177 @@ La salle commune se vide lentement au cours des deux heures suivantes. Nikolai e
 Si les joueurs ont loué des chambres pour la nuit, [[Non-Player Characters#Danika Dorakova|Danika]] s'approche finalement de leur table et propose de leur montrer leurs chambres. (Voir **N2l. Chambres d'amis** et <span class="citation">N2m. Chambre d'amis (p. 102)</span>). Pendant la visite, Danika leur fait savoir qu'ils sont libres de demander des draps propres ou un baquet d'eau chaude (pour un bain) à monter dans leurs chambres. "Le petit-déjeuner est servi aux premières lueurs," dit-elle chaleureusement, et ajoute : "N'hésitez pas à nous faire savoir si vous avez besoin d'autre chose."
 
 ***Jalon.*** Lorsque les joueurs prennent leur un long repos à Vallaki, accordez à chaque joueur 1 000 PX. (Cela devrait amener les joueurs au niveau 4.) Si les joueurs ont réussi à escorter Ireena jusqu'à Vallaki, ils gagnent 250 PX supplémentaires. (Les joueurs n'ont pas besoin d'amener Ireena à l'église Saint-Andral pour recevoir ces PX.)
-## C12c. Morning in Vallaki
-### Urwin's Advice
-When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+## C12c. Matin à Vallaki
+### Le Conseil d'Urwin
+Lorsque les joueurs sortent pour la première fois de leurs chambres sur le <span class="citation">N2k. Balcon des Invités</span> le lendemain matin, [[Non-Player Characters#Urwin Martikov|Urwin]] — qui est en train de descendre les chaises des tables de la salle commune — leur demande de descendre au bar pour parler.
 
-Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
+Baissant la voix, Urwin prévient les joueurs qu'ils doivent être prudents à Vallaki — tant en raison du système sévère d'application de la loi de la ville que des récentes tensions politiques. Urwin peut partager les informations supplémentaires suivantes, comme décrit dans <span class="citation">Vallaki Lore (p. 96)</span> :
 
-* The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
-* Vallaki's recent history of festivals,
-* The Baron's strict rules regarding his festivals—and the fates of those who speak ill of them,
-* The brutish nature and terrible strength of Izek Strazni, the baron's henchman. ("Many have tried to test his strength," Urwin notes grimly. "All have failed.")
+* La date de la Fête du Soleil Éclatant, qui aura lieu de l'aube à midi du cinquième jour complet des joueurs à Vallaki,
+* L'histoire récente des festivals de Vallaki,
+* Les règles strictes du Baron concernant ses festivals — et le sort de ceux qui en disent du mal,
+* La nature brutale et la force terrible d'Izek Strazni, l'homme de main du baron. ("Beaucoup ont essayé de tester sa force," note Urwin d'un air sombre. "Tous ont échoué.")
 
-Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+Urwin note calmement, cependant, que le Baron est connu pour être très sensible à la flatterie — et que si les joueurs devaient un jour avoir besoin de gagner ses faveurs, son ego pourrait être une cible de choix.
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in <span class="citation">Vallaki Lore (p. 96)</span>. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+Si les joueurs demandent si le Baron a des ennemis à Vallaki, Urwin peut également partager les informations sur Lady Fiona Wachter décrites dans <span class="citation">Vallaki Lore (p. 96)</span>. Cependant, au lieu de décrire la "fille folle" de Lady Wachter, Urwin partage seulement que Lady Fiona a une fille, Stella Wachter, que Lady Wachter a récemment gardée cloîtrée dans l'enceinte du Wachterhaus pour des raisons inconnues.
 
-As Urwin's conversation draws to a close, Rictavio descends the stairs from <span class="citation">N2n. Private Guest Room</span> and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+Alors que la conversation d'Urwin touche à sa fin, Rictavio descend les escaliers depuis la <span class="citation">N2n. Chambre d'amis privée</span> et s'approche du bar, saluant les joueurs d'un signe de tête. Urwin lui souhaite le bonjour et sort un petit paquet de dessous le comptoir, que Rictavio accepte et glisse dans sa cape.
 
-> [!abstract]+ **What's In the Parcel?**
-> If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
-### Following the Ringmaster
-If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
+> [!abstract]+ **Qu'y a-t-il dans le paquet ?**
+> Si on lui demande, Urwin peut informer les joueurs que le paquet contient simplement de la nourriture — quelques pommes, des miches de pain et une meule de fromage.
+### Suivre le Directeur de Cirque
+Si un ou plusieurs joueurs suivent Rictavio hors de l'Auberge de l'Eau Bleue, ils peuvent le suivre jusqu'à l'<span class="citation">N2f. Écurie (p. 101)</span> sans difficulté.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+Une fois à l'intérieur, Rictavio sort le paquet de son manteau, retire deux pommes et procède à les donner à manger à son cheval, Drusilla. Une fois que Drusilla a fini de manger, Rictavio vérifie ses alentours, forçant tout joueur caché à réussir un test de groupe de Dextérité (Discrétion) DD 18 ou être détecté.
 
-> [!info]+ **Group Checks**
-> See <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> for more information on how to use group ability checks.
+> [!info]+ **Tests de Groupe**
+> Voir <span class="citation">Tests de Groupe (<em>Player's Handbook</em>, p. 175)</span> pour plus d'informations sur la façon d'utiliser les tests de caractéristique de groupe.
 
-> [!abstract]+ **Detecting Magic**
-> If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
-> 
-> * the aura of illusion magic surrounding his _hat of disguise_,
-> * the aura of enchantment magic surrounding his _ring of mind shielding_, and
-> * the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt.
+> [!abstract]+ **Détection de la Magie**
+> Si un joueur lance _détection de la magie_ en présence de Rictavio, il peut immédiatement remarquer :
+>
+> * l'aura de magie d'illusion entourant son _chapeau de déguisement_,
+> * l'aura de magie d'enchantement entourant son _anneau de protection mentale_, et
+> * l'aura de magie d'abjuration entourant son _amulette de preuve contre la détection et la localisation_, qu'il porte cachée sous sa chemise.
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
+S'il détecte des joueurs, Rictavio les interpelle et note, avec amusement, qu'il est impoli de rôder dans les endroits sombres. Il les interroge ensuite avec légèreté, faisant de son mieux pour découvrir leur but en le suivant tout en évitant de révéler sa véritable identité.
 
-If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
+Si on lui demande pour qui est la nourriture, Rictavio insiste sur le fait qu'elle est pour "mon ami, le fabricant de jouets indigent." (Il fait référence à Gadof Blinsky, décrit plus loin dans <span class="citation">N7. Jouets Blinsky (p. 118)</span>.)
 
-If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+S'il est confronté concernant ses objets magiques ou sa véritable identité, Rictavio demande aux joueurs de vérifier les alentours pour des espions, puis exige qu'ils prouvent qu'ils ne sont pas des espions de Strahd. Si les joueurs répondent de manière persuasive, il insiste alors pour qu'ils jurent de garder le secret. S'ils le font, son histoire change comme suit :
 
-* If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
-* If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+* Si les joueurs ne soupçonnent pas sa véritable identité, Rictavio "révèle" qu'il est un agent secret des Gardiens de la Plume, une société secrète dédiée à la résistance contre Strahd. (Son vrai nom, prétend-il, est classifié, de peur que cela ne conduise Strahd à poursuivre ses proches.)
+* Si les joueurs soupçonnent sa véritable identité, Rictavio "révèle" qu'il est Arthur Sedgwick, un ancien étudiant de Van Richten venu d'une terre au-delà des Brumes, qui a suivi le Dr Van Richten en Barovie lorsqu'il a entendu que le chasseur de vampires avait disparu.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+Ce sont des mensonges. Un test de Sagesse (Perspicacité) DD 18 indique que les yeux de Rictavio papillonnent vers le haut un instant avant qu'il ne donne le nom des Gardiens ou d'Arthur. S'il est davantage confronté, Rictavio nie toute allégation supplémentaire. "Croyez ce que vous voulez," concède-t-il en haussant les épaules. "Ce que vous pensez ne me regarde pas."
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
+Rictavio refuse de partager d'autres informations de peur que les agents de Strahd ne les leur volent.
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
+S'il ne parvient pas à détecter les joueurs, Rictavio utilise son *chapeau de déguisement* pour prendre la forme d'un roturier vallakien aléatoire, puis se glisse hors de l'écurie dans la rue. Il procède ensuite à se faufiler à travers les rues et les ruelles de Vallaki dans une tentative paranoïaque de semer tout poursuivant. Un joueur tentant de le suivre doit réussir un test de Sagesse (Perception) DD 18 ou le perdre dans la foule.
 
-> [!abstract]+ **Following Rictavio**
-> Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
-### Exiting the Inn
-As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+> [!abstract]+ **Suivre Rictavio**
+> Une fois qu'il quitte l'écurie de l'Auberge de l'Eau Bleue, Rictavio se dirige vers l'Entrepôt Arasek, où il glisse le paquet de nourriture à travers les lattes de la porte arrière de sa roulotte. Il fournit ensuite à Arabelle une brève mise à jour sur les activités de la ville pendant qu'elle mange, s'agenouillant devant la roulotte comme décrit dans [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+### Quitter l'Auberge
+Lorsque les joueurs quittent l'Auberge de l'Eau Bleue lors de leur premier matin à Vallaki, ils trouvent la rue pleine de citadins. En supposant que les joueurs n'interviennent pas, la scène suivante se déroule alors :
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession. 
-* The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
-* The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
-* The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
-* Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
-* As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
+* Les joueurs entendent le bruit d'un cheval hennissant plus loin dans la rue — et les citadins se figent et se taisent. Une petite procession se trouve au sud : le Baron Vargas Vallakovich (tel que décrit dans <span class="citation">Interpréter la Famille Vallakovich, p. 105</span>) chevauchant son cheval alezan, flanqué de ses deux **mastiffs** nommés Croc et Griffe, et suivi de trois **gardes**. Izek Strazni mène la procession.
+* Les joueurs peuvent voir qu'une vieille femme à l'air effrayé portant des vêtements de roturier élimés vient de trébucher loin du cheval et est tombée dans une flaque de boue à quelques mètres du cheval. Le cheval s'est arrêté brusquement, et la procession s'est arrêtée avec lui. Le bras diabolique d'Izek est tendu, suggérant qu'il vient de pousser — ou de jeter — la vieille femme dans la boue. (La femme est Willemina Rikalova, la mère du cordonnier emprisonné Udo Lukovich.)
+* Le Baron gronde avec colère la femme pour avoir mis de la boue sur sa cape avec ses "sales mains de paysanne". La vieille femme, la voix tremblante, s'excuse et supplie le Baron de libérer son fils, Udo, affirmant qu'il ne pensait pas à mal avec sa "plaisanterie stupide".
+* Le Baron insiste sur le fait qu'Udo a besoin de "réhabilitation" pour son "malheur malveillant", et suggère que la femme en a besoin aussi. Il ordonne à Izek de la saisir et de l'enfermer au pilori, suggérant que "quelques jours au pilori devraient lui délier la langue". Izek s'avance, fléchissant son bras diabolique avec une lueur cruelle dans les yeux.
+* Izek attrape la femme, la remet sur ses pieds et la pousse brutalement dans les bras des gardes qui attendent. Deux des gardes tirent les bras de la vieille femme derrière son dos et commencent à la tirer vers le sud alors qu'elle se débat, pleure et supplie pour la liberté de son fils. Aucun citadin n'ose l'aider.
+* Alors que la vieille femme est emmenée, le Baron se tourne vers les citadins qui l'entourent et annonce : "Que cela serve de leçon quant aux dangers du malheur malveillant ! La main du Diable est longue, mais notre joie vaincra son ombre."
 ![[Izek Strazni.png]]
-<span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Izek Strazni" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-> [!profile]+ **Profile: Baron Vargas Vallakovich**
+> [!profile]+ **Profil : Baron Vargas Vallakovich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+> **Informations d'Interprétation**
+> ***Résonance.*** Vargas devrait inspirer la frustration par son obstination, le dégoût pour son arrogance narcissique, et un léger amusement pour son assurance totale et ridicule.
 >
-> ***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+> ***Émotions.*** Vargas se sent le plus souvent agacé, offensé, satisfait, outré, impatient ou suffisant.
 >
-> ***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+> ***Motivations.*** Vargas veut sécuriser son pouvoir libre de l'influence de Strahd et mener Vallaki à échapper aux Brumes en forçant tout le monde dans la ville à être heureux.
 >
-> ***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+> ***Inspirations.*** Lorsque vous jouez Vargas, canalisez Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones) et le Gouverneur Ratcliffe (Pocahontas).
 >
-> **Character Information**
-> ***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+> **Informations sur le Personnage**
+> ***Persona.*** Pour le monde, Vargas est un noble au sang bleu, prétentieux et narcissique, avec un mauvais caractère, des illusions de salut et un amour pour la louange et l'adoration.
 >
-> ***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+> ***Moral.*** Lors d'un combat, Vargas ordonnerait à ses chiens, Croc et Griffe, ainsi qu'à Izek Strazni et à tout garde présent de saisir quiconque s'oppose à lui. S'il est privé de ses défenseurs, Vargas tenterait soit de fuir, soit — si la fuite était entravée — de ramper pathétiquement aux pieds de son attaquant, implorant pitié.
 >
-> ***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
+> ***Relations.*** Vargas, le bourgmestre de Vallaki, est le père de Victor Vallakovich, le mari de la baronne Lydia Petrovna, le beau-frère du Père Lucian Petrovich et le fils du défunt Baron Valentin Vallakovich. Il est aussi l'employeur et le "père" adoptif d'Izek Strazni, son capitaine de la garde et principal homme de main.
 
-> [!profile]+ **Profile: Izek Strazni**
+> [!profile]+ **Profil : Izek Strazni**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> **Informations d'Interprétation**
+> ***Résonance.*** Izek devrait inspirer le dégoût par sa cruauté et son indifférence à la vie humaine, et le malaise par son intérêt troublant pour Ireena Kolyana.
 >
-> ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+> ***Émotions.*** Izek se sent le plus souvent irrité, enragé, impatient, sadique, obsédé ou ennuyé.
 >
-> ***Motivations.*** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+> ***Motivations.*** Izek veut servir le Baron fidèlement — et, bien plus important encore, trouver et posséder la femme dont il rêve.
 >
-> ***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+> ***Inspirations.*** Lorsque vous jouez Izek, canalisez Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter) et Kratos (God of War).
 >
-> **Character Information**
-> ***Persona.*** To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+> **Informations sur le Personnage**
+> ***Persona.*** Pour le monde, Izek est un homme de main cruel et brutal avec un amour pour le feu et le sang.
 >
-> ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+> ***Moral.*** Lors d'un combat, Izek dégainerait volontiers sa hache d'armes argentée et se battrait jusqu'à la mort.
 >
-> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> ***Relations.*** Izek est le "fils" adoptif du Baron Vargas Vallakovich, le capitaine de la garde de la ville de Vallaki, un client fréquent du fabricant de jouets Gadof Blinsky, et (à l'insu de l'un et de l'autre) le frère biologique d'Ireena Kolyana.
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
+Si les joueurs interrompent l'arrestation de Willemina, le Baron les salue comme des étrangers et demande, avec amusement, s'ils cherchent à revendiquer la responsabilité de la "réhabilitation" de la "vieille folle" eux-mêmes.
 
-***Diplomacy.*** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomatie.*** Si les joueurs réussissent un test de Charisme (Persuasion) DD 10 ou présentent un argument qui flatte suffisamment l'ego du Baron, il ordonne aux gardes de la remettre sous leur garde. Il leur souhaite la bienvenue à Vallaki et leur ordonne pompeusement de s'assurer qu'ils s'instruisent sur les règles et traditions de la ville.
 
-***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
+***Hostilité.*** Si les joueurs indiquent une volonté de commencer un combat, les yeux du Baron se plissent et ses mastiffs commencent à grogner. Pendant ce temps, le bras d'Izek brûle d'une flamme cramoisie, sa prise se resserrant autour du manche de sa hache d'armes argentée.
 
-The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
+Le Baron exige d'abord de savoir si les joueurs sont des "espions du Diable Strahd". Les joueurs peuvent tenter de calmer la situation et d'assurer l'arrestation de Willemina pacifiquement, mais tout test de Charisme ultérieur fait pour influencer le Baron est effectué avec un désavantage.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+S'il semble que le combat est imminent, le [[Non-Player Characters#Father Lucian Petrovich|Père Lucian Petrovich]] (tel que décrit dans <span class="citation">N1. Église Saint-Andral, p. 97</span>) sort de la foule et appelle à la paix. Le Baron le salue chaleureusement par son nom, et le Père Petrovich s'excuse pour le comportement de Willemina, notant qu'elle a été troublée ces derniers jours lors de ses congrégations. Il promet de l'escorter jusqu'à l'église Saint-Andral et de veiller à ce que son esprit troublé soit apaisé — une proposition que le Baron accepte à contrecœur.
 
-> [!lore]+ **What's Lucian Doing Here?**
-> After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+> [!lore]+ **Que fait Lucian ici ?**
+> Après avoir découvert [[Act I - Into the Mists/Arc C - Into the Valley|les ossements manquants de Saint Andral]] et envoyé Yeska recruter Henrik pour laisser des matériaux pour réparer la crypte, le Père Petrovich a recherché le Baron Vallakovich dans l'espoir d'obtenir son aide pour retrouver les ossements. Il a décidé de ne pas le faire, cependant, après avoir observé l'humeur et le comportement du Baron dans les rues. (Lucian ne partage pas cela à moins qu'il n'ait déjà parlé aux joueurs des ossements manquants dans [[Arc D - St. Andral's Feast]]. Il partagera, cependant, qu'il espérait demander quelque chose au Baron, mais a décidé de ne pas le faire après avoir vu l'humeur actuelle de l'homme.)
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
+Le Baron se demande aussi à voix haute s'il devrait punir les joueurs pour leur insolence. Le Père Petrovich assure au Baron qu'ils sont simplement des étrangers, ignorants des us de Vallaki, et qu'il veillera à ce qu'ils soient correctement éduqués.
 
-The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
+Le Baron ordonne impérieusement qu'il y veille, puis informe les joueurs qu'ils l'ont attrapé "de bonne humeur", et qu'ils devraient être reconnaissants pour "la miséricorde du Seigneur du Matin". Il les prévient, cependant, que toute infraction future à la loi sera sanctionnée par des punitions sévères.
 
-***Departure.*** As the Baron departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
+***Départ.*** Alors que le Baron quitte la scène, il annonce à la foule : "Je m'attends à vous voir tous à la Fête du Soleil Éclatant dans quatre jours. Tout ira bien !"
 
-The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
+Les citadins, arborant des sourires qui ressemblent davantage à des grimaces, entonnent sombrement : "Tout ira bien." Le Baron hoche la tête, visiblement satisfait, et continue de chevaucher vers le nord, suivi d'Izek, de ses mastiffs et de tous les gardes restants. L'activité de la rue reprend peu après.
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+Si Ireena est avec le groupe, elle a rabattu la capuche de sa cape en sortant de l'auberge. Néanmoins, à moins que le groupe n'ait pris des mesures spécifiques pour empêcher Izek de la remarquer, il croise le regard d'Ireena et soutient son regard pendant un long moment persistant avant de finalement partir, laissant Ireena se sentir mal à l'aise et froide. [[Arc G - The Strazni Siblings]] commence alors.
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+Si on lui demande, Ireena note avec incertitude que quelque chose chez Izek semblait presque familier, bien qu'elle ne puisse se rappeler pourquoi.
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+Si les joueurs ont défié Vargas ou Izek de quelque manière que ce soit, ou ont aidé Willemina d'une autre façon, Ernst Larnak rapporte leurs actions à Lady Fiona Wachter au Wachterhaus. [[Arc F - Lady Wachter's Wish]] commence alors.
 
-***End of an Act.*** When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
-# Design Notes: Into the Valley
-## Journey to Vallaki
-***The Lansten Family.*** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
+***Fin d'un Acte.*** Lorsque les joueurs partent de l'Auberge de l'Eau Bleue pour leur première journée complète à Vallaki, l'**Acte I** se termine et l'**Acte II** commence.
+# Notes de Conception : Dans la Vallée
+## Voyage vers Vallaki
+***La Famille Lansten.*** Les rencontres avec les éclaireurs baroviens et la famille de morts-vivants Lansten ont été ajoutées pour souligner la tragédie du siège de Strahd sur le village de Barovie, pour introduire les forces de morts-vivants de Strahd, et pour présager le plan ultime de Strahd de transformer les Baroviens en morts-vivants pour forger sa nouvelle armée après s'être échappé des Brumes.
 
-***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
+***Rencontre avec Strahd.*** De nombreuses rencontres communautaires avec Strahd créent des situations dans lesquelles, afin de bien faire comprendre le pouvoir et la cruauté de Strahd, les joueurs "perdent" inévitablement. De telles rencontres sont susceptibles de frustrer les joueurs et d'engendrer de l'apathie ou du désespoir au lieu d'une expérience de jeu tendue mais agréable. Cependant, il est tout aussi important que Strahd ne soit pas autorisé à "perdre" sa rencontre initiale avec les joueurs, même par procuration (par exemple, un combat avec ses sbires). Permettre que le pouvoir de Strahd soit remis en question à ce stade saperait fondamentalement sa capacité en tant que méchant.
 
-As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+En tant que telle, cette rencontre crée intentionnellement une circonstance dans laquelle à la fois Strahd et les joueurs peuvent "gagner" à la fin — les joueurs, en convainquant Strahd de les laisser partir avec Ireena, et Strahd, en glanant des informations utiles des arguments des joueurs et en signalant clairement qu'il ne fait que tolérer leurs efforts.
 
-While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for Strahd: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing Strahd's appearance of real and apparent control, and indicating that Strahd is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players *cannot hurt* Strahd in any meaningful way—and, as such, he feels no need to hurt *them* in any meaningful way.
+En menant cette scène, rappelez-vous les sages paroles de Tywin Lannister : "Tout homme qui doit dire 'Je suis le roi' n'est pas un vrai roi." Il en va de même pour Strahd : permettre aux joueurs de réussir à l'irriter, à l'agacer, ou autrement à le pousser à "les punir" permet fonctionnellement aux joueurs de gagner une certaine mesure de contrôle sur la conversation, réduisant l'apparence de contrôle réel et apparent de Strahd, et indiquant que Strahd est un noble mesquin qui se soucie de son propre ego. Rappelez-vous toujours que, surtout à ce stade, les joueurs *ne peuvent pas blesser* Strahd de manière significative — et, en tant que tel, il ne ressent aucun besoin de *les* blesser de manière significative.
 
-Altogether, the intended effect of this encounter is to introduce the players to Strahd, make the players hate and fear him, put the players on notice of Strahd's minions and servants, to reassure the players that Strahd will be an inevitable antagonist, and to make the players appreciate Strahd's Lawful Evil alignment—that, while inhabiting his Gentleman, he will do them no harm until and unless they give him reason to do so.
+Dans l'ensemble, l'effet recherché de cette rencontre est de présenter Strahd aux joueurs, de faire en sorte que les joueurs le détestent et le craignent, de mettre les joueurs en garde contre les sbires et serviteurs de Strahd, de rassurer les joueurs sur le fait que Strahd sera un antagoniste inévitable, et de faire apprécier aux joueurs l'alignement Loyal Mauvais de Strahd — que, tout en habitant son personnage de Gentleman, il ne leur fera aucun mal tant qu'ils ne lui en donneront pas la raison.
 
-***The Strix.*** The greater and lesser strix have been introduced to provide Baba Lysaga and the druids of Yester Hill with a meaningful way of combating the wereravens of the Keepers of the Feather. Muriel has also been added here to foreshadow the Keepers of the Feather, to foreshadow Strahd's prophecy (which the players will have an opportunity to learn after defeating the druids at Yester Hill), and to continue setting up Muriel's existence before her formal introduction at the beginning of the winery quest.
+***La Strix.*** La strix majeure et la strix mineure ont été introduites pour fournir à Baba Lysaga et aux druides de la Colline d'Antan un moyen significatif de combattre les corbacs-garous des Gardiens de la Plume. Muriel a également été ajoutée ici pour présager les Gardiens de la Plume, pour présager la prophétie de Strahd (que les joueurs auront l'occasion d'apprendre après avoir vaincu les druides à la Colline d'Antan), et pour continuer à établir l'existence de Muriel avant son introduction formelle au début de la quête du domaine viticole.
 
-***Changes to Lycanthropy.*** Due to the game-breaking impact that a lycanthrope player character can have on your game, it has been intentionally made as difficult as possible to achieve the full benefits of the curse. This version creates clear-cut rules to delineate lycanthropes who have "embraced" their curse and those that have not, and ensures that these rules rely on character-driven storytelling, rather than arbitrary game mechanics. 
+***Changements à la Lycanthropie.*** En raison de l'impact dévastateur qu'un personnage-joueur lycanthrope peut avoir sur votre jeu, il a été intentionnellement rendu aussi difficile que possible d'obtenir les pleins avantages de la malédiction. Cette version crée des règles claires pour délimiter les lycanthropes qui ont "embrassé" leur malédiction et ceux qui ne l'ont pas fait, et garantit que ces règles reposent sur une narration axée sur les personnages, plutôt que sur des mécanismes de jeu arbitraires.
 
-Lycanthropic immunity has been changed to silver-based regeneration in order to ensure that lycanthropes resonate with common understandings of lycanthropy and to ensure that all classes can meaningfully contribute to a lycanthrope's defeat, with or without magic weapons or spell. Lycanthropes have also been made weak to necrotic damage (in addition to damage from silvered weapons) in order to provide creative players with an alternate means of halting their regeneration and (more importantly) to explain how Strahd, who owns no silver weapons, is able to keep the werewolves in line.
+L'immunité lycanthropique a été remplacée par une régénération basée sur l'argent afin de garantir que les lycanthropes résonnent avec les compréhensions communes de la lycanthropie et de garantir que toutes les classes peuvent contribuer de manière significative à la défaite d'un lycanthrope, avec ou sans armes magiques ou sort. Les lycanthropes ont également été rendus faibles aux dégâts nécrotiques (en plus des dégâts des armes argentées) afin de fournir aux joueurs créatifs un autre moyen d'arrêter leur régénération et (plus important encore) pour expliquer comment Strahd, qui ne possède pas d'armes en argent, est capable de garder les loups-garous sous contrôle.
 
-***The Tarokka Reading.*** Madam Eva's warnings at the beginning of the reading have been added to increase the tension of the reading, to ensure that players treat it with the weight and care that it deserves, and to introduce a minor element of dramatic intrigue in the scenes that follow.
+***Le Tirage de Tarokka.*** Les avertissements de Madame Eva au début du tirage ont été ajoutés pour augmenter la tension du tirage, pour garantir que les joueurs le traitent avec le poids et le soin qu'il mérite, et pour introduire un élément mineur d'intrigue dramatique dans les scènes qui suivent.
 
-***Arturi Radanavich.*** Arturi Radanavich is a creation of the *Advanced Dungeons & Dragons* sourcebook *Van Richten's Guide to the Vistani.* His tale (and his character) have largely been transplanted directly into this guide in order to further introduce Van Richten's legend (and tragedy), to provide an explanation for Van Richten's transformation into a more sympathetic character, to introduce Ezmerelda d'Avenir, and to create player investment in Van Richten's history upon uncovering his burned journal in Van Richten's Tower.
+***Arturi Radanavich.*** Arturi Radanavich est une création du supplément *Advanced Dungeons & Dragons*, *Le Guide de Van Richten sur les Vistani*. Son histoire (et son personnage) ont été en grande partie transplantés directement dans ce guide afin d'introduire davantage la légende (et la tragédie) de Van Richten, de fournir une explication à la transformation de Van Richten en un personnage plus sympathique, d'introduire Ezmerelda d'Avenir, et de créer un investissement des joueurs dans l'histoire de Van Richten après avoir découvert son journal brûlé dans la Tour de Van Richten.
 
-***The Dancing Fire.*** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told. 
+***Le Feu Dansant.*** Le Jeu des Histoires a été introduit pour offrir aux joueurs l'occasion de décompresser dans un endroit relativement sûr tout en s'engageant et en explorant les histoires et les intérêts les uns des autres. Le Jeu lui-même — ainsi que ses paris — introduit un aspect de tension dramatique à la rencontre, garantissant que les joueurs restent investis et engagés dans chaque histoire racontée.
 
-Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to Izek Strazni and her true origins in Vallaki.
+Le conte de Stanimir indique la relation entre Strahd et les Vistani, présageant ainsi la loyauté d'Arrigal envers lui. Le conte d'Eliza introduit le *Symbole Sacré de Ravenkind* et la nature bienveillante des corbeaux, ainsi que l'interférence de Baba Zelenna avec le Fane de la Forêt à la Colline d'Antan (c'est-à-dire en l'utilisant pour invoquer Chernovog). Le conte d'Arturi introduit de manière colorée la tragédie du Dr Rudolph van Richten, renforçant le suspense pour un personnage que les joueurs auront bientôt l'occasion de rencontrer. Enfin, le conte d'Ireena présage sa relation avec Izek Strazni et ses véritables origines à Vallaki.
 
-***A Gift for Arabelle.*** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned Ireena-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
+***Un Cadeau pour Arabelle.*** La demande de Madame Eva a été ajoutée pour créer une accroche vers les Jouets Blinsky à Vallaki (permettant aux joueurs d'observer la poupée à l'effigie d'Ireena commandée par Izek) et vers le campement Vistani à l'extérieur de Vallaki (permettant aux joueurs de commencer la quête pour retrouver Arabelle disparue).
 
-***The Skeletal Rider.*** The encounter with the skeletal rider is a short, but evocative scene that aims to resonate with the themes of undeath, loneliness, and mystery that infuse this arc.
+***Le Cavalier Squelettique.*** La rencontre avec le cavalier squelettique est une scène courte mais évocatrice qui vise à résonner avec les thèmes de la mort-vivance, de la solitude et du mystère qui imprègnent cet arc.
 
-***The Watchtower.*** This short landmark serves to foreshadow the tragedy of the Barovian refugees, the fate of the Order of the Silver Dragon, and the bloodstained history of the valley.
+***La Tour de Guet.*** Ce court point de repère sert à présager la tragédie des réfugiés baroviens, le sort de l'Ordre du Dragon d'Argent et l'histoire sanglante de la vallée.
 
-***Tser Falls.*** The encounter with the revenant has been added to provide the players with a clear, though non-urgent hook to Argynvostholt. The revenant's responses are intentionally kept terse in order to ensure that the players learn little of the Order of the Silver Dragon until their meeting with Sir Godfrey Gwilym.
+***Les Chutes de Tser.*** La rencontre avec le revenant a été ajoutée pour fournir aux joueurs une accroche claire, bien que non urgente, vers Argynvostholt. Les réponses du revenant sont intentionnellement gardées brèves afin de garantir que les joueurs en apprennent peu sur l'Ordre du Dragon d'Argent jusqu'à leur rencontre avec Sir Godfrey Gwilym.
 
-***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
+***Rencontrer Morgantha.*** Cette scène a été intentionnellement structurée pour décourager les joueurs de découvrir la véritable identité de Morgantha, d'attaquer les guenaudes nocturnes ou d'entrer dans le Vieux Moulin à Os. (Ils auront l'occasion de le faire plus tard dans [[Arc H - The Lost Soul]].) Au lieu de cela, cette scène introduit simplement Morgantha en tant que personnage, présage son domaine sur les rêves, et informe les joueurs qu'elle vit dans le vieux moulin avec ses deux filles (c'est-à-dire son convent).
 
-***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
+***Les Bois Profonds.*** Les nuées de corbeaux ont été ajoutées pour garantir que les joueurs voient les corbeaux (et, par extension, les corbacs-garous) comme des amis et des alliés. La réaction d'Ireena au Lac Zarovich a été ajoutée pour présager davantage sa relation avec Izek et ses origines à Vallaki.
 
-***The Werewolf's Hunt.*** This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' ***Maul*** action option has been added to create a more tense and dynamic combat scenario.
-## Welcome to Vallaki
-***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting Ireena's efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
+***La Chasse du Loup-Garou.*** Cette brève rencontre de combat introduit les loups-garous et offre aux nuées de corbeaux (et à Muriel) l'occasion d'aider et de défendre les joueurs. L'option d'action ***Mutiler*** des loups a été ajoutée pour créer un scénario de combat plus tendu et dynamique.
+## Bienvenue à Vallaki
+***Le Camp de Réfugiés.*** Le camp de réfugiés baroviens a été placé ici pour fournir aux joueurs une raison supplémentaire de détester le Baron Vallakovich et Izek, et pour fournir à Morgantha une clientèle naturelle pour ses gâteaux oniriques. En rejetant les efforts d'Ireena pour les aider, les réfugiés font progresser son arc de personnage en lui permettant de réaliser qu'elle ne peut pas aider son peuple tant que Strahd survit, ce qui alimente sa décision ultime de rejoindre le groupe dans leur combat.
 
-***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
+***La Taxe.*** La taxe des gardes donne aux joueurs une raison supplémentaire de détester le Baron Vallakovich. Le tarif en argent indique également aux joueurs la richesse en armes et munitions argentées que le Baron a amassée.
 
-***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
+***L'Auberge de l'Eau Bleue.*** Cette séquence a été intentionnellement structurée pour introduire lentement et de manière gérable les joueurs à plusieurs des acteurs clés de Vallaki : les Martikov, les Wachter, les chasseurs de loups et le directeur de cirque Rictavio. Le conte de Rictavio a été écrit pour être aussi comique que raisonnablement possible afin de décourager les joueurs de le prendre au sérieux jusqu'à la révélation de son identité dans [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
+***Quitter l'Auberge.*** La rencontre des joueurs avec le Baron Vallakovich et Izek dans les rues de Vallaki a été ajoutée pour fournir aux joueurs une raison immédiate de ne pas les aimer, pour présenter aux joueurs le Père Lucian Petrovich, pour mettre en place la tension dramatique centrale du règne tyrannique du Baron sur Vallaki, pour lancer la poursuite d'Ireena par Izek, et pour fournir à Lady Fiona Wachter une raison exploitable d'inviter les joueurs dans ses machinations. **Il est essentiel que les joueurs ne combattent *pas* Izek ici, et toutes les précautions raisonnables ont été prises pour garantir cela.**
