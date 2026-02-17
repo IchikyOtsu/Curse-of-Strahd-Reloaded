@@ -1166,7 +1166,7 @@ La salle commune est telle que décrite dans <span class="citation">N2c. Salle C
 <p>Près d'une douzaine de Vallakiens sont assis éparpillés aux diverses tables, sirotant des chopes de vin ou des bols de ragoût copieux. Le long de l'escalier, un homme vêtu de couleurs vives et portant un chapeau à large bord orné d'une plume gesticule sauvagement en tête d'une longue table, captivant l'attention de plusieurs clients assis là. Vous entendez une vague de rires parcourir le groupe, suivie d'un léger crépitement d'applaudissements.</p>
 </div>
 
-L'homme est le directeur de cirque Rictavio, qui est en grande partie tel que décrit dans <span class="citation">Rictavio (p. 238)</span> et <span class="citation">N2c. Salle Commune (p. 100)</span>. Deux des cinq auditeurs à sa table sont Nikolai et Karl Wachter, qui sont tels que décrits dans <span class="citation">N2c. Salle Commune (p. 100)</span>.
+L'homme est le maître de cérémonie Rictavio, qui est en grande partie tel que décrit dans <span class="citation">Rictavio (p. 238)</span> et <span class="citation">N2c. Salle Commune (p. 100)</span>. Deux des cinq auditeurs à sa table sont Nikolai et Karl Wachter, qui sont tels que décrits dans <span class="citation">N2c. Salle Commune (p. 100)</span>.
 ![[Rictavio.png]]
 <span class="credit">"Rictavio" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
@@ -1192,22 +1192,22 @@ Urwin et Danika peuvent tous deux fournir des indications vers n'importe quel po
 La plus récente livraison de vin de l'auberge est légèrement en retard, mais n'a pas été suffisamment retardée pour alarmer Urwin. Par conséquent, il ne demande pas aux joueurs d'enquêter sur le Magicien des Vins à ce stade. (Cette quête ne deviendra disponible que lorsque les joueurs atteindront le niveau 5. Voir [[Arc J - The Stolen Gem]] pour plus d'informations.)
 
 Si les joueurs commandent de la nourriture ou du vin dans la salle commune, [[Non-Player Characters#Danika Dorakova|Danika]] propose de les installer à la longue table à l'extrémité sud de la salle et promet qu'ils seront servis sous peu. (Voir **Carte 5.2 : Auberge de l'Eau Bleue**.)
-### Le Conte du Directeur de Cirque
+### Le Conte du maître de cérémonie
 Si l'un des joueurs s'approche de la table de Rictavio, Nikolai et Karl Wachter les pressent de s'asseoir. "Il est sur le point de raconter une histoire," chuchote bruyamment Nikolai. (Szoldar Szoldarovich, le chasseur de loups, a tourné sa chaise dos au bar pour écouter.)
 
 > [!profile]+ **Profil : Rictavio**
 >
 > **Informations d'Interprétation**
-> ***Résonance.*** Rictavio devrait inspirer l'amusement par sa tenue flamboyante, son extravagance de directeur de cirque, et sa manière de parler colorée, qui inclut le plus souvent de se désigner à la troisième personne.
+> ***Résonance.*** Rictavio devrait inspirer l'amusement par sa tenue flamboyante, son extravagance de maître de cérémonie, et sa manière de parler colorée, qui inclut le plus souvent de se désigner à la troisième personne.
 >
 > ***Émotions.*** Pour les spectateurs, Rictavio semble le plus souvent se sentir amusé, ravi ou satisfait.
 >
-> ***Motivations.*** Rictavio veut maintenir sa réputation de directeur de cirque amusant, bien qu'un peu scandaleux.
+> ***Motivations.*** Rictavio veut maintenir sa réputation de maître de cérémonie amusant, bien qu'un peu scandaleux.
 >
 > ***Inspirations.*** Lors de la planification de Rictavio, canalisez Varrick (Avatar : La Légende de Korra) ou un bonimenteur de carnaval stéréotypé.
 >
 > **Informations sur le Personnage**
-> ***Persona.*** Pour le monde, Rictavio apparaît comme un directeur de cirque flamboyant, irrévérencieux et parfois narcissique.
+> ***Persona.*** Pour le monde, Rictavio apparaît comme un maître de cérémonie flamboyant, irrévérencieux et parfois narcissique.
 >
 > ***Moral.*** Lors d'un combat, Rictavio tenterait de se sortir du pétrin par son baratin, fuyant la bataille si les hostilités semblent inévitables. (Il pourrait, cependant, intervenir pour défendre un innocent du mal aux mains du surnaturel — tout en faisant de son mieux pour préserver son identité secrète.)
 >
@@ -1238,7 +1238,7 @@ Après s'être éclairci la gorge, Rictavio partage l'histoire suivante :
 
 Si on lui parle, Rictavio est disposé à partager les informations suivantes autour d'un verre :
 
-* Il est Rictavio, un demi-elfe directeur de cirque ayant voyagé longtemps et loin à la recherche de nouveaux numéros pour son cirque. Il n'est pas tout à fait sûr de la façon dont il s'est retrouvé en Barovie, mais il s'efforce d'en tirer le meilleur parti. (C'est un mensonge. Un test de Sagesse (Perspicacité) DD 16 révèle que les paroles de Rictavio semblent un peu trop lisses et répétées.)
+* Il est Rictavio, un demi-elfe maître de cérémonie ayant voyagé longtemps et loin à la recherche de nouveaux numéros pour son cirque. Il n'est pas tout à fait sûr de la façon dont il s'est retrouvé en Barovie, mais il s'efforce d'en tirer le meilleur parti. (C'est un mensonge. Un test de Sagesse (Perspicacité) DD 16 révèle que les paroles de Rictavio semblent un peu trop lisses et répétées.)
 * Il est arrivé récemment ce matin, et a élu domicile dans la suite privée de l'Auberge de l'Eau Bleue. "Les bons aubergistes m'ont généreusement laissé rester en échange de contes et de bonne humeur," note-t-il en souriant.
 
 Au cours de la conversation, Rictavio tente subtilement d'en apprendre plus qu'il n'en révèle, espérant glaner l'identité, les capacités, les relations et les histoires des joueurs en Barovie et au-delà. Si on lui demande pourquoi il semble si curieux, il insiste avec emphase qu'il est toujours à la recherche de nouveaux contes à ajouter à son répertoire.
