@@ -1115,186 +1115,186 @@ Cette zone est en grande partie comme décrite dans <span class="citation">N2. A
 
 Quand les joueurs arrivent pour la première fois, l'auberge contient les PNJ notables suivants :
 
-* Danika Dorakova, qui verse des boissons et sert les clients dans **N2c. Salle Commune** ;
+* Danika Dorakova, qui sert des boissons et s'occupe des clients dans **N2c. Salle Commune** ;
 * Urwin Martikov, qui cuisine du pain et du ragoût de betterave dans **N2e. Cuisine** ;
 * Brom et Bray Martikov, qui jouent avec des jouets dans **N20. Chambre des Garçons** ; et
-* Rictavio, qui raconte des histoires aux clients dans **N2c. Salle Commune**, y compris Nikolai et Karl Wachter.
+* Rictavio, qui raconte des histoires aux clients dans **N2c. Salle Commune**, y compris à Nikolai et Karl Wachter.
 
 ![[Vallaki_Martikovs.png]]
 
-<span class="credit">"Les Martikov de l'Auberge de l'Eau Bleue" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Les Martikov de l'Auberge de l'Eau Bleue" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-> [!profile]+ **Profile: Urwin Martikov**
+> [!profile]+ **Profil : Urwin Martikov**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+> **Informations d'Interprétation**
+> ***Résonance.*** Urwin devrait inspirer l'amusement avec ses mauvais jeux de mots et ses blagues, la gratitude pour ses conseils paternels et son soutien, et le réconfort par sa compassion et sa sincérité.
 >
-> ***Emotions.*** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+> ***Émotions.*** Urwin se sent le plus souvent amusé, satisfait, joyeux, pensif, inquiet et plein d'espoir.
 >
-> ***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+> ***Motivations.*** Urwin veut bien élever ses enfants, servir les clients avec hospitalité et compétence, et voir le peuple de Barovie libéré de la tyrannie de Strahd.
 >
-> ***Inspirations.*** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
+> ***Inspirations.*** Lorsque vous jouez Urwin, canalisez Vander (Arcane), Greg Universe (Steven Universe) et Linda Belcher (Bob's Burgers).
 >
-> **Character Information**
-> ***Persona.*** To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+> **Informations sur le Personnage**
+> ***Persona.*** Pour le monde, Urwin est une figure paternelle bienveillante, un père de famille et un hôte accueillant avec une lueur toujours présente dans les yeux. Pour ceux en qui il a confiance, Urwin est un maître-espion rusé et un tacticien avec un espoir féroce pour l'avenir de la Barovie. Au fond de lui, Urwin craint pour l'avenir de ses fils dans un royaume gouverné par Strahd.
 >
-> ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
+> ***Moral.*** Lors d'un combat, Urwin tenterait immédiatement de désamorcer la situation, et tenterait de fuir en cas d'échec — mais pas avant d'avoir escorté quiconque hors de danger.
 >
-> ***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefania Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ***Relations.*** Urwin est le père de Brom et Bray Martikov et le mari de Danika Dorakova. Il est aussi le fils exilé de Davian Martikov, et le grand frère bien-aimé d'Adrian, Elvir et Stefania Martikov. En plus d'être copropriétaire de l'Auberge de l'Eau Bleue, Urwin est le maître-espion des [[Lore of Barovia#Keepers of the Feather|Gardiens de la Plume]].
 
-> [!profile]+ **Profile: Danika Dorakova**
+> [!profile]+ **Profil : Danika Dorakova**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+> **Informations d'Interprétation**
+> ***Résonance.*** Danika devrait inspirer l'amusement par son rôle de "clown blanc" et ses plaisanteries bon enfant avec Urwin, la gratitude pour son hospitalité et ses soins maternels, et le réconfort par sa nature pratique et terre-à-terre ainsi que son dévouement féroce envers sa famille, sa maison et ses clients.
 >
-> ***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
+> ***Émotions.*** Danika se sent le plus souvent affectueuse, satisfaite, agréable, déterminée, provocante et tendre.
 >
-> ***Motivations.*** Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
+> ***Motivations.*** Danika veut garder sa famille en sécurité, gérer une entreprise prospère et s'assurer que ses enfants voient un jour la lumière du soleil sur la Barovie.
 >
-> ***Inspirations.*** When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
+> ***Inspirations.*** Lorsque vous jouez Danika, canalisez Tenzin (Avatar : La Légende de Korra), Bob Belcher (Bob's Burgers) et Grenat (Steven Universe).
 >
-> **Character Information**
-> ***Persona.*** To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+> **Informations sur le Personnage**
+> ***Persona.*** Pour le monde, Danika est une femme d'affaires pratique et sans fioritures avec un cœur en or. Pour ceux en qui elle a confiance, Danika est une mère féroce avec un profond dévouement envers le clan Martikov. Au fond d'elle, Danika est sombrement prête à défendre ceux qu'elle aime — quel qu'en soit le prix.
 >
-> ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+> ***Moral.*** Lors d'un combat, Danika tenterait rapidement de désamorcer la situation, mais se battrait jusqu'à la mort pour défendre sa famille ou ses clients.
 >
-> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
-### Entering the Inn
-The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</span>. However, add the following text to the end of this area's description:
+> ***Relations.*** Danika est la mère de Brom et Bray Martikov et la femme d'Urwin Martikov. En plus d'être copropriétaire de l'Auberge de l'Eau Bleue, Danika est un membre haut placé des [[Lore of Barovia#Factions#Keepers of the Feather|Gardiens de la Plume]].
+### Entrer dans l'Auberge
+La salle commune est telle que décrite dans <span class="citation">N2c. Salle Commune (p. 100)</span>. Cependant, ajoutez le texte suivant à la fin de la description de cette zone :
 
 <div class="description">
-<p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
+<p>Près d'une douzaine de Vallakiens sont assis éparpillés aux diverses tables, sirotant des chopes de vin ou des bols de ragoût copieux. Le long de l'escalier, un homme vêtu de couleurs vives et portant un chapeau à large bord orné d'une plume gesticule sauvagement en tête d'une longue table, captivant l'attention de plusieurs clients assis là. Vous entendez une vague de rires parcourir le groupe, suivie d'un léger crépitement d'applaudissements.</p>
 </div>
 
-The man is the ringmaster Rictavio, who is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+L'homme est le directeur de cirque Rictavio, qui est en grande partie tel que décrit dans <span class="citation">Rictavio (p. 238)</span> et <span class="citation">N2c. Salle Commune (p. 100)</span>. Deux des cinq auditeurs à sa table sont Nikolai et Karl Wachter, qui sont tels que décrits dans <span class="citation">N2c. Salle Commune (p. 100)</span>.
 ![[Rictavio.png]]
-<span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Rictavio" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
+Lorsque les joueurs entrent pour la première fois dans l'auberge, [[Non-Player Characters#Danika Dorakova|Danika]], qui sert aux tables, les salue et leur demande d'attendre au bar pendant qu'elle s'occupe des autres clients.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+Si les personnages s'approchent du bar, [[Non-Player Characters#Urwin Martikov|Urwin]] sort de la cuisine portant un plateau de pain fraîchement cuit, de ragoût de betterave chaud et de steaks de loup, qu'il pose sur le bar. (La nourriture dégage une odeur délicieuse qui met l'eau à la bouche.) Szoldar Szoldarovich et Yevgeni Krushkin sont également assis au bar, et sont tels que décrits dans <span class="citation">N2c. Salle Commune (p. 100)</span>.
 
-Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+Urwin salue chaleureusement les joueurs et leur souhaite la bienvenue à l'Auberge de l'Eau Bleue. Si les joueurs ne dirigent pas la conversation ailleurs, il remarque qu'ils ressemblent à des voyageurs et demande s'ils ont besoin de chambres pour la nuit.
 
-Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
+Avant qu'Urwin ne puisse répondre aux joueurs, Danika revient et s'excuse auprès des joueurs pour son retard. En supposant que les joueurs ne l'interrompent pas, la conversation se déroule ensuite comme suit :
 
-* Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies. 
-* Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
-* "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
-* Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
+* Danika accuse avec légèreté Urwin de comploter pour louer des chambres aux clients "gratuitement" à nouveau, une allégation qu'Urwin nie joyeusement.
+* Danika dit aux joueurs qu'Urwin a déjà permis à un autre client de rester gratuitement et qu'il "mettrait l'auberge en faillite" par générosité si elle n'était pas là pour tenir les comptes. (Urwin concède gracieusement le point.)
+* "Après tout," dit Urwin avec impertinence, "pourquoi t'ai-je épousée sinon ?" Avec un sourire, Danika répond : "Un rare moment de bon sens, j'imagine."
+* Danika embrasse Urwin sur la joue et dit : "La table près de la fenêtre commence à avoir faim." Urwin fait un clin d'œil aux joueurs, reprend le plateau et quitte le bar pour livrer la nourriture.
 
-Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry. 
+Danika indique ensuite aux joueurs les tarifs pour le gîte et le couvert, tels qu'indiqués dans <span class="citation">N2. Auberge de l'Eau Bleue (p. 98)</span>. (La grande chambre d'amis, <span class="citation">N2m. Chambre d'amis (p. 102)</span>, ainsi que les deux petites chambres d'amis, <span class="citation">N2l. Chambres d'amis (p. 102)</span>, sont disponibles à la location.) Quand Urwin revient, il propose de prendre les commandes des joueurs pour le dîner, en supposant qu'ils aient faim.
 
-The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>. 
+Les joueurs ont alors quelques minutes pour parler avec Urwin et Danika ou entre eux. Durant cette conversation, Urwin et Danika peuvent fournir aux joueurs des informations sur Rictavio, la Fête du Soleil Éclatant (qui aura lieu dans cinq jours à midi), et le camp Vistani voisin, comme décrit dans <span class="citation">Vallaki Lore (p. 96)</span>.
 
-Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
+Urwin et Danika peuvent tous deux fournir des indications vers n'importe quel point de repère majeur dans Vallaki, y compris **N1. Église Saint-Andral**, **N5. Entrepôt Arasek**, et **N8. Place de la ville**. Si les joueurs posent des questions sur l'autre client de l'auberge, Urwin et Danika peuvent également partager des informations sur Rictavio, qui sont en grande partie telles que décrites dans <span class="citation">N2c. Salle Commune (p. 100)</span>, sauf que Rictavio est arrivé pour la première fois ce matin même.
 
-The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
+La plus récente livraison de vin de l'auberge est légèrement en retard, mais n'a pas été suffisamment retardée pour alarmer Urwin. Par conséquent, il ne demande pas aux joueurs d'enquêter sur le Magicien des Vins à ce stade. (Cette quête ne deviendra disponible que lorsque les joueurs atteindront le niveau 5. Voir [[Arc J - The Stolen Gem]] pour plus d'informations.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
-### The Ringmaster's Tale
-If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
+Si les joueurs commandent de la nourriture ou du vin dans la salle commune, [[Non-Player Characters#Danika Dorakova|Danika]] propose de les installer à la longue table à l'extrémité sud de la salle et promet qu'ils seront servis sous peu. (Voir **Carte 5.2 : Auberge de l'Eau Bleue**.)
+### Le Conte du Directeur de Cirque
+Si l'un des joueurs s'approche de la table de Rictavio, Nikolai et Karl Wachter les pressent de s'asseoir. "Il est sur le point de raconter une histoire," chuchote bruyamment Nikolai. (Szoldar Szoldarovich, le chasseur de loups, a tourné sa chaise dos au bar pour écouter.)
 
-> [!profile]+ **Profile: Rictavio**
+> [!profile]+ **Profil : Rictavio**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+> **Informations d'Interprétation**
+> ***Résonance.*** Rictavio devrait inspirer l'amusement par sa tenue flamboyante, son extravagance de directeur de cirque, et sa manière de parler colorée, qui inclut le plus souvent de se désigner à la troisième personne.
 >
-> ***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+> ***Émotions.*** Pour les spectateurs, Rictavio semble le plus souvent se sentir amusé, ravi ou satisfait.
 >
-> ***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+> ***Motivations.*** Rictavio veut maintenir sa réputation de directeur de cirque amusant, bien qu'un peu scandaleux.
 >
-> ***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
+> ***Inspirations.*** Lors de la planification de Rictavio, canalisez Varrick (Avatar : La Légende de Korra) ou un bonimenteur de carnaval stéréotypé.
 >
-> **Character Information**
-> ***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
+> **Informations sur le Personnage**
+> ***Persona.*** Pour le monde, Rictavio apparaît comme un directeur de cirque flamboyant, irrévérencieux et parfois narcissique.
 >
-> ***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
+> ***Moral.*** Lors d'un combat, Rictavio tenterait de se sortir du pétrin par son baratin, fuyant la bataille si les hostilités semblent inévitables. (Il pourrait, cependant, intervenir pour défendre un innocent du mal aux mains du surnaturel — tout en faisant de son mieux pour préserver son identité secrète.)
 >
-> ***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+> ***Relations.*** Rictavio est secrètement le Dr Rudolph van Richten, le célèbre chasseur de vampires.
 
-After clearing his throat, Rictavio shares the following story:
+Après s'être éclairci la gorge, Rictavio partage l'histoire suivante :
 
 <div class="description">
-<p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
-<p>Poor Count Belasco had a terrible secret: In his ancient age, his scalp was beginning to rot, his hair falling out in great clumps and knots. In embarrassment, he commanded Igoron to purchase a beautiful raven-black wig, hoping to preserve the handsome, younger man he had once been.</p>
-<p>"A handsome man indeed," agreed one of his guests—an elderly, near-blind widow named Olivenka—one particular moonlit night. Dear Olivenka kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
-<p>As always, the Count felt an urge to feed upon her—and though her flattering words quelled his interest, he felt the thirst in his fangs all the same. "Igoron!" he boomed. "Fetch my coat—I'm going hunting."</p>
-<p>"Yes, sire," Igoron wheezed. As he returned, he whimpered, "Best be back before dawn, milord. I'm cleaning the curtains tonight. Want you nice and safe in your coffin before sunrise."</p>
-<p>Count Belasco scoffed. "Fear not, simple Igoron," he boasted. "I know well the hour of my enemy. Not a thing could stir my spirit to linger beneath its dreadful rays."</p>
-<p>And so the Count departed. He lurked in alleyways and prowled across rooftops—yet he found not a single morsel to sate his thirst. It was with surprise, that the hungry, defeated Count finally looked up to the velvet skies and saw the periwinkle-grey of approaching morning.</p>
-<p>With panic, he flew through the streets. Four blocks away. A streak of orange began to slice across the sky. Three blocks. Two—</p>
-<p>—the door to the inn slammed shut behind him.</p>
-<p>"Goodness," Olivenka said, yawning atop the staircase. "Have you been out all night?"</p>
-<p>In an eyeblink, the Count's great silhouette towered far above her. "Yes," he growled. "But I've only just found what I've been looking for. Olivenka—<i>I want to suck your blood!</i>"</p>
-<p>Ordinarily, one of Count Belasco's victims would scream, flee, or faint—yet he had made one, terrible mistake.</p>
-<p>He had forgotten that Olivenka's cataract-ridden eyes couldn't quite see his fangs.</p>
-<p>"You disgusting man!" Olivenka screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Olivenka staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
-<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
-<p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
+<p>Le vampire Comte Belasco gardait son cercueil, non pas dans une crypte ou un donjon, mais dans la cave d'une vieille auberge décrépite, gérée par son serviteur, Igoron.</p>
+<p>Le pauvre Comte Belasco avait un terrible secret : à son âge ancien, son cuir chevelu commençait à pourrir, ses cheveux tombant par grosses touffes et nœuds. Embarrassé, il ordonna à Igoron d'acheter une belle perruque noir corbeau, espérant préserver l'homme beau et jeune qu'il avait été autrefois.</p>
+<p>"Un bel homme en effet," convint l'une de ses invitées — une veuve âgée et presque aveugle nommée Olivenka — par une nuit de clair de lune particulière. La chère Olivenka restait dans son coin, passant ses journées à trier et retrier la collection de pierres de son défunt mari, qu'elle gardait amoureusement dans son sac à main. Malgré le comportement étrange et la peau pâle du Comte, elle ne se doutait de rien, sa vieille vue étant trop floue pour distinguer les crocs qui dépassaient parmi ses dents.</p>
+<p>Comme toujours, le Comte ressentit une envie de se nourrir d'elle — et bien que ses paroles flatteuses apaisassent son intérêt, il sentait tout de même la soif dans ses crocs. "Igoron !" tonna-t-il. "Va chercher mon manteau — je pars chasser."</p>
+<p>"Oui, sire," siffla Igoron. À son retour, il gémît : "Mieux vaut être de retour avant l'aube, monseigneur. Je nettoie les rideaux ce soir. Je vous veux bien en sécurité dans votre cercueil avant le lever du soleil."</p>
+<p>Le Comte Belasco se moqua. "Ne crains rien, simple Igoron," se vanta-t-il. "Je connais bien l'heure de mon ennemi. Rien ne pourrait inciter mon esprit à s'attarder sous ses rayons redoutables."</p>
+<p>Et ainsi le Comte partit. Il rôda dans les ruelles et arpenta les toits — pourtant il ne trouva pas le moindre morceau pour assouvir sa soif. Ce fut avec surprise que le Comte affamé et vaincu leva finalement les yeux vers les cieux de velours et vit le gris pervenche du matin approchant.</p>
+<p>Paniqué, il vola à travers les rues. Quatre pâtés de maisons. Une traînée orange commença à trancher le ciel. Trois pâtés de maisons. Deux—</p>
+<p>—la porte de l'auberge claqua derrière lui.</p>
+<p>"Bonté divine," dit Olivenka, bâillant en haut de l'escalier. "Avez-vous été dehors toute la nuit ?"</p>
+<p>En un clin d'œil, la grande silhouette du Comte la domina de toute sa hauteur. "Oui," grogna-t-il. "Mais je viens juste de trouver ce que je cherchais. Olivenka — <i>je veux sucer votre sang !</i>"</p>
+<p>Ordinairement, l'une des victimes du Comte Belasco aurait crié, fui ou s'évanouirait — pourtant il avait commis une terrible erreur.</p>
+<p>Il avait oublié que les yeux atteints de cataracte d'Olivenka ne pouvaient pas tout à fait voir ses crocs.</p>
+<p>"Espèce d'homme dégoûtant !" hurla Olivenka, et elle propulsa dix-huit années de pierres et minéraux rares directement vers sa tête. Il y eut un bruit sourd terrible — et un terrible éclatement de bois — et le Comte Belasco dégringola à l'étage inférieur. Quand il ouvrit les yeux, il vit Olivenka regarder avec horreur, non pas lui, mais sa <i>tête</i> — sa tête <i>nue</i>.</p>
+<p>Là, juste sous la fenêtre est, gisait sa perruque bien-aimée. Il plongea vers elle, griffes tendues — et un rayon de soleil effleura sa peau.</p>
+<p>Il y eut un grésillement, un sifflement, et un éclat de fumée et de flamme. Olivenka, sac à main serré contre sa poitrine, regarda avec admiration le Comte Belasco succomber à la lumière du matin, jusqu'à ce qu'il ne reste plus qu'un tas de cendres fumant et une perruque carbonisée et fumante.</p>
 </div>
 
-"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
+"La pauvre Olivenka ne s'en est jamais tout à fait remise," conclut Rictavio, les yeux pétillants. "Après tout — ce fut une expérience tout à fait 'ébouriffante' !" Alors que ses auditeurs huent, s'esclaffent et applaudissent, il s'incline, puis fait signe à Danika pour une autre tournée de boissons. Alors qu'elle approche, Brom et Bray courent devant elle vers la cuisine, en gloussant.
 
-If spoken with, Rictavio is willing to share the following information over drinks:
+Si on lui parle, Rictavio est disposé à partager les informations suivantes autour d'un verre :
 
-* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
-* He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
+* Il est Rictavio, un demi-elfe directeur de cirque ayant voyagé longtemps et loin à la recherche de nouveaux numéros pour son cirque. Il n'est pas tout à fait sûr de la façon dont il s'est retrouvé en Barovie, mais il s'efforce d'en tirer le meilleur parti. (C'est un mensonge. Un test de Sagesse (Perspicacité) DD 16 révèle que les paroles de Rictavio semblent un peu trop lisses et répétées.)
+* Il est arrivé récemment ce matin, et a élu domicile dans la suite privée de l'Auberge de l'Eau Bleue. "Les bons aubergistes m'ont généreusement laissé rester en échange de contes et de bonne humeur," note-t-il en souriant.
 
-During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
+Au cours de la conversation, Rictavio tente subtilement d'en apprendre plus qu'il n'en révèle, espérant glaner l'identité, les capacités, les relations et les histoires des joueurs en Barovie et au-delà. Si on lui demande pourquoi il semble si curieux, il insiste avec emphase qu'il est toujours à la recherche de nouveaux contes à ajouter à son répertoire.
 
-When he's finished his drink, Rictavio takes another flourishing bow and excuses himself. As he does, Nikolai and Karl boo and urge Rictavio to tell another story. "We've heard one about a stupid Count," Nikolai says. "What about a stupid Baron?"
+Quand il a fini son verre, Rictavio fait une autre révérence florissante et s'excuse. Alors qu'il le fait, Nikolai et Karl huent et pressent Rictavio de raconter une autre histoire. "Nous en avons entendu une sur un Comte stupide," dit Nikolai. "Qu'en est-il d'un Baron stupide ?"
 
-If the players don't intervene, the following sequence of events then occurs:
+Si les joueurs n'interviennent pas, la séquence d'événements suivante se produit alors :
 
-* The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
-* From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
-* Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>. 
+* La table et la salle commune voisine deviennent silencieuses, de nombreux clients regardant Nikolai et Rictavio nerveusement.
+* De sa place au bar, Szoldar gronde : "Mieux vaut pas, gamin." (Derrière lui, Yevgeni grogne, puis fait écho : "Mieux vaut pas.")
+* Karl se moque. "Des lâches, tous autant que vous êtes," dit-il en regardant autour de lui. "Pas le moindre sens de l'humour."
+* Rictavio s'éclaircit la gorge. "Hélas, mes amis," dit-il, "mais la journée a été longue, et je dois me retirer. Un autre jour, peut-être." Alors que Nikolai et Karl gémissent et retournent à leurs boissons, Rictavio s'incline avec panache, puis monte les escaliers vers **N2n Chambre d'amis privée (p. 102)**.
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
-### The Brothers Wachter
-If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+Tout joueur qui regarde Rictavio se diriger le long du **N2j. Grand Balcon** le voit passer devant Brom et Bray, qui sont accroupis le long du balcon devant **N2o. Chambre des Garçons**. (Les garçons laissent pendre la chauve-souris empaillée décrite dans <span class="citation">N2o. Chambre des Garçons (p. 102)</span> au-dessus du bar en contrebas, gloussant pendant que Nikolai et Karl essaient de la frapper en étant ivres. Les garçons ont utilisé les <span class="citation">N2i. Escaliers secrets et couloir (p. 101)</span> pour filer discrètement de la cuisine au balcon pendant que les joueurs buvaient, invisibles aux yeux des clients de l'auberge.)
+### Les Frères Wachter
+Si les joueurs s'attardent à la table de Rictavio, les frères Wachter sont heureux (si on les pousse) de râler à propos de :
 
-- the Festival of the Blazing Sun,
-- Vallaki's recent history of festivals,
-- the Baron's response to those who speak ill of the festivals, and
-- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+- la Fête du Soleil Éclatant,
+- l'histoire récente des festivals de Vallaki,
+- la réponse du Baron à ceux qui disent du mal des festivals, et
+- les éclairs de lumière violette qui ont été vus depuis le grenier du **N3. Manoir du Bourgmestre**
 
-(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+(Voir <span class="citation">Vallaki Lore (p. 96)</span>). Une fois que les joueurs ont gagné la confiance des frères, la conversation se poursuit comme décrit dans <span class="citation">N2c. Salle Commune (p. 100)</span>.
 
-Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
+Au fil de la conversation, il devient évident que les frères nourrissent une inimitié profonde et personnelle envers Izek Strazni et la famille Vallakovich. Cependant, aucun des deux frères ne révélera la raison sous-jacente — la maladie de Stella Wachter (voir [[Arc H - The Lost Soul]]) — à moins que les joueurs ne demandent et ne réussissent un test de Charisme (Persuasion) DD 20.
 
-At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
+À un moment donné de la conversation, Danika s'approche de la table pour débarrasser les assiettes vides. Ce faisant, Nikolai réclame joyeusement plus de vin. Si les joueurs n'interviennent pas, la conversation se déroule comme suit :
 
-- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
-- Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
-- Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
-- As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
+- [[Non-Player Characters#Danika Dorakova|Danika]] salue Karl et Nikolai par leur nom, et demande : "N'avez-vous pas déjà trop bu, les garçons ?"
+- Nikolai balaie ses paroles d'un geste et dit : "Absurdités — nous ne faisons que commencer ! Deux pintes de vin pour commencer, et faites qu'elles continuent d'arriver."
+- Danika répond : "Puis-je vous servir un peu de Purée de Raisins Violets n° 3 pour commencer ?" Nikolai se moque et dit : "Pour qui nous prenez-vous — des paysans sans goût ? Du Pressoir du Dragon Rouge, et ne soyez pas radine."
+- Alors qu'elle verse leur vin, Danika dit nonchalamment : "Votre mère sait-elle ce que vous fabriquez ce soir ?" Karl attend de recevoir sa pinte, puis grogne : "Mère est bien trop occupée ces jours-ci. Et ce qu'elle ne sait pas ne peut pas lui faire de mal." ("Ou à nous," ajoute Nikolai avec charme, donnant un coup de coude à son frère. Les deux gloussent, puis retournent à leurs boissons.)
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
-### Eating Dinner
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+Si les joueurs interrogent Urwin ou Danika sur les frères Wachter, Urwin peut leur dire les informations listées dans <span class="citation">N2c. Salle Commune (p. 100)</span>. Si les joueurs posent des questions sur leur mère, ou sur leurs paroles concernant un "Baron stupide", Urwin devient visiblement mal à l'aise, et promet de parler davantage avec les joueurs le matin.
+### Dîner
+Peu après la fin de l'histoire de Rictavio, si les joueurs ont commandé à dîner, [[Non-Player Characters#Danika Dorakova|Danika]] s'approche de leur table avec un plateau de nourriture. Alors qu'elle les sert, elle est soudainement bousculée par derrière, envoyant l'un des bols de soupe dégringoler de sa prise. Les deux joueurs assis à l'extrémité la plus au nord de la table doivent faire des jets de sauvegarde de Dextérité DD 10, attrapant le bol en cas de succès. (Si les deux joueurs réussissent, le joueur avec le résultat le plus élevé attrape le bol en premier. Si aucun joueur ne réussit, le bol tombe sur le sol, renversant la soupe.)
 
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Danika se retourne, révélant le coupable : un Brom Martikov aux joues rouges portant l'un des masques de clown en bois peint décrits dans <span class="citation">N2o. Chambre des Garçons (p. 102)</span>. (Bray Martikov, portant l'autre masque de la paire, se recroqueville derrière l'une des chaises de la table la plus proche.)
 
-If the players do not interrupt, Danika scolds the boys as follows:
+Si les joueurs n'interrompent pas, Danika gronde les garçons comme suit :
 
-* Danika sharply (though not unkindly) addresses Brom and Bray by their full names. Both children snap to attention.
-* Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
-* Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
+* Danika s'adresse sèchement (mais sans méchanceté) à Brom et Bray par leurs noms complets. Les deux enfants se mettent au garde-à-vous.
+* Danika demande aux garçons : "Qu'est-ce que votre père vous a dit à propos du port de ces masques dans la salle commune ?" Les deux garçons enlèvent leurs masques, rougissants, et Brom dit, piteusement : "On n'est pas censés le faire."
+* Danika demande ensuite aux garçons : "Et qu'est-ce que je vous ai dit à propos de courir dans la salle commune ?" Les deux restent silencieux, puis Bray intervient : "... on n'est pas censés le faire ?" Danika répond : "Exactement."
 
-If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a. Well** outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
+Si la soupe a été renversée, Danika ordonne à Bray d'aller chercher un seau d'eau au **N2a. Puits** à l'extérieur, et à Brom d'aller chercher une serpillière à la cuisine pour nettoyer le désordre. Si la soupe n'a pas été renversée, Danika rappelle aux garçons qu'ils sont censés aider leur père à cuisiner le dîner, et les chasse vers la cuisine.
 
-In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
+Dans les deux cas, Danika s'excuse auprès des joueurs et leur offre des repas gratuits le soir suivant. Si les joueurs posent des questions sur Brom et Bray, Danika sourit tendrement et dit : "Ils sont parfois difficiles, mais ce sont de bons garçons."
 
-If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadof Blinsky, who works at <span class="citation">N7. Blinsky Toys (p.118)</span>.
+Si les joueurs posent des questions sur les masques des enfants, Danika leur dit qu'Urwin les a achetés au fabricant de jouets local, Gadof Blinsky, qui travaille au <span class="citation">N7. Jouets Blinsky (p. 118)</span>.
 
-The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
+La salle commune se vide lentement au cours des deux heures suivantes. Nikolai et Karl Wachter trébuchent dehors et s'effondrent dans la remise de l'auberge, trop ivres pour rentrer chez eux.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+Si les joueurs ont loué des chambres pour la nuit, [[Non-Player Characters#Danika Dorakova|Danika]] s'approche finalement de leur table et propose de leur montrer leurs chambres. (Voir **N2l. Chambres d'amis** et <span class="citation">N2m. Chambre d'amis (p. 102)</span>). Pendant la visite, Danika leur fait savoir qu'ils sont libres de demander des draps propres ou un baquet d'eau chaude (pour un bain) à monter dans leurs chambres. "Le petit-déjeuner est servi aux premières lueurs," dit-elle chaleureusement, et ajoute : "N'hésitez pas à nous faire savoir si vous avez besoin d'autre chose."
 
-***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted Ireena to Vallaki, they earn an additional 250 XP. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
+***Jalon.*** Lorsque les joueurs prennent leur un long repos à Vallaki, accordez à chaque joueur 1 000 PX. (Cela devrait amener les joueurs au niveau 4.) Si les joueurs ont réussi à escorter Ireena jusqu'à Vallaki, ils gagnent 250 PX supplémentaires. (Les joueurs n'ont pas besoin d'amener Ireena à l'église Saint-Andral pour recevoir ces PX.)
 ## C12c. Morning in Vallaki
 ### Urwin's Advice
 When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
