@@ -1120,7 +1120,7 @@ Quand les joueurs arrivent pour la première fois, l'auberge contient les PNJ no
 * Brom et Bray Martikov, qui jouent avec des jouets dans **N20. Chambre des Garçons** ; et
 * Rictavio, qui raconte des histoires aux clients dans **N2c. Salle Commune**, y compris à Nikolai et Karl Wachter.
 
-![[Vallaki_Martikovs.png]]
+![[DOC-20260218002148222.png]]
 
 <span class="credit">"Les Martikov de l'Auberge de l'Eau Bleue" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
@@ -1167,7 +1167,7 @@ La salle commune est telle que décrite dans <span class="citation">N2c. Salle C
 </div>
 
 L'homme est le maître de cérémonie Rictavio, qui est en grande partie tel que décrit dans <span class="citation">Rictavio (p. 238)</span> et <span class="citation">N2c. Salle Commune (p. 100)</span>. Deux des cinq auditeurs à sa table sont Nikolai et Karl Wachter, qui sont tels que décrits dans <span class="citation">N2c. Salle Commune (p. 100)</span>.
-![[Rictavio.png]]
+![[DOC-20260218002148393.png]]
 <span class="credit">"Rictavio" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 Lorsque les joueurs entrent pour la première fois dans l'auberge, [[Non-Player Characters#Danika Dorakova|Danika]], qui sert aux tables, les salue et leur demande d'attendre au bar pendant qu'elle s'occupe des autres clients.
@@ -1314,7 +1314,7 @@ Alors que la conversation d'Urwin touche à sa fin, Rictavio descend les escalie
 
 > [!abstract]+ **Qu'y a-t-il dans le paquet ?**
 > Si on lui demande, Urwin peut informer les joueurs que le paquet contient simplement de la nourriture — quelques pommes, des miches de pain et une meule de fromage.
-### Suivre le Directeur de Cirque
+### Suivre le maître de cérémonie
 Si un ou plusieurs joueurs suivent Rictavio hors de l'Auberge de l'Eau Bleue, ils peuvent le suivre jusqu'à l'<span class="citation">N2f. Écurie (p. 101)</span> sans difficulté.
 
 Une fois à l'intérieur, Rictavio sort le paquet de son manteau, retire deux pommes et procède à les donner à manger à son cheval, Drusilla. Une fois que Drusilla a fini de manger, Rictavio vérifie ses alentours, forçant tout joueur caché à réussir un test de groupe de Dextérité (Discrétion) DD 18 ou être détecté.
@@ -1355,7 +1355,7 @@ Lorsque les joueurs quittent l'Auberge de l'Eau Bleue lors de leur premier matin
 * Le Baron insiste sur le fait qu'Udo a besoin de "réhabilitation" pour son "malheur malveillant", et suggère que la femme en a besoin aussi. Il ordonne à Izek de la saisir et de l'enfermer au pilori, suggérant que "quelques jours au pilori devraient lui délier la langue". Izek s'avance, fléchissant son bras diabolique avec une lueur cruelle dans les yeux.
 * Izek attrape la femme, la remet sur ses pieds et la pousse brutalement dans les bras des gardes qui attendent. Deux des gardes tirent les bras de la vieille femme derrière son dos et commencent à la tirer vers le sud alors qu'elle se débat, pleure et supplie pour la liberté de son fils. Aucun citadin n'ose l'aider.
 * Alors que la vieille femme est emmenée, le Baron se tourne vers les citadins qui l'entourent et annonce : "Que cela serve de leçon quant aux dangers du malheur malveillant ! La main du Diable est longue, mais notre joie vaincra son ombre."
-![[Izek Strazni.png]]
+![[DOC-20260218002148775.png]]
 <span class="credit">"Izek Strazni" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 > [!profile]+ **Profil : Baron Vargas Vallakovich**
@@ -1466,6 +1466,6 @@ Le conte de Stanimir indique la relation entre Strahd et les Vistani, présagean
 
 ***La Taxe.*** La taxe des gardes donne aux joueurs une raison supplémentaire de détester le Baron Vallakovich. Le tarif en argent indique également aux joueurs la richesse en armes et munitions argentées que le Baron a amassée.
 
-***L'Auberge de l'Eau Bleue.*** Cette séquence a été intentionnellement structurée pour introduire lentement et de manière gérable les joueurs à plusieurs des acteurs clés de Vallaki : les Martikov, les Wachter, les chasseurs de loups et le directeur de cirque Rictavio. Le conte de Rictavio a été écrit pour être aussi comique que raisonnablement possible afin de décourager les joueurs de le prendre au sérieux jusqu'à la révélation de son identité dans [[Arc E - The Missing Vistana]].
+***L'Auberge de l'Eau Bleue.*** Cette séquence a été intentionnellement structurée pour introduire lentement et de manière gérable les joueurs à plusieurs des acteurs clés de Vallaki : les Martikov, les Wachter, les chasseurs de loups et le maître de cérémonie Rictavio. Le conte de Rictavio a été écrit pour être aussi comique que raisonnablement possible afin de décourager les joueurs de le prendre au sérieux jusqu'à la révélation de son identité dans [[Arc E - The Missing Vistana]].
 
 ***Quitter l'Auberge.*** La rencontre des joueurs avec le Baron Vallakovich et Izek dans les rues de Vallaki a été ajoutée pour fournir aux joueurs une raison immédiate de ne pas les aimer, pour présenter aux joueurs le Père Lucian Petrovich, pour mettre en place la tension dramatique centrale du règne tyrannique du Baron sur Vallaki, pour lancer la poursuite d'Ireena par Izek, et pour fournir à Lady Fiona Wachter une raison exploitable d'inviter les joueurs dans ses machinations. **Il est essentiel que les joueurs ne combattent *pas* Izek ici, et toutes les précautions raisonnables ont été prises pour garantir cela.**
