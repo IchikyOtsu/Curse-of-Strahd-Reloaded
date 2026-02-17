@@ -1,184 +1,174 @@
-_An adventure for five 4th-level characters._
+_Une aventure pour cinq personnages de niveau 4._
 
-In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+Dans cet arc, les joueurs escortent Ireena Kolyana jusqu'à l'église Saint-Andral à Vallaki, accomplissant ainsi le vœu fait à son frère, Ismark. Cependant, le Père Lucian, le prêtre de l'église, les informe que les ossements de Saint Andral — la source de la magie protectrice de l'église — ont été récemment volés, mettant en péril ses protections et ses paroissiens.
 
-The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+Les joueurs ont jusqu'à la nuit de leur cinquième jour après leur arrivée à Vallaki pour identifier le voleur (le fossoyeur de l'église, Milivoj), traquer les ossements jusqu'à leur cachette (la boutique du fabricant de cercueils de Vallaki) et les remettre à leur place légitime dans l'église. Leur mission les amènera à entrer en conflit direct avec Volenta Popofsky, la plus sadique des épouses vampiriques de Strahd, et ses serviteurs vampiriens.
 
-Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
+Les joueurs pourront-ils déjouer le plan de Volenta et restaurer la protection de l'église ? Ou l'église sera-t-elle perdue dans les ténèbres et le sang, sa lumière vacillante étouffée dans les ombres ?
 
-> [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
-> 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
-> 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> [!abstract]+ **Un Départ Anticipé**
+> Si les joueurs amènent Ireena à l'église Saint-Andral lors de leur première nuit à Vallaki (c'est-à-dire le "jour zéro" à Vallaki), ils arrivent pour trouver le Père Lucian terminant un office pour sa congrégation. Après avoir rassuré Willemina Rikalova (voir [[Acte I - Dans les Brumes/Arc C - Dans la Vallée#Sortir de l'Auberge|Arc C - Dans la Vallée]] pour plus d'informations sur Willemina), le Père Lucian accueille les joueurs et Ireena à l'église et offre son aide.
+> 
+> S'il apprend qu'Ireena espère trouver refuge à l'église, le Père Lucian est heureux de lui offrir une paillasse pour dormir dans la chapelle. Après qu'Ireena a proposé de le dédommager pour sa gentillesse, le Père Lucian considère sa demande, puis l'invite à l'aider dans les corvées et l'éducation de Yeska pour la durée de son séjour — une demande qu'Ireena accepte gracieusement.
+> 
+> Le lendemain matin, après le vol des ossements de Saint Andral décrit ci-dessous, Ireena rend visite aux joueurs à l'Auberge de l'Eau Bleue avant leur conversation avec Urwin Martikov décrite dans [[Acte I - Dans les Brumes/Arc C - Dans la Vallée#Conseil d'Urwin|Arc C - Dans la Vallée]] et leur demande de se rendre à l'église pour parler au Père Lucian d'un "incident". (Le Père Lucian lui a demandé de ne pas parler de l'incident en dehors de l'église, de peur de provoquer une panique.) Le reste de cet arc se déroule ensuite normalement.
 
-> [!info]+ **Want a Hand?** 
-> Want access to a Discord community of _Reloaded_ DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") 
-> for: 
-> * Discord access (Bronze+) 
-> * Developer commentary blogs (Silver+) 
-> * Personal campaign help (Gold+) 
-> * One-on-one live mentorship and session prep (Platinum+)
+> [!info]+ **Besoin d'un coup de main ?** 
+> Vous voulez accéder à une communauté Discord de MJs de _Reloaded_, à une aide de campagne à la demande de la part de l'auteur, et à une préparation de session et un mentorat en tête-à-tête ? Consultez le [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") de l'auteur
+> pour : 
+> * Accès Discord (Bronze+) 
+> * Blogs de commentaires des développeurs (Argent+) 
+> * Aide personnelle pour la campagne (Or+) 
+> * Mentorat en direct et préparation de session en tête-à-tête (Platine+)
 
-# D1. St. Andral's Church
-<span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
+# D1. Église Saint-Andral
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N1.</em></span>
 
-The church is largely as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>.
+L'église est en grande partie telle que décrite en <span class="citation">N1. Église Saint-Andral (p. 97)</span>.
 
-The church's occupants follow the following schedule unless interrupted:
+Les occupants de l'église suivent l'emploi du temps suivant, sauf interruption :
 
-* At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
-* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
-* In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
-* In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
+* À l'aube, Yeska rejoint le Père Lucian pour les prières dans la chapelle et l'aide à préparer le petit-déjeuner.
+* Le matin, Yeska fait des courses dans Vallaki pendant que le Père Lucian balaie la chapelle, époussette les bancs, polit l'autel et range la cuisine.
+* L'après-midi, le Père Lucian apprend à lire à Yeska et l'instruit en histoire élémentaire et en théologie.
+* Le soir, avec l'aide de Yeska, le Père Lucian guide la congrégation dans la prière et prononce un sermon promettant refuge et réconfort.
 
-> [!profile]+ **Profile: Father Lucian Petrovich**
+> [!profile]+ **Profil : Père Lucian Petrovich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Father Lucian should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
+> **Informations d'Interprétation**
+> ***Résonance.*** Le Père Lucian doit inspirer la gratitude par son hospitalité, la flatterie par sa volonté d'écouter et de faire preuve d'empathie, le réconfort par sa chaleur, sa sérénité et sa sagesse, et la sympathie par son anxiété concernant les ossements disparus et la sécurité de sa congrégation.
 >
-> ***Emotions.*** Father Lucian’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+> ***Émotions.*** Les émotions les plus fréquentes du Père Lucian sont la prévenance, l'espoir, l'inquiétude et la compassion.
 >
-> ***Motivations.*** Father Lucian wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best he can.
+> ***Motivations.*** Le Père Lucian veut garder le moral de Vallaki au beau fixe, maintenir l'église comme un lieu de refuge et de réconfort, et élever Yeska du mieux qu'il peut.
 >
-> ***Inspirations.*** When playing Father Lucian, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
+> ***Inspirations.*** Lorsque vous jouez le Père Lucian, canalisez l'Oncle Iroh (*Avatar : Le dernier maître de l'air*), Michael Carpenter et le Père Forthill (*Les Dossiers Dresden*), et Mr. Rogers (*Mr. Rogers' Neighborhood*).
 >
-> **Character Information**
+> **Informations sur le Personnage**
 >
-> ***Persona.*** To strangers, Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Lucian is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Lucian harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
+> ***Personnalité.*** Pour les étrangers, le Père Lucian est un prêtre serein, humble et compatissant qui est toujours heureux de partager un mot d'éloge ou quelques perles de sagesse. Pour ceux en qui il a confiance, le Père Lucian est un défenseur dévoué et inébranlable de sa communauté, qui s'inquiète néanmoins de sa capacité à assurer la sécurité de ses fidèles. Au fond de lui, le Père Lucian nourrit un soupçon de doute sur la providence et la puissance du Seigneur du Matin, se demandant si le réveil de Strahd est un test de la foi des Baroviens ou un signe que la terre est abandonnée pour toujours.
 >
-> ***Morale.*** In a fight, Father Lucian would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
+> ***Moral.*** Dans un combat, le Père Lucian préférerait dissuader ses agresseurs, se rendant pacifiquement si nécessaire pour éviter une effusion de sang inutile. Cependant, si une vie innocente ou les membres de sa congrégation étaient menacés, il se battrait jusqu'à la mort avec une prière sur les lèvres et la paix dans le cœur.
 >
-> ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+> ***Relations.*** Le Père Lucian est un mentor et une figure paternelle pour l'orphelin et enfant de chœur Yeska, l'employeur du fossoyeur Milivoj, le frère de la Baronne Lydia Petrovna, et le descendant lointain de Tasha Petrovna, une ancienne clerc du Seigneur du Matin dont les restes sont conservés dans les catacombes du Château Ravenloft.
 
-> [!lore]+ **The Stolen Bones**
-> Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
- >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+> [!lore]+ **Les Ossements Volés**
+> Bien qu'il ait aidé la Maison Von Zarovich à accéder au pouvoir, Saint Andral est ironiquement resté un ennemi féroce et puissant des morts-vivants toute sa vie. En tant que Grand Prêtre de l'église du Seigneur du Matin, Andral a dirigé de féroces croisades contre les morts-vivants qui rodaient dans les endroits sombres du royaume du Roi Barov, les éradiquant partout où ils pouvaient être trouvés.
+> 
+> Si grande était sa haine de la non-vie que, dans ses dernières heures, Saint Andral fit le vœu que son lieu de repos serait à jamais un sanctuaire contre les forces des ténèbres. Depuis lors, ses ossements ont été inhumés dans la crypte sous l'église de Vallaki, ses prêtres accomplissant un rituel annuel à l'aube de chaque année lors de son jour saint - le jour de la Fête de Saint Andral. Tant que ce rite est accompli, l'église reste une terre consacrée pour une année supplémentaire, comme décrit dans <span class="citation">Ossements de Saint Andral (p. 97)</span>.
+> 
+> Lorsque Strahd s'est réveillé de sa récente hibernation, son épouse vampirique Volenta Popofsky a décidé de l'impressionner de la seule manière qu'elle connaissait : par un étalage gratuit de souffrance, de carnage et de terreur. Quel meilleur endroit, pensa-t-elle, qu'un massacre macabre à l'église Saint-Andral la nuit de sa fête la plus sacrée ?
+> 
+> Ce fut une nuit sombre et venteuse lorsque Volenta rendit visite à Henrik van der Voort, le fabricant de cercueils de Vallaki. Trouvant un plaisir macabre dans le décor, et trouvant le solitaire Henrik une cible parfaite pour ses complots, Volenta menaça poliment de brûler sa boutique jusqu'aux fondations à moins qu'il ne l'autorise à l'utiliser comme base pour ses machinations.
+> 
+> Un Henrik terrifié capitula rapidement, et Volenta établit un lien avec le brasero de téléportation dans les donjons du Château Ravenloft. Utilisant ce lien, elle invoqua deux **vampiriens** féraux — d'anciens membres de la rébellion de Doru rendus fous par la soif de sang — et un trio de caisses remplies de terre de tombe pour s'y reposer.
+> 
+> Vestige d'un âge plus ancien, Volenta savait que les restes de Saint Andral conféraient à l'église sa protection bénie. Elle ordonna à Henrik de trouver et de voler ces ossements avant la nuit de la Fête de Saint Andral - par tous les moyens nécessaires.
+> 
+> De par sa profession, Henrik avait rencontré Milivoj — le fossoyeur de l'église — à plus d'une occasion. Il savait que Milivoj connaissait bien les occupants et la disposition de l'église, que Milivoj ne faisait pas grand cas de la foi du Seigneur du Matin, et — plus important encore — que Milivoj avait une flopée de jeunes frères et sœurs qu'il cherchait désespérément à nourrir.
+> 
+> Puisant dans ses propres économies, Henrik approcha Milivoj avec une histoire et une offre. Saint Andral, prétendit Henrik, était un ancêtre de la propre famille d'Henrik — et dont Henrik était impatient de réclamer les restes. "En ces temps sombres", dit Henrik sombrement, "nous voulons tous avoir nos familles à portée de main."
+> 
+> Henrik raconta à Milivoj que sa famille cherchait les restes de Saint Andral depuis des siècles — mais qu'il n'avait appris que récemment qu'ils se trouvaient quelque part dans l'église. Sans doute, affirma-t-il, le bon Père Lucian répugnerait à céder une telle relique, bien que leur seule véritable valeur fût sentimentale.
+> 
+> C'est là que Milivoj intervenait. En échange d'un paiement de quinze pièces d'électrum, Milivoj devait trouver et récupérer les restes d'Andral. Les vieilles légendes, nota Henrik, indiquaient que ces restes portaient la bénédiction de Saint Andral, sanctifiant l'église contre le mal — bien qu'il doutât personnellement qu'elles fussent vraies. Il suggéra cependant à Milivoj d'utiliser ces légendes comme excuse pour s'enquérir de l'emplacement des restes, soit auprès du Père Lucian, soit auprès de Yeska, l'enfant de chœur. ("Bien sûr", nota Henrik avec un petit rire sec, "je suis à peu près certain d'avoir vu Izek Strazni entrer dans l'église, alors peut-être que ces légendes ont perdu de leur éclat pour une bonne raison, hein ?")
+> 
+> Milivoj, désireux d'obtenir des fonds pour s'occuper de ses frères et sœurs, fut facilement convaincu de voler ces "vieilles reliques moisies" et accepta bientôt l'offre d'Henrik. Il savait que Yeska, récemment orphelin, était un enfant timide et peureux qui comptait sur le Père Lucian pour sa sécurité et son réconfort. Bien qu'il ne pût échapper à la culpabilité qu'il ressentait à l'idée d'exploiter la peur du garçon, Milivoj décida que quelques nuits de cauchemars pour Yeska étaient un prix raisonnable à payer pour s'assurer que sa propre famille ait de quoi manger.
+> 
+> Six jours plus tard, peu avant les leçons de Yeska avec le Père Lucian, Milivoj se demanda à haute voix devant le garçon si Strahd pourrait attaquer l'église avec une armée de vampires et de démons. "J'ai entendu dire que les vampires détestent le soleil", dit Milivoj d'un ton sombre alors que le visage de Yeska pâlissait. "Et si le Diable venait ici, que pourrions-nous bien faire pour l'arrêter ?"
+> 
+> Lorsque la leçon de Yeska commença peu après, Milivoj écouta aux portes — et jubila silencieusement lorsque le Père Lucian révéla l'emplacement des ossements sous l'autel. Cette même nuit, un Milivoj encapuchonné et vêtu d'une cape retourna à l'église sa pelle à la main, se faufilant dans la chapelle obscure et forçant l'ouverture de la crypte qui se cachait en dessous.
+> 
+> Mais une latte de plancher qui éclata le trahit — et lorsque Milivoj émergea de la crypte, le Père Lucian surgit pour bloquer la sortie. Sans le reconnaître, le Père Lucian exigea que l'intrus révèle son visage et abandonne ce qu'il avait volé. Milivoj paniqua et s'enfuit par l'une des fenêtres en verre de l'église, la brisant. Milivoj livra ensuite les ossements à Henrik, qui le paya.
+> 
+> Yeska ne sait pas encore que les ossements ont été volés. Au lieu de cela, le Père Lucian lui a seulement dit qu'une branche d'arbre cassée s'était écrasée à travers la fenêtre, brisant le verre et endommageant le sol. À l'aube suivante, le Père Lucian envoya Yeska à la boutique d'Henrik pour obtenir des planches et des clous pour la réparation, qu'Henrik livra personnellement pour voir si Lucian soupçonnait son implication.
+> 
+> Le Père Lucian ne sait pas qui a volé les ossements ni pourquoi. Bien qu'il ait doucement interrogé Yeska pour savoir s'il avait parlé des ossements à quelqu'un, Yeska lui a dit la vérité en affirmant que non. Le Père Lucian n'a pas pu en discerner davantage de sa propre brève inspection de la scène du crime. Avec la date de la reconsécration approchant à grands pas, cependant, il craint le pire.
 > 
-> When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
-> 
-> It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
-> 
-> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
-> 
-> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
-> 
-> Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
-> 
-> Digging into his own savings for funds, Henrik approached Milivoj with a story and an offer. St. Andral, Henrik claimed, was an ancestor of Henrik's own family—and one whose remains Henrik was anxious to claim. "In these darkened times," Henrik said somberly, "we all want our families close at hand."
-> 
-> Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
-> 
-> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
-> 
-> Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Lucian for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
-> 
-> Six days later, shortly before Yeska's lessons with Father Lucian, Milivoj wondered aloud in front of the boy whether Strahd might attack the church with an army of vampires and demons. "I heard vampires hate the sun," Milivoj said darkly as Yeska's face paled. "And if the Devil came here, what could we possibly do to stop him?"
-> 
-> When Yeska's lesson began shortly thereafter, Milivoj eavesdropped outside the door—and silently cheered when Father Lucian revealed the bones' location beneath the altar. That same night, a cloaked and hooded Milivoj returned to the church with his shovel in hand, creeping through the darkened chapel and forcing open the crypt that lurked below.
-> 
-> But a splintering floorboard betrayed him—and when Milivoj emerged from the crypt, Father Lucian emerged to block the exit. Without recognizing him, Father Lucian demanded the intruder reveal his face and relinquish what he had stolen. Milivoj panicked and fled through one of the church's glass windows, shattering it. Milivoj then delivered the bones to Henrik, who paid him.
-> 
-> Yeska doesn't yet know that the bones were stolen. Instead, Father Lucian told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, Father Lucian sent Yeska to Henrik's shop to obtain planks and nails for the repair, which Henrik delivered personally to scope out whether Lucian suspected his involvement.
-> 
-> Father Lucian doesn't know who stole the bones or why. Though he gently interrogated Yeska as to whether he told anyone about the bones, Yeska truthfully told him that he hadn't. Father Lucian has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
-## D1a. Entering the Church
-When the players first move to enter the church after the bones have been stolen, Henrik van der Voort emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
-
-Whether the player succeeds or fails, the near-impact makes Henrik trip, sending him tumbling to the ground. As he does, he loses his hold on a bundle of nails and planks held in his arms, which scatter across the stairs and earth below. The farsighted Henrik also loses his pair of half-cracked spectacles in the fall, which land across the steps a short ways beneath him.
-
-The players can help Henrik collect his glasses, nails, and planks as he scrambles helplessly to find them. If they do, he thanks them profusely, dabbing at his face and hands with a slightly soiled handkerchief. He is willing to share the following information if directly asked:
-
-* His name is Henrik van der Voort, and he is Vallaki's resident coffin-maker and occasional carpenter.
-* Father Lucian asked him to visit to deliver some tools and supplies to repair some damage to the floor caused by a falling tree branch the previous night.
-* His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
-
-Henrik then excuses himself and departs to return to his shop.
-## D1b. The Chapel
-When the players first enter this area, read:
+## D1b. La Chapelle
+Lorsque les joueurs entrent pour la première fois dans cette zone, lisez :
 
 <div class="description">
-<p>A dozen ornate candelabras bathe rows of well-kept pews in candlelight, casting a soft luminescence that touches every corner of this chapel. At the far end of the room, a wooden altar stands proudly, carved with a proud sunburst with rays thrusting forth in cheery defiance.  Six tall windows flank the altar, though one appears to have been broken, with glass shards lining its dark iron pane like jagged teeth.</p>
-<p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
+<p>Une douzaine de candélabres ornés baignent les rangées de bancs bien entretenus à la lueur des bougies, projetant une douce luminescence qui touche chaque recoin de cette chapelle. À l'autre bout de la pièce, un autel en bois se dresse fièrement, sculpté d'un soleil éclatant dont les rayons jaillissent avec une joyeuse défiance. Six hautes fenêtres flanquent l'autel, bien que l'une d'elles semble avoir été brisée, des éclats de verre bordant son cadre en fer sombre comme des dents déchiquetées.</p>
+<p>Un jeune homme aux épaules larges et aux cheveux noirs se tient sur un petit escabeau devant la fenêtre brisée, clouant une bâche pour la couvrir, tandis qu'un jeune garçon balaie le sol de la chapelle non loin de là. Un prêtre d'âge moyen, aux cheveux grisonnants et aux vêtements nets et propres, les regarde travailler depuis les bancs, tenant son propre balai et semblant perdu dans ses pensées.</p>
 </div>
 
-The young man is Milivoj, who is as described in <span class="citation">N1. St. Andral's Church (p. 97)</span>. The priest is Father Lucian Petrovich. The boy is Yeska.
+Le jeune homme est Milivoj, tel que décrit en <span class="citation">N1. Église Saint-Andral (p. 97)</span>. Le prêtre est le Père Lucian Petrovich. Le garçon est Yeska.
 
 ![[Father Lucian Petrovich.png]]
-<span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Father Lucian Petrovich" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-When the players first meet [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]], he greets them warmly, recognizing them as newcomers to Vallaki, welcoming them to St. Andral's Church, and asking if they have come seeking fellowship or to pray to the Morninglord.
+Lorsque les joueurs rencontrent [[Non-Player Characters#Father Lucian Petrovich|Père Lucian]] pour la première fois, il les accueille chaleureusement, les reconnaissant comme des nouveaux venus à Vallaki, leur souhaitant la bienvenue à l'église Saint-Andral et leur demandant s'ils sont venus chercher la communion ou prier le Seigneur du Matin.
 
-After the players have exchanged pleasantries, Milivoj dismounts his stepladder and returns it to Father Lucian. The following exchange then takes place, giving the players generous time and opportunity to interrupt and respond:
+Après que les joueurs ont échangé des politesses, Milivoj descend de son escabeau et le rend au Père Lucian. L'échange suivant a alors lieu, donnant aux joueurs amplement de temps et d'occasions pour interrompre et répondre :
 
-* Upon noticing the players, Milivoj immediately scowls, and asks, "Father, are these outsiders bothering you? I can ask them to leave."
-* If the players say nothing, Father Lucian chides Milivoj, noting that, "In these dark times, it's never been more important to be hospitable to others."
-* If rebuffed, Milivoj retorts: "You can't be too sure about strangers. I thought the town gates were supposed to be closed. They could be vampires, or worse." He then glowers at the players, and asks, "Unless you have some way of proving that you're not?"
+* En remarquant les joueurs, Milivoj se renfrogne immédiatement et demande : "Père, est-ce que ces étrangers vous importunent ? Je peux leur demander de partir."
+* Si les joueurs ne disent rien, le Père Lucian réprimande Milivoj, notant que : "En ces temps sombres, il n'a jamais été aussi important d'être hospitalier envers les autres."
+* S'il est repoussé, Milivoj rétorque : "On n'est jamais trop prudent avec les étrangers. Je pensais que les portes de la ville étaient censées être fermées. Ils pourraient être des vampires, ou pire." Il lance ensuite un regard noir aux joueurs et demande : "À moins que vous n'ayez un moyen de prouver que vous ne l'êtes pas ?"
 
-Milivoj is eager to prevent further investigation of the church, and hopes to persuade Father Lucian to drive the players away. However, he's not willing to look suspicious, and drops the issue if the players or Father Lucian push back. "You can't be too careful," he mumbles. "Be safe, Father." He then departs.
+Milivoj est impatient d'empêcher toute enquête plus approfondie sur l'église et espère persuader le Père Lucian de chasser les joueurs. Cependant, il ne veut pas paraître suspect et abandonne le sujet si les joueurs ou le Père Lucian s'y opposent. "On n'est jamais trop prudent", marmonne-t-il. "Soyez prudent, Père." Il part ensuite.
 
-Once Milivoj leaves, if Father Lucian is informed that Ireena is seeking sanctuary in the church from Strahd or other monsters, he first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
+Une fois Milivoj parti, si le Père Lucian est informé qu'Ireena cherche refuge à l'église contre Strahd ou d'autres monstres, il s'assure d'abord qu'aucun autre fidèle n'est présent — chassant Yeska s'il est là — et fait jurer le secret aux joueurs.
 
-If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
+Si les joueurs acceptent de ne pas divulguer ses paroles au-delà de l'église, le Père Lucian les informe avec tristesse que, bien qu'il ne souhaiterait rien de plus que d'offrir à Ireena un abri permanent, les récents événements ont laissé les protections de l'église dans un état précaire. Il peut également partager les informations supplémentaires suivantes à la demande des joueurs :
 
-* The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
-* The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
-* To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
-* If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
-* Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
-* Father Lucian is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though the Baron is confident that no monsters could breach Vallaki's walls, Father Lucian fears that the town is not as safe as it appears.
+* L'église est ordinairement une terre consacrée, comme si le bâtiment était protégé par un sort de *sanctification*. Cette protection magique empêche les fiélons et les morts-vivants d'entrer dans l'église, et les empêche de charmer, d'effrayer ou de posséder magiquement ceux qui s'y trouvent.
+* La source de cette protection est la crypte de Saint Andral, qui a historiquement abrité les ossements bénis d'Andral lui-même, le fondateur de l'église de Vallaki et un grand clerc du Seigneur du Matin.
+* À l'origine, seul le Père Lucian connaissait l'existence des ossements. Cependant, après que les nouvelles du siège de Barovie ont atteint Vallaki il y a quelques jours, il a partagé la connaissance des ossements avec Yeska, comme décrit dans <span class="citation">Ossements de Saint Andral (p. 97)</span>.
+* Pour conserver la protection de l'église, le Père Lucian doit invoquer un rite de protection particulier sur les ossements de Saint Andral une fois par an, à l'aube du matin de la Fête de Saint Andral — un jour saint qui commémore la vie d'Andral.
+* Si le rite ne peut être accompli à ce moment-là, les protections tomberont jusqu'à ce que le rite soit accompli lors d'une aube ultérieure.
+* La nuit dernière, quelqu'un s'est introduit dans la crypte de l'église et a volé les ossements de Saint Andral, endommageant les planches du sol derrière l'autel et s'enfuyant par une fenêtre. Sans les ossements, le Père Lucian ne peut pas accomplir le rite protecteur, et les protections tomberont à l'aube du jour de la Fête de Saint Andral.
+* Le Père Lucian craint qu'une créature maléfique ou une âme perverse n'ait fabriqué cette crise pour avoir l'occasion de nuire à sa congrégation ; bien que le Baron soit convaincu qu'aucun monstre ne pourrait franchir les murs de Vallaki, le Père Lucian craint que la ville ne soit pas aussi sûre qu'il n'y paraît.
 
-Father Lucian can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He does not suspect Milivoj of stealing the bones either, having no reason to do so.
+Le Père Lucian peut également communiquer la date de la Fête de Saint Andral, qui aura lieu le cinquième jour après l'arrivée des joueurs à Vallaki. Il n'a pas signalé le vol des ossements pour les raisons décrites dans <span class="citation">Ossements de Saint Andral (p. 97)</span>. Il ne soupçonne pas non plus Milivoj d'avoir volé les ossements, n'ayant aucune raison de le faire.
 
-If the players express an interest in doing so, Father Lucian is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview Yeska, so long as they promise to be patient and gentle with the boy. 
+Si les joueurs expriment un intérêt à le faire, le Père Lucian est heureux de les laisser inspecter la scène du crime — n'y ayant lui-même rien compris — et d'interroger Yeska, tant qu'ils promettent d'être patients et doux avec le garçon.
 
-If the players ask for the identities of other possible witnesses, Father Lucian notes that the only other employee of the church is the groundskeeper, Milivoj. Father Lucian can give the players directions to Milivoj’s house, which is located in the northwestern quarter of Vallaki.
+Si les joueurs demandent l'identité d'autres témoins possibles, le Père Lucian note que le seul autre employé de l'église est le fossoyeur, Milivoj. Le Père Lucian peut donner aux joueurs les indications pour se rendre à la maison de Milivoj, qui est située dans le quartier nord-ouest de Vallaki.
 
-Father Lucian accompanies the players as they complete their investigation, answering additional questions when asked. If the players' investigation takes them beyond the church, he insists on joining them and asks Yeska to attend the chapel in his absence. (He takes personal responsibility for the bones' disappearance, and—given his connections across the town and his service to the Morninglord—wishes to assist the players in recovering them.)
+Le Père Lucian accompagne les joueurs pendant qu'ils terminent leur enquête, répondant aux questions supplémentaires si on le lui demande. Si l'enquête des joueurs les mène au-delà de l'église, il insiste pour se joindre à eux et demande à Yeska de s'occuper de la chapelle en son absence. (Il prend la responsabilité personnelle de la disparition des ossements et — étant donné ses relations à travers la ville et son service au Seigneur du Matin — souhaite aider les joueurs à les récupérer.)
 
-While accompanying the party, Father Lucian fights alongside them, but allows the players to take the lead in social encounters and exploration.
+Tout en accompagnant le groupe, le Père Lucian combat à leurs côtés, mais laisse les joueurs prendre l'initiative dans les rencontres sociales et l'exploration.
 
-> [!warning]+ **Father Lucian's Aid**
-> Without Father Lucian's assistance—and, specifically, the damage output and radiant damage provided by his *spirit guardians* spell and ***divine eminence*** feature—the battle at the coffin-maker's shop in [[#D4c. Volenta's Trap]] is nearly impossible. To avoid a TPK, ensure he accompanies the players upon their departure from the church.
-## D1c. The Scene of the Crime
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] is glad to lead the players to the location of the crypt if prompted. Read:
+> [!warning]+ **L'Aide du Père Lucian**
+> Sans l'aide du Père Lucian — et, spécifiquement, la capacité de dégâts et les dégâts radiants fournis par son sort *esprits gardiens* et son aptitude ***éminence divine*** — la bataille à la boutique du fabricant de cercueils dans [[#D4c. Le Piège de Volenta|D4c. Le Piège de Volenta]] est presque impossible. Pour éviter un TPK, assurez-vous qu'il accompagne les joueurs lors de leur départ de l'église.
 
-<div class="description">
-<p>A small pile of fresh wooden boards rests against the altar, a small pouch of nails sitting atop their surface. Not far away, the old wooden floorboards behind the crypt have been pried up and broken, with splintered edges jutting out at odd angles. Between them, a small, dark opening descends into a dark, dusty space.</p>
-</div>
-
-The fresh boards and nails were delivered by Henrik. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
-
-The crypt is as described in <span class="citation">Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+## D1c. La Scène du Crime
+[[Non-Player Characters#Father Lucian Petrovich|Père Lucian]] est heureux de conduire les joueurs à l'emplacement de la crypte s'il y est invité. Lisez :
 
 <div class="description">
-<p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
+<p>Une petite pile de planches de bois neuves repose contre l'autel, un petit sac de clous posé sur leur surface. Non loin de là, les vieilles planches du plancher derrière la crypte ont été soulevées et brisées, avec des bords éclatés dépassant à des angles étranges. Entre elles, une petite ouverture sombre descend dans un espace obscur et poussiéreux.</p>
 </div>
 
-The slab held the bones until Milivoj stole them.
+Les planches neuves et les clous ont été livrés par Henrik. L'ouverture est à peine assez large pour permettre à une personne d'entrer et descend dans la crypte.
 
-The players can find the following information by investigating the area around the crypt:
+La crypte est telle que décrite dans <span class="citation">Ossements de Saint Andral (p. 97)</span>, s'étendant en grande partie sous l'autel de la chapelle. Si un joueur entre dans la crypte, lisez :
 
-* While investigating the floorboards, the players can find a torn piece of gray wool fabric snagged on a nail with a successful DC 15 Intelligence (Investigation) check, and a line of rust-stained dirt smeared across a floorboard with a successful DC 20 Wisdom (Perception) check. 
-* While investigating the interior of the crypt, the players can find several clumps of earth with a successful DC 10 Wisdom (Perception) check. Each clump is in the shape of a large bootprint, and contains several blades of pale green grass and white flower petals. 
+<div class="description">
+<p>Vous descendez dans une petite chambre sombre et humide, aux murs faits de blocs de pierre brute tachés par l'âge et l'humidité. Au centre se dresse une dalle de pierre solitaire, une dépression circulaire vide sculptée proprement dans sa surface.</p>
+</div>
 
-* While investigating the altar or the stone slab in the crypt, the players can find a few strands of dark black hair with a DC 15 Wisdom (Perception) check. 
+La dalle contenait les ossements jusqu'à ce que Milivoj les vole.
 
-The fabric was torn from Milivoj's shirt as he lowered himself down, and the rust was left when he used his shovel to pry up the floorboards.
+Les joueurs peuvent trouver les informations suivantes en enquêtant sur la zone autour de la crypte :
 
-The clumps of earth were left when Milivoj's boots hit the floor of the crypt. Father Lucian can inform the players that the petals are from the ramson plant, which grow in several patches in the church graveyard.
+* En examinant les planches du sol, les joueurs peuvent trouver un morceau de tissu de laine grise déchiré accroché à un clou avec un test d'Intelligence (Investigation) DD 15 réussi, et une trace de terre tachée de rouille étalée sur une planche avec un test de Sagesse (Perception) DD 20 réussi.
+* En examinant l'intérieur de la crypte, les joueurs peuvent trouver plusieurs mottes de terre avec un test de Sagesse (Perception) DD 10 réussi. Chaque motte a la forme d'une grande empreinte de botte et contient quelques brins d'herbe vert pâle et des pétales de fleurs blanches.
+* En examinant l'autel ou la dalle de pierre dans la crypte, les joueurs peuvent trouver quelques mèches de cheveux noirs foncés avec un test de Sagesse (Perception) DD 15.
 
-The hair is Milivoj's.
-## D1d. Interviewing Yeska
-If the players choose to interview Yeska, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] asks them not to press him too hard for information. The boy is still emotionally fragile from the death of his parents three months ago, and Father Lucian doesn't wish to harm his mental well-being over a mere suspicion of danger. (Yeska doesn't know that the bones have been stolen; Father Lucian has been careful to keep him away from the hole behind the altar.)
+Le tissu a été déchiré de la chemise de Milivoj alors qu'il descendait, et la rouille a été laissée lorsqu'il a utilisé sa pelle pour soulever les planches.
 
-If one of the players asks Yeska whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with Father Lucian, Yeska shares that Milivoj was also in the church at that time. (Yeska, though alarmed by the direction of the conversation, can also be persuaded to share that Milivoj's tales of Strahd potentially attacking the church encouraged him to ask Father Lucian about the church's protection in the first place.)
+Les mottes de terre ont été laissées lorsque les bottes de Milivoj ont touché le sol de la crypte. Le Père Lucian peut informer les joueurs que les pétales proviennent de l'ail des ours, qui pousse en plusieurs endroits dans le cimetière de l'église.
+
+Les cheveux sont ceux de Milivoj.
+
+## D1d. Interroger Yeska
+Si les joueurs choisissent d'interroger Yeska, [[Non-Player Characters#Father Lucian Petrovich|Père Lucian]] leur demande de ne pas trop le presser pour obtenir des informations. Le garçon est encore émotionnellement fragile suite à la mort de ses parents il y a trois mois, et le Père Lucian ne souhaite pas nuire à son bien-être mental pour un simple soupçon de danger. (Yeska ne sait pas que les ossements ont été volés ; le Père Lucian a pris soin de le tenir éloigné du trou derrière l'autel.)
+
+Si l'un des joueurs demande à Yeska s'il a parlé des ossements à quelqu'un d'autre, il nie sincèrement l'avoir fait. Cependant, si les joueurs demandent si quelqu'un aurait pu entendre sa conversation avec le Père Lucian, Yeska partage que Milivoj était également dans l'église à ce moment-là. (Yeska, bien qu'alarmé par la direction de la conversation, peut également être persuadé de révéler que les histoires de Milivoj sur Strahd attaquant potentiellement l'église l'ont encouragé à interroger le Père Lucian sur la protection de l'église en premier lieu.)
 
 ![[Yeska.png]]
-<span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Yeska" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 # D2. Milivoj’s House
 Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
 
