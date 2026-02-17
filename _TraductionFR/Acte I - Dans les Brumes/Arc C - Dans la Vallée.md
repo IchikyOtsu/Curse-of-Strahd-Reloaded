@@ -1185,7 +1185,7 @@ Avant qu'Urwin ne puisse répondre aux joueurs, Danika revient et s'excuse aupr�
 
 Danika indique ensuite aux joueurs les tarifs pour le gîte et le couvert, tels qu'indiqués dans <span class="citation">N2. Auberge de l'Eau Bleue (p. 98)</span>. (La grande chambre d'amis, <span class="citation">N2m. Chambre d'amis (p. 102)</span>, ainsi que les deux petites chambres d'amis, <span class="citation">N2l. Chambres d'amis (p. 102)</span>, sont disponibles à la location.) Quand Urwin revient, il propose de prendre les commandes des joueurs pour le dîner, en supposant qu'ils aient faim.
 
-Les joueurs ont alors quelques minutes pour parler avec Urwin et Danika ou entre eux. Durant cette conversation, Urwin et Danika peuvent fournir aux joueurs des informations sur Rictavio, la Fête du Soleil Éclatant (qui aura lieu dans cinq jours à midi), et le camp Vistani voisin, comme décrit dans <span class="citation">Vallaki Lore (p. 96)</span>.
+Les joueurs ont alors quelques minutes pour parler avec Urwin et Danika ou entre eux. Durant cette conversation, Urwin et Danika peuvent fournir aux joueurs des informations sur Rictavio, la Fête du Soleil Flamboyant (qui aura lieu dans cinq jours à midi), et le camp Vistani voisin, comme décrit dans <span class="citation">Vallaki Lore (p. 96)</span>.
 
 Urwin et Danika peuvent tous deux fournir des indications vers n'importe quel point de repère majeur dans Vallaki, y compris **N1. Église Saint-Andral**, **N5. Entrepôt Arasek**, et **N8. Place de la ville**. Si les joueurs posent des questions sur l'autre client de l'auberge, Urwin et Danika peuvent également partager des informations sur Rictavio, qui sont en grande partie telles que décrites dans <span class="citation">N2c. Salle Commune (p. 100)</span>, sauf que Rictavio est arrivé pour la première fois ce matin même.
 
@@ -1256,7 +1256,7 @@ Tout joueur qui regarde Rictavio se diriger le long du **N2j. Grand Balcon** le 
 ### Les Frères Wachter
 Si les joueurs s'attardent à la table de Rictavio, les frères Wachter sont heureux (si on les pousse) de râler à propos de :
 
-- la Fête du Soleil Éclatant,
+- la Fête du Soleil Flamboyant,
 - l'histoire récente des festivals de Vallaki,
 - la réponse du Baron à ceux qui disent du mal des festivals, et
 - les éclairs de lumière violette qui ont été vus depuis le grenier du **N3. Manoir du Bourgmestre**
@@ -1301,7 +1301,7 @@ Lorsque les joueurs sortent pour la première fois de leurs chambres sur le <spa
 
 Baissant la voix, Urwin prévient les joueurs qu'ils doivent être prudents à Vallaki — tant en raison du système sévère d'application de la loi de la ville que des récentes tensions politiques. Urwin peut partager les informations supplémentaires suivantes, comme décrit dans <span class="citation">Vallaki Lore (p. 96)</span> :
 
-* La date de la Fête du Soleil Éclatant, qui aura lieu de l'aube à midi du cinquième jour complet des joueurs à Vallaki,
+* La date de la Fête du Soleil Flamboyant, qui aura lieu de l'aube à midi du cinquième jour complet des joueurs à Vallaki,
 * L'histoire récente des festivals de Vallaki,
 * Les règles strictes du Baron concernant ses festivals — et le sort de ceux qui en disent du mal,
 * La nature brutale et la force terrible d'Izek Strazni, l'homme de main du baron. ("Beaucoup ont essayé de tester sa force," note Urwin d'un air sombre. "Tous ont échoué.")
@@ -1411,7 +1411,7 @@ Le Baron se demande aussi à voix haute s'il devrait punir les joueurs pour leur
 
 Le Baron ordonne impérieusement qu'il y veille, puis informe les joueurs qu'ils l'ont attrapé "de bonne humeur", et qu'ils devraient être reconnaissants pour "la miséricorde du Seigneur du Matin". Il les prévient, cependant, que toute infraction future à la loi sera sanctionnée par des punitions sévères.
 
-***Départ.*** Alors que le Baron quitte la scène, il annonce à la foule : "Je m'attends à vous voir tous à la Fête du Soleil Éclatant dans quatre jours. Tout ira bien !"
+***Départ.*** Alors que le Baron quitte la scène, il annonce à la foule : "Je m'attends à vous voir tous à la Fête du Soleil Flamboyant dans quatre jours. Tout ira bien !"
 
 Les citadins, arborant des sourires qui ressemblent davantage à des grimaces, entonnent sombrement : "Tout ira bien." Le Baron hoche la tête, visiblement satisfait, et continue de chevaucher vers le nord, suivi d'Izek, de ses mastiffs et de tous les gardes restants. L'activité de la rue reprend peu après.
 
