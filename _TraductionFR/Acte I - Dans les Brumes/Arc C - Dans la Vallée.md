@@ -1055,74 +1055,74 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 
 > [!warning]+ **Embracing Werewolf Lycanthropy**
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
-# C12. The Town of Vallaki
-## C12a. The Vallakian Gates
-The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
+# C12. La Ville de Vallaki
+## C12a. Les Portes de Vallaki
+La route continue vers la **Ville de Vallaki**, en grande partie comme décrit dans <span class="citation">Approcher la Ville (p. 95)</span>. Cependant, retirez la première phrase du texte descriptif et ajoutez le texte suivant à la fin du premier paragraphe :
 
-<div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
+<div class="description"><p>Plus d'une douzaine de tentes délabrées ont été installées contre le mur de palissade. Parmi elles, des dizaines de personnes en haillons et émaciées déambulent ou sont assises près de feux de camp à faible flamme et de couchages, leurs regards creux observant silencieusement votre approche.</p></div>
 
-If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
+Si les joueurs sont partis de l'Étang de Tser ce matin-là, ils arrivent à Vallaki au crépuscule.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
+Si [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] voyage visiblement avec le groupe, ajoutez :
 
-<div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
+<div class="description"><p>Certains d'entre eux regardent Ireena avec une reconnaissance terne, mais aucun ne lève la main en guise de salut ou ne fait un geste de chaleur.</p></div>
 
-This area, the Morning Gate, is largely as described in <span class="citation">Town Gates (p. 95)</span>. The tents are a camp of Barovian refugees, housing those who survived the trek from the village of Barovia in the wake of Strahd's siege.
-### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+Cette zone, la Porte du Matin, est en grande partie comme décrite dans <span class="citation">Portes de la Ville (p. 95)</span>. Les tentes sont un camp de réfugiés baroviens, abritant ceux qui ont survécu au trek depuis le village de Barovia à la suite du siège de Strahd.
+### Le Camp de Réfugiés
+Si elle est avec le groupe, [[Personnages Non-Joueurs#Ireena Kolyana|Ireena]] a le cœur brisé et est enragée à la vue du camp de réfugiés. Elle suggère de rencontrer les réfugiés pendant que les joueurs trouvent un logement en ville, et promet de rejoindre les joueurs plus tard. Les joueurs peuvent la dissuader avec un test de Charisme (Persuasion) DD 10 réussi. Sinon, Ireena s'approche de l'un des feux de camp, soit seule, soit—si les joueurs ont insisté pour l'accompagner—avec de la compagnie.
 
-The members of the refugee camp, which include Emeric, a melancholy older man, and Magda, a grief-stricken young woman, can share the following information:
+Les membres du camp de réfugiés, qui incluent Emeric, un homme âgé mélancolique, et Magda, une jeune femme affligée de chagrin, peuvent partager les informations suivantes :
 
-* The Barovian refugees arrived at Vallaki's gates a few weeks ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>.
+* Les réfugiés baroviens sont arrivés aux portes de Vallaki il y a quelques semaines, mais ont été empêchés d'entrer. Lorsqu'ils ont tenté de forcer les portes, les gardes ont convoqué un homme qu'ils appelaient Izek, qui portait un bras de diable tordu et a invoqué le feu pour repousser les réfugiés.
+* Depuis lors, les réfugiés ont installé leur camp à l'extérieur des murs de la ville, se regroupant pour se protéger et se réchauffer. Ils ont réussi à obtenir quelques nécessités mineures, comme les tentes, en soudoyant les gardes aux portes, mais n'ont pas pu persuader les gardes de les laisser entrer ou même d'inviter le Baron de la ville à discuter de leur sort.
+* Des essaims de chauves-souris et des meutes de loups ont tourmenté le camp chaque nuit depuis leur arrivée. Heureusement, personne n'est mort encore, mais plusieurs réfugiés ont été blessés.
+* En raison des pertes qu'ils ont subies sur la route et de la menace du Diable au Château Ravenloft, les réfugiés ne sont pas disposés à risquer le voyage de retour, espérant plutôt attendre que le Baron entende raison et leur permette d'entrer dans les murs.
+* Environ un quart des réfugiés sont devenus dépendants aux "tartes de rêve", un aliment vendu par la colporteuse Morgantha. Ces réfugiés cherchent à échapper à la misère et au désespoir de leur situation. Ceux qui mangent une tarte de rêve tombent dans une transe comme décrit dans <span class="citation">Tartes de Rêve (p. 125)</span>.
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+Les réfugiés sont perdus dans le désespoir. Certains se souviennent d'une superstition selon laquelle les femmes baroviennes rousses apportent le malheur, et suggèrent qu'Ireena elle-même a apporté une malédiction sur leur peuple. Peu ont envie d'avoir affaire à elle davantage.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
-### The Guards at the Gates
-The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
+Après son interaction avec les réfugiés, Ireena est enragée par l'insensibilité du Baron, et jure de faire de son mieux pour obtenir l'entrée des réfugiés dans Vallaki.
+### Les Gardes aux Portes
+Les gardes aux portes agissent en grande partie comme décrit dans <span class="citation">Portes de la Ville (p. 95)</span>. L'un a une lance argentée, tandis que l'autre a un carquois contenant une douzaine de carreaux d'arbalète, dont la moitié sont argentés.
 
-The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
+Les gardes exigent que chaque personne s'identifie d'abord. Une fois identifié, chaque joueur doit montrer ses dents ("Pour prouver que vous n'êtes pas des vampires.") et être brièvement exposé à un collier enfilé avec des bulbes d'ail ("Pour prouver que vous n'êtes pas des loups-garous"). (Le Baron a, incorrectement, informé ses gardes que les loups-garous sont sévèrement allergiques à l'ail.)
 
-The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, whom the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
+Les gardes exigent ensuite que chaque joueur paie 1 pièce d'or comme péage pour entrer dans le village. Les gardes refusent d'accepter le paiement au nom des réfugiés, que le Baron a spécifiquement interdit d'entrer, invoquant des préoccupations de "maladie, d'insubordination et de malheur malveillant."
 
-If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
+Si les joueurs paient le péage, les gardes insistent également pour que chaque entrant ouvre sa bourse (ou équivalent) et remette toutes les pièces d'argent en sa possession. (Si les joueurs se plaignent, les gardes les assurent que l'argent est nécessaire pour produire les armes argentées nécessaires pour défendre la ville contre les loups-garous.) En échange des pièces d'argent qu'ils abandonnent, les joueurs reçoivent un montant de pièces de cuivre de valeur égale—moins une taxe de dix pour cent.
 
-If asked about lodging, the guards can share information about the Blue Water Inn, as described in <span class="citation">Vallaki Lore (p. 96)</span>. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
+Si on leur demande au sujet du logement, les gardes peuvent partager des informations sur l'Auberge de l'Eau Bleue, comme décrit dans <span class="citation">Traditions de Vallaki (p. 96)</span>. Les gardes sont également disposés à fournir des directions supplémentaires vers d'autres points de repère dans la ville en échange d'un pot-de-vin de 1 pièce d'or.
 
-Each time the players pass through the gates, including the first, the guards nod at them and intone the Baron's favored phrase: "All will be well."
+Chaque fois que les joueurs passent par les portes, y compris la première fois, les gardes leur font un signe de tête et entonnent la phrase favorite du Baron : "Tout ira bien."
 
-> [!abstract]+ **Gertruda's Fate**
-> If the players inquire about Gertruda's fate and provide a description, the guards truthfully share that they haven't seen anyone resembling her.
-### Entering the Town
-As the players pass down Vallaki's main avenue, read:
+> [!abstract]+ **Le Sort de Gertruda**
+> Si les joueurs s'enquièrent du sort de Gertruda et fournissent une description, les gardes partagent honnêtement qu'ils n'ont vu personne lui ressemblant.
+### Entrer dans la Ville
+Alors que les joueurs passent le long de l'avenue principale de Vallaki, lisez :
 
-<div class="description"><p>You pass from the earthen road onto cobblestone streets, mud staining your boots and the bottoms of your pants. Behind you, the gates close with a slam, and you can see the guards resume their posts behind it. In the distance, you can see two other figures bearing pikes, patrolling the walls as they look down on the twisted forest beyond.</p>
-<p>The eaves of the buildings hang with old banners and tattered fabrics that flap and twist in the chill breeze. The banners are painted with faded words and illustrations, but time has robbed them of both their legibility and any beauty they may have once had.</p>
-<p>Flickering candlelight lingers behind the shuttered townhouse windows, and humanoid shadows move beyond closed curtains. Long shadows lurk in the alleyways, where the grass grows long and twisted beneath the stained and sagging wood of the buildings above. </p>
-<p>The streets are empty, though you can see a single cloaked figure traveling away from you down the central road.  In the distance beyond the walls, a lone wolf howls, and a cold gust of wind cuts through the night like a knife.</p></div>
+<div class="description"><p>Vous passez du chemin de terre aux rues pavées, la boue tachant vos bottes et le bas de vos pantalons. Derrière vous, les portes se ferment avec un claquement, et vous pouvez voir les gardes reprendre leurs postes derrière elles. Au loin, vous pouvez voir deux autres silhouettes portant des piques, patrouillant les murs en regardant la forêt tordue au-delà.</p>
+<p>Les avant-toits des bâtiments sont suspendus avec de vieilles bannières et des tissus en lambeaux qui claquent et se tordent dans la brise fraîche. Les bannières sont peintes avec des mots et des illustrations fanés, mais le temps les a privées à la fois de leur lisibilité et de toute beauté qu'elles auraient pu avoir autrefois.</p>
+<p>Une lueur de chandelle vacillante persiste derrière les fenêtres de maison de ville fermées, et des ombres humanoïdes se déplacent derrière des rideaux fermés. De longues ombres se cachent dans les ruelles, où l'herbe pousse longue et tordue sous le bois taché et affaissé des bâtiments au-dessus.</p>
+<p>Les rues sont vides, bien que vous puissiez voir une seule silhouette encapuchonnée voyageant loin de vous le long de la route centrale. Au loin au-delà des murs, un loup solitaire hurle, et une rafale de vent froid traverse la nuit comme un couteau.</p></div>
 
-The cloaked figure is Willemina Rikalova, as described in <span class="citation">St. Andral's Church (p. 97)</span>. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
+La silhouette encapuchonnée est Willemina Rikalova, comme décrit dans <span class="citation">Église de St. Andral (p. 97)</span>. Elle se rend à l'église pour prier pour la liberté de son fils, Udo Lukovich.
 
-As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
-## C12b. The Blue Water Inn
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+Alors que les personnages traversent les rues, ils sont remarqués par Ernst Larnak, qui les observe attentivement—bien qu'il ne les suive pas—comme décrit dans <span class="citation">Le Souhait de Dame Wachter (p. 124)</span>. (Ernst ne livre pas encore d'invitation à dîner avec Dame Wachter, bien qu'il retourne à <span class="citation">N4. Wachterhaus (p. 110)</span> pour faire son rapport à Dame Wachter quand les joueurs sortent de son champ de vision.)
+## C12b. L'Auberge de l'Eau Bleue
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N2.</em></span>
 
-This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
+Cette zone est en grande partie comme décrite dans <span class="citation">N2. Auberge de l'Eau Bleue (p. 98)</span>. Si Muriel est présente, elle fait ses adieux aux joueurs avec un trille doux et sentimental, puis part rejoindre les autres corbeaux se reposant au sommet du toit. (Si les joueurs retournent plus tard à l'auberge pour la chercher, elle n'est pas présente.)
 
-When the players first arrive, the inn contains the following notable NPCs:
+Quand les joueurs arrivent pour la première fois, l'auberge contient les PNJ notables suivants :
 
-* Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**; 
-* Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
-* Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
-* Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
+* Danika Dorakova, qui verse des boissons et sert les clients dans **N2c. Salle Commune** ;
+* Urwin Martikov, qui cuisine du pain et du ragoût de betterave dans **N2e. Cuisine** ;
+* Brom et Bray Martikov, qui jouent avec des jouets dans **N20. Chambre des Garçons** ; et
+* Rictavio, qui raconte des histoires aux clients dans **N2c. Salle Commune**, y compris Nikolai et Karl Wachter.
 
 ![[Vallaki_Martikovs.png]]
 
-<span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Les Martikov de l'Auberge de l'Eau Bleue" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: Urwin Martikov**
 >
