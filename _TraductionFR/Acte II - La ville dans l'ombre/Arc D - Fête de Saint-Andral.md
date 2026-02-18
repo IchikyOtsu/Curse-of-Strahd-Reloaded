@@ -169,188 +169,194 @@ Si l'un des joueurs demande à Yeska s'il a parlé des ossements à quelqu'un d'
 
 ![[Yeska.png]]
 <span class="credit">"Yeska" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
-# D2. Milivoj’s House
-Milivoj’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
+## D2. Maison de Milivoj
+La maison de Milivoj est située dans le quartier nord-ouest pauvre de Vallaki, à quelques pas de l'église Saint-Andral.
 
 <div class="description">
-<p>The muddy road that leads into the town’s northwest quarter is rough and uneven, chilled by a persistent fog that seems to cling to the soaked earth beneath your feet. As you move further from the town’s center, the streets narrow and the houses grow grimier and more dilapidated, the smell of damp wood and mildew filling your nostrils.</p>
-<p>Your path leads you to a leaning, decrepit structure that seems to sag beneath its own weight. Its timbers are rotting, the windows cracked and filthy. At its front, a ramshackle wooden door stands slightly askew in its frame atop a small, mud-spattered porch.</p>
+<p>La route boueuse qui mène au quartier nord-ouest de la ville est rugueuse et inégale, glacée par un brouillard persistant qui semble s'accrocher à la terre détrempée sous vos pieds. À mesure que vous vous éloignez du centre-ville, les rues se rétrécissent et les maisons deviennent plus crasseuses et délabrées, l'odeur de bois humide et de moisissure emplissant vos narines.</p>
+<p>Votre chemin vous mène à une structure penchée et décrépite qui semble s'affaisser sous son propre poids. Ses poutres pourrissent, les fenêtres sont fissurées et sales. À l'avant, une porte en bois déglinguée se dresse légèrement de travers dans son cadre, au sommet d'un petit porche éclaboussé de boue.</p>
 </div>
 
-If the players knock on the door, it’s answered a few moments thereafter by Jarzinka, Milivoj’s mother. Read:
+Si les joueurs frappent à la porte, Jarzinka, la mère de Milivoj, répond quelques instants plus tard. Lisez :
 
 <div class="description">
-<p>The door groans open, revealing a gaunt, glassy-eyed woman standing on the other side. Her hair is matted with grease and hangs in knots across her shoulders, and a painted beaded necklace hangs around her neck, its colors faded and chipped with age.</p>
-<p>Behind her, a trio of young children wrestle and shout as they roll across a cramped living space stuffed with old, threadbare furniture and an old, stained rug. Two other children—a near-adolescent boy with long, shaggy hair, and a freckled girl of similar age wearing cracked, oversized glasses—peer curiously around a pair of overstuffed, patchwork armchairs at the sight of you.</p>
-<p>The woman at the door grunts, her hollow gaze scanning you expectantly.</p>
+<p>La porte s'ouvre en gémissant, révélant une femme émaciée aux yeux vitreux qui se tient de l'autre côté. Ses cheveux sont emmêlés de graisse et pendent en nœuds sur ses épaules, et un collier de perles peintes pend autour de son cou, ses couleurs fanées et écaillées par l'âge.</p>
+<p>Derrière elle, un trio de jeunes enfants luttent et crient en roulant à travers un espace de vie exigu rempli de vieux meubles élimés et d'un vieux tapis taché. Deux autres enfants — un garçon presque adolescent aux longs cheveux hirsutes et une fille tachée de rousseur du même âge portant des lunettes fêlées et trop grandes — regardent curieusement autour d'une paire de fauteuils en patchwork rembourrés à votre vue.</p>
+<p>La femme à la porte grogne, son regard vide vous scrutant avec attente.</p>
 </div>
 
-The children in the armchairs are a twelve-year-old boy named Bogan and a ten-year-old girl named Zondra. The three children wrestling on the ground are named Lazlo (eight years old), Grilsha (seven years old), and Dargos (five years old).
+Les enfants dans les fauteuils sont un garçon de douze ans nommé Bogan et une fille de dix ans nommée Zondra. Les trois enfants qui luttent au sol se nomment Lazlo (huit ans), Grilsha (sept ans) et Dargos (cinq ans).
 
-Jarzinka is a woman of few words, and is annoyed because she has just finished the last of her dream pastries. If the players ask to speak with Milivoj, she turns to Bogan and Zondra, then grunts at them. The conversation then proceeds as follows:
+Jarzinka est une femme de peu de mots et est agacée parce qu'elle vient de finir la dernière de ses galettes oniriques. Si les joueurs demandent à parler à Milivoj, elle se tourne vers Bogan et Zondra, puis leur grogne dessus. La conversation se poursuit alors comme suit :
 
-* Bogan cheerfully informs the players that Milivoj is sick and doesn’t want to talk to anyone today.
-* If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
+* Bogan informe joyeusement les joueurs que Milivoj est malade et ne veut parler à personne aujourd'hui.
+* Si les joueurs réussissent un test de Charisme (Persuasion) DD 10 ou insistent sur l'urgence de la situation, Zondra se retourne et hurle : "Milo ! Quelqu'un veut te parler."
 
-A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop Milivoj’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
+Quelques instants plus tard, [[Non-Player Characters#Milivoj|Milivoj]], âgé de dix-neuf ans, sort par une porte en bois gonflée au fond de la pièce, avec son frère de trois ans Jirko gloussant de plaisir sur ses épaules et ses sœurs jumelles de quatre ans, Victoria et Vasha, accrochées à ses biceps.
 
-> [!profile]+ **Profile: Milivoj**
+> [!profile]+ **Profil : Milivoj**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
+> **Informations d'Interprétation**
+> ***Résonance.*** Milivoj doit inspirer le mépris par sa personnalité bourrue, cynique et têtue, la sympathie pour sa frustration face à la dépendance de ses parents aux galettes oniriques, et l'affection pour son dévouement total à subvenir aux besoins de ses frères et sœurs, quel qu'en soit le coût pour lui-même.
 >
-> ***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
+> ***Émotions.*** Les émotions les plus fréquentes de Milivoj sont l'agacement, l'inquiétude, la frustration, l'ennui, l'amertume et le cynisme, et (quand il est avec ses frères et sœurs) la compassion, la gaieté et la joie.
 >
-> ***Motivations.*** Milivoj wants to provide for himself and his siblings.
+> ***Motivations.*** Milivoj veut subvenir à ses besoins et à ceux de ses frères et sœurs.
 >
-> ***Inspirations.*** When playing Milivoj, channel Katniss Everdeen (*The Hunger Games*), Arya Stark (*Game of Thrones*), and Carl Fredericksen (*Up*).
+> ***Inspirations.*** Lorsque vous jouez Milivoj, canalisez Katniss Everdeen (*Hunger Games*), Arya Stark (*Game of Thrones*) et Carl Fredericksen (*Là-haut*).
 >
-> **Character Information**
-> ***Persona.*** To strangers, Milivoj is a quiet, gruff, and hardworking groundskeeper. To those he trusts, Milivoj is a loving and dedicated elder sibling, a frustrated and bitter son, and a desperate and confused young man.
+> **Informations sur le Personnage**
+> ***Personnalité.*** Pour les étrangers, Milivoj est un fossoyeur calme, bourru et travailleur. Pour ceux en qui il a confiance, Milivoj est un frère aîné aimant et dévoué, un fils frustré et amer, et un jeune homme désespéré et confus.
 >
-> ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
+> ***Moral.*** Dans un combat, Milivoj brandirait sa pelle pour tenter de faire reculer son agresseur, mais se rendrait rapidement s'il était gravement blessé. (S'il défendait ses frères et sœurs, cependant, Milivoj se battrait férocement et volontiers jusqu'à la mort.)
 >
-> ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
-## D2a. Confronting Milivoj
-Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
+> ***Relations.*** Milivoj est employé par le Père Lucian Petrovich, travaille secrètement pour le fabricant de cercueils Henrik van der Voort, et est l'aîné de neuf enfants appartenant à Oleg et Jarzinka, deux Vallakiens dépendants aux galettes oniriques.
 
-As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and gives her a grudging nod. Jarzinka grunts and shuffles away from the door, disappearing into the room from which Milivoj came.
+## D2a. Confronter Milivoj
+En apercevant les joueurs, le visage de Milivoj s'effondre visiblement, et il dégage doucement Victoria et Vasha de ses bras et pose Jirko sur les genoux de Bogan. Un test de Sagesse (Perspicacité) DD 10 réussi révèle que son langage corporel s'est tendu et qu'il bouge de manière inconfortable.
 
-If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
+Lorsque Milivoj atteint la porte, il s'adresse sèchement à Jarzinka en l'appelant "Mère" et lui fait un signe de tête réticent. Jarzinka grogne et s'éloigne de la porte en traînant des pieds, disparaissant dans la pièce d'où Milivoj est venu.
 
-Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
+Si les joueurs informent Milivoj qu'ils veulent lui parler des ossements de Saint Andral, il se renfrogne, insiste sur le fait qu'il ne sait rien à ce sujet et tente de fermer la porte. Un joueur peut l'en empêcher avec un test de Force ou de Dextérité DD 10 réussi. (Si Milivoj réussit à fermer la porte, les joueurs peuvent le forcer à l'ouvrir à nouveau en se montrant suffisamment nuisibles, en réussissant un test de Charisme (Intimidation ou Persuasion) DD 10, ou en forçant la porte avec un test de Force DD 10 réussi.)
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+Milivoj nie toute connaissance des ossements ou de leur vol si on lui pose la question directement. Cependant, il prétend avoir vu une silhouette encapuchonnée surveillant l'église il y a deux jours depuis une ruelle. (La description de la silhouette encapuchonnée correspond par coïncidence à l'apparence d'Ernst Larnak, l'espion de Fiona, bien que Milivoj ne connaisse pas Ernst ou la nature de son emploi.) Un test de Sagesse (Perspicacité) DD 10 réussi révèle qu'il parle un peu trop vite.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
+Si les joueurs accusent Milivoj d'avoir volé les ossements et réussissent un test de Charisme (Intimidation) DD 15, Milivoj admet les avoir volés, comme décrit dans <span class="citation">Ossements de Saint Andral (p. 97)</span>. Les joueurs qui confrontent Milivoj avec des preuves provenant de la crypte réussissent automatiquement. Milivoj ne peut pas emmener les joueurs à la boutique du fabricant de cercueils lui-même, mais note que le Père Lucian peut les y conduire.
 
-If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
+Si on lui demande son motif pour avoir volé les ossements, Milivoj partage les raisons décrites dans <span class="citation">Ossements de Saint Andral (p. 97)</span>. Il peut également partager qu'après que son père — un ancien garde vallakien — a été blessé lors d'une récente attaque de loup, ses deux parents ont commencé à acheter régulièrement des galettes oniriques à la colporteuse Morgantha à l'extérieur des portes. Avec ses deux parents dépendants des marchandises de Morgantha, Milivoj se voit comme le seul moyen pour ses frères et sœurs d'éviter la pauvreté totale. (Si on le lui demande, Milivoj peut fournir une description de base des effets des galettes oniriques, comme décrit dans <span class="citation">Galettes Oniriques (p. 125)</span>.)
 
-> [!abstract]+ **Milivoj’s Revelation**
+S'il est informé que les ossements ont pu être volés pour permettre une attaque contre l'église, Milivoj rejette l'idée, insistant sur le fait que les ossements ne sont qu'une "vieille relique moisie" et qu'il "n'a pas le temps de croire aux contes de fées". Il peut également partager qu'Henrik lui a dit que les ossements étaient un héritage familial sans pouvoir, et qu'Henrik cherchait à les récupérer pour honorer son ancêtre.
+
+> [!abstract]+ **La Révélation de Milivoj**
 >
-> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
-## D2b. Departing the House
-Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
+> S'il est informé plus tard que les actions d'Henrik étaient dirigées par l'un des vampiriens de Strahd, et que le vol des ossements aurait pu permettre un massacre à l'église, [[Non-Player Characters#Milivoj|Milivoj]] est submergé par l'anxiété, l'horreur et la culpabilité. Il se prosterne devant le Père Lucian et implore son pardon, proposant de s'exiler dans les bois Svalich si cela peut compenser le mal qu'il a causé. (Le Père Lucian, bien sûr, refuse, étreignant en larmes et pardonnant Milivoj à la place.)
 
-If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
+## D2b. Quitter la Maison
+Une fois que Milivoj a admis le vol des ossements, [[Non-Player Characters#Father Lucian Petrovich|Père Lucian]] peut conduire les joueurs à la boutique du fabricant de cercueils. (Il connaît bien le propriétaire, Henrik, et espère pouvoir raisonner l'homme.) Si les joueurs semblent sceptiques, le Père Lucian — qui a les statistiques d'un **prêtre** — révèle qu'il porte le symbole sacré de Tasha Petrovna — son ancêtre et une puissante adepte de Sainte Markovia — et leur promet qu'il est plus que capable de se défendre.
 
-> [!abstract]+ **Reporting the Theft**
+Si les joueurs suggèrent de signaler le vol des ossements au bourgmestre, le Père Lucian est réticent à le faire, craignant la possibilité de provoquer une panique. Avec un test de Charisme (Persuasion) DD 15 réussi, cependant, les joueurs peuvent convaincre le Père Lucian de se joindre à eux pour signaler le vol au Baron Vallakovich, qui réagit comme décrit dans **N6. Boutique du Fabricant de Cercueils.** (Si les joueurs n'ont pas le Père Lucian avec eux, le bourgmestre refuse de croire que les ossements sont responsables de la protection divine de l'église ou d'aider les joueurs à les récupérer.)
+
+> [!abstract]+ **Signaler le Vol**
 >
-> If the players report the theft to Baron Vallakovich and do not accompany his guards, the four guards gain access to the coffin maker's shop as described in **N6. Coffin Maker's Shop**, but are slaughtered when they accidentally trigger Volenta's trap and alert the vampires to their presence.
+> Si les joueurs signalent le vol au Baron Vallakovich et n'accompagnent pas ses gardes, les quatre gardes accèdent à la boutique du fabricant de cercueils comme décrit dans **N6. Boutique du Fabricant de Cercueils**, mais sont massacrés lorsqu'ils déclenchent accidentellement le piège de Volenta et alertent les vampires de leur présence.
 >
-> One day later, Baron Vallakovich responds by sending Izek to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
+> Un jour plus tard, le Baron Vallakovich réagit en envoyant Izek convoquer les joueurs au **N3. Manoir du Bourgmestre**, où il les accuse d'avoir fait disparaître ses fidèles gardes et menace de les exiler de Vallaki. (Les joueurs peuvent regagner ses bonnes grâces en promettant de récupérer les ossements eux-mêmes.)
 
-# D3. Arasek Stockyard
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
+# D3. Parc à Bestiaux Arasek
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N5.</em></span>
 
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Le Parc à Bestiaux Arasek est en grande partie tel que décrit en <span class="citation">N5. Parc à Bestiaux Arasek (p. 115)</span>. Cependant, alors que le chariot de Rictavio est en grande partie couvert de peinture vieille et délavée, le panneau du Carnaval des Merveilles sur son côté est tout neuf et fraîchement peint.
 
-If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
+Si l'un des joueurs exprime un intérêt pour s'introduire dans le chariot, [[Non-Player Characters#Father Lucian Petrovich|Père Lucian]] les décourage de le faire s'il est présent.
 
-If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
+Si un joueur tente néanmoins de déverrouiller ou de forcer la porte du chariot, le chariot entier bascule soudainement et violemment d'un côté à l'autre. Les joueurs peuvent également entendre le bruit de quelque chose avec de grandes griffes lourdes grattant contre l'intérieur du chariot. (Le basculement et les griffures sont faits par le fantôme d'Erasmus van Richten, un **esprit frappeur** cherchant à protéger Arabelle en effrayant les visiteurs.)
 
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc E - The Missing Vistana]].)
-# D4. Coffin Maker's Shop
-<span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
+Si les joueurs réussissent à briser la porte du chariot ou à crocheter son cadenas, ils découvrent que l'intérieur du chariot contient un lit de paille douce, une couverture en laine confortable, quelques livres et une jeune fille Vistana — Arabelle — qui serre un tigre à dents de sabre en peluche contre sa poitrine et porte un collier de perles avec une amulette en cuivre sculpté. (Pour plus d'informations sur Arabelle, voir [[Arc E - La Vistana Disparue]].)
+# D4. Boutique du Fabricant de Cercueils
+<span class="citation"><em>Cette scène se déroule dans le Chapitre 5 : Zone N6.</em></span>
 
-The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+La boutique du fabricant de cercueils est en grande partie telle que décrite en <span class="citation">N6. Boutique du Fabricant de Cercueils (p. 116)</span>. Cependant, les caisses dans <span class="citation">N6f. Nid de Vampires (p. 118)</span> ont été remplacées par trois cercueils remplis de terre tombale provenant du Château Ravenloft, qui contiennent deux **vampiriens** et **Volenta Popofsky**, l'une des épouses vampiriques de Strahd. De plus, les joueurs qui explorent <span class="citation">N6f. Nid de Vampires (p. 118)</span> trouvent un pentagramme aux teintes verdâtres et fanées de 1,5 mètre de diamètre brûlé sur le sol au bord de la pièce, juste au-delà des cercueils des vampires.
 
-> [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
+> [!lore]+ **Le Pentagramme Brûlé**
+> Le pentagramme vert est un vestige de l'utilisation par Volenta du brasero de téléportation dans <span class="citation">K78. Salle du Brasero (p. 82)</span>. Si on lui demande, Henrik ne sait pas ce qu'il signifie. Cependant, il peut partager avec les joueurs qu'une nuit, peu de temps après avoir rencontré Volenta pour la première fois, une lumière verte maladive a flashé à travers la boutique, ses deux compagnons **vampiriens** sortant de <span class="citation">N6f. Nid de Vampires (p. 118)</span> peu de temps après.
 
-Henrik van der Voort, the coffin maker, follows the following schedule:
+Henrik van der Voort, le fabricant de cercueils, suit l'emploi du temps suivant :
 
-* In the morning, he sleeps in, remaining in bed in **N6e. Henrik's Bedroom**.
-* In the late morning, he anxiously checks that the wardrobe containing St. Andral's bones hasn't been disturbed, and then prepares breakfast in **N6d. Kitchen**.
-* In the afternoon, he builds coffins in **N6c. Workshop**.
-* In the evening, he prepares an evening meal in **N6d. Kitchen**.
-* At night, he sleeps in **N6e. Henrik's Bedroom.**
-## D4a. Entering the Shop
-The players cannot access the shop through persuasion, deception, or intimidation; in each case, Henrik will respond as described in **N6. Coffin Maker's Shop**. 
+* Le matin, il fait la grasse matinée, restant au lit dans **N6e. Chambre d'Henrik**.
+* En fin de matinée, il vérifie anxieusement que l'armoire contenant les ossements de Saint Andral n'a pas été dérangée, puis prépare le petit-déjeuner dans **N6d. Cuisine**.
+* L'après-midi, il construit des cercueils dans **N6c. Atelier**.
+* Le soir, il prépare le repas du soir dans **N6d. Cuisine**.
+* La nuit, il dort dans **N6e. Chambre d'Henrik.**
 
-Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
+## D4a. Entrer dans la Boutique
+Les joueurs ne peuvent pas accéder à la boutique par la persuasion, la tromperie ou l'intimidation ; dans chaque cas, Henrik réagira comme décrit dans **N6. Boutique du Fabricant de Cercueils**.
 
-* They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts Henrik, who comes to confront them. (Doing so doesn't alert Volenta or the **vampire spawn**, who merely assume Henrik has dropped a coffin or other wooden object.)
-* They can use magic (e.g., *mage hand* or *misty step*) to open the windows or doors from the inside. Doing so avoids alerting Henrik, who remains in his current location.
+De plus, notez que les fenêtres sont verrouillées de l'intérieur et les portes sont barrées. En tant que tel, les joueurs ne peuvent pas ouvrir une fenêtre ou une porte en utilisant des *outils de voleur*. Au lieu de cela, les joueurs peuvent entrer dans la boutique par l'un des moyens suivants :
 
-In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **N6. Coffin Maker's Shop**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
+* Ils peuvent enfoncer une ou les deux portes barrées avec un test de Force (Athlétisme) DD 20 réussi. Cela alerte Henrik, qui vient les confronter. (Cela n'alerte pas Volenta ou les **vampiriens**, qui supposent simplement qu'Henrik a laissé tomber un cercueil ou un autre objet en bois.)
+* Ils peuvent utiliser la magie (par exemple, *main de mage* ou *foulée brumeuse*) pour ouvrir les fenêtres ou les portes de l'intérieur. Cela évite d'alerter Henrik, qui reste à son emplacement actuel.
 
-Henrik does not know that Volenta has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
+Dans les deux cas, Henrik n'offre aucune résistance dès qu'il voit que les joueurs sont entrés dans la boutique. Au lieu de cela, il devine à juste titre qu'ils sont venus récupérer les ossements et les informe de l'emplacement des ossements et du danger du nid de vampires, comme décrit dans **N6. Boutique du Fabricant de Cercueils**. En échange, il les supplie de le protéger des vampires, dont il craint à juste titre qu'ils ne le massacrent pour sa trahison. Il ne récupérera pas les ossements seul, mais accompagnera les joueurs à l'étage si on le lui demande.
 
-> [!abstract]+ **Ambushing the Vampires**
-> Players who attempt to ambush the vampires in <span class="citation">N6f. Vampire Nest (p. 118)</span> before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
-## D4b. Recovering the Bones
-The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
+Henrik ne sait pas que Volenta a secrètement installé un piège à aiguille empoisonnée et un fil de détente relié à une cloche dans le compartiment secret de l'armoire où les ossements sont conservés. Il suppose que les joueurs pourront récupérer tranquillement les ossements, quitter la boutique et l'escorter ailleurs en sécurité.
 
-* a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
+> [!abstract]+ **Tendre une embuscade aux Vampires**
+> Les joueurs qui tentent de tendre une embuscade aux vampires dans <span class="citation">N6f. Nid de Vampires (p. 118)</span> avant de récupérer les ossements doivent réussir un test de Dextérité (Discrétion) DD 14 pour s'approcher d'une caisse sans réveiller les vampires à proximité, et un test de Dextérité (Discrétion) DD 14 avec un désavantage pour l'ouvrir. Un vampire réveillé attaque les intrus à vue.
 
-The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
+## D4b. Récupérer les Ossements
+Les ossements ont été dissimulés comme décrit dans <span class="citation">N6e. Chambre d'Henrik (p. 117)</span>. Cependant, Volenta Popofsky a ajouté deux mesures de sécurité supplémentaires au compartiment secret :
 
-> [!warning]+ **Which Needle?**
-> There are two official poison needle traps in *Dungeons & Dragons* 5th Edition: the ***poison needle*** provided on page 123 of the *Dungeon Master's Guide*, and the ***poison needle trap*** provided on page 114 of *Xanathar's Guide to Everything*. This guide refers to the former, which merely poisons its victim instead of paralyzing them.
+* un piège à **aiguille empoisonnée** (<span class="citation">Dungeon Master's Guide, p. 123</span>), qui se déclenche à moins qu'un panneau de bois particulier ne soit poussé avant l'ouverture du compartiment, et
+* un fil caché attaché à l'ouverture du compartiment, qui se connecte à un bruiteur à la base du compartiment, vaguement en forme de tête du fabricant de jouets Gadof Blinsky, y compris son bonnet de bouffon et ses clochettes.
 
-The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
+Le piège à aiguille empoisonnée peut être identifié et désamorcé comme décrit dans le <span class="citation">Guide du Maître (p. 123)</span>.
 
-Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
+> [!warning]+ **Quelle Aiguille ?**
+> Il existe deux pièges à aiguille empoisonnée officiels dans la 5ème Édition de *Dungeons & Dragons* : l'***aiguille empoisonnée*** fournie à la page 123 du *Guide du Maître*, et le ***piège à aiguille empoisonnée*** fourni à la page 114 du *Xanathar : Le Guide de tout*. Ce guide fait référence au premier, qui empoisonne simplement sa victime au lieu de la paralyser.
 
-> [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+Le fil caché peut être identifié avant que le compartiment ne soit complètement ouvert avec un test d'Intelligence (Investigation) DD 20 réussi, et désamorcé avec un test de Dextérité (Outils de voleur) DD 20 réussi.
 
-> [!abstract]+ **Disabling the Noisemaker**
-> If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
-## D4c. Volenta's Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal **vampire spawn** arise to confront them one round later, either by forcing their way into **N6d. Kitchen** or (if the players have already exited **N6e. Henrik's Bedroom**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with Volenta crouching upside-down on the ceiling behind them.
+Ouvrir le compartiment sans désactiver le fil ou tenter sans succès de désamorcer le fil fait hurler bruyamment le bruiteur, "C'est nul, c'est pas du Blinsky !" de manière répétée pendant 1 minute, alertant les vampires dans **N6f. Nid de Vampires**.
+
+> [!lore]+ **Le Bruiteur**
+> Volenta a acheté le bruiteur à Gadof Blinsky de Jouets Blinsky, décrit plus loin dans <span class="citation">N7. Jouets Blinsky (p. 118)</span>, il y a plusieurs nuits. Bien que tentée de le tuer ou de prendre le jouet par la force, l'affinité de Blinsky pour le macabre a conduit Volenta à le considérer comme une âme sœur, et elle a choisi d'épargner sa vie sur un coup de tête.
+
+> [!abstract]+ **Désactiver le Bruiteur**
+> Si les joueurs récupèrent avec succès les ossements sans alerter les vampires, Volenta découvre que les ossements ont disparu peu de temps après son réveil au crépuscule cette nuit-là. Si Henrik est toujours dans la boutique, elle l'éventre et le décapite, puis laisse sa tête empalée sur une lance appuyée contre la statue au centre de la <span class="citation">N8. Place de la Ville (p. 119)</span>. Dans tous les cas, Volenta quitte ensuite Vallaki pour le Château Ravenloft, retournant honteusement au donjon.
+
+## D4c. Le Piège de Volenta
+Si les joueurs permettent au bruiteur de s'activer, [[Non-Player Characters#Volenta Popofsky|Volenta]] et ses deux fidèles **vampiriens** se lèvent pour les affronter un round plus tard, soit en forçant leur passage dans **N6d. Cuisine**, soit (si les joueurs ont déjà quitté **N6e. Chambre d'Henrik**) en obstruant le chemin des joueurs vers l'escalier. Lorsque les vampires apparaissent, ils utilisent leurs ***pattes d'araignée*** pour grimper sur les murs avant de se laisser tomber au niveau des joueurs, Volenta étant accroupie la tête en bas au plafond derrière eux.
 ![[Volenta Popofsky.png]]
-<span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Volenta Popofsky" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-> [!profile]+ **Profile: Volenta Popofsky**
+> [!profile]+ **Profil : Volenta Popofsky**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
+> **Informations d'Interprétation**
+> ***Résonance.*** Volenta doit inspirer la répulsion par son obsession pour la douleur et le gore, le malaise par sa personnalité sadique et psychotique, et une sorte d'étrange flatterie par son attitude flirteuse — bien qu'excentrique.
 >
-> ***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
+> ***Émotions.*** Volenta se sent le plus souvent amusée, curieuse, irritée, ennuyée, fascinée, enragée et joyeuse.
 >
-> ***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
+> ***Motivations.*** Volenta veut impressionner Strahd et gagner sa place en tant que première parmi ses épouses, satisfaire ses fréquentes pulsions sadiques, et trouver de nouvelles façons de causer souffrance et douleur par le bricolage et l'innovation.
 >
-> ***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
+> ***Inspirations.*** Lorsque vous jouez Volenta, canalisez Jinx (*Arcane*), Ty Lee (*Avatar : Le dernier maître de l'air*) et Harley Quinn (*Batman*).
 >
-> **Character Information**
+> **Informations sur le Personnage**
 >
-> ***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
+> ***Personnalité.*** Pour les étrangers, Volenta est une sadique maniaque, impulsive et à la gâchette facile avec un don pour l'invention et l'innovation.
 >
-> ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
+> ***Moral.*** Dans un combat, Volenta savourerait joyeusement l'occasion de tester ses armes sur mesure sur des sujets hostiles — et, si on la pousse assez loin, de déchiqueter ces sujets à mains nues et avec ses dents.
 >
-> ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+> ***Relations.*** Volenta est fanatiquement loyale à Strahd von Zarovich, et voit ses autres épouses et consorts — en particulier Anastrasya, Ludmilla et Escher — avec un profond ressentiment, de la jalousie et de la suspicion.
 
-Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
+Volenta utilise les deux vampiriens avec elle comme couverture, les plaçant entre elle et les joueurs. Elle les salue ensuite comme suit, leur donnant l'occasion de répondre à chaque fois :
 
-* Volenta addresses the players as "her Lord's new toys" with amusement and disbelief.
-* She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a candle to her vision." (The "skinny new plaything" is referring to Escher.)
-* She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
-* She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
+* Volenta s'adresse aux joueurs comme aux "nouveaux jouets de son Seigneur" avec amusement et incrédulité.
+* Elle prétend qu'ils sont "moins impressionnants" qu'elle ne l'espérait, et se vante que ni eux ni "Ludmilla, Anastrasya ou le nouveau jouet tout maigre de son Seigneur ne pourraient arriver à la cheville de sa vision." (Le "nouveau jouet tout maigre" fait référence à Escher.)
+* Elle insiste sur le fait que les joueurs ne pourraient pas arrêter son plan même s'ils essayaient. "Une fois que j'aurai fait rougir de sang les bancs de votre petite église", délire-t-elle, "mon bien-aimé reconnaîtra le vrai joyau de son royaume — *moi !*"
+* Elle observe qu'il est heureux qu'ils soient dans un magasin de cercueils, ajoutant : "Après tout, ils auront besoin de *quelque part* pour mettre vos morceaux quand j'en aurai fini avec vous." Elle ordonne ensuite aux autres vampires d'attaquer.
 
-> [!combat]- **Combat - The First Bride**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 4
-> **Allies:** Father Lucian (CR 3)
-> **Expected HP Consumption:** 24% (first phase), and 24% (second phase) for a total of 48%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combat - La Première Épouse**
+> **Niveau de Combat** : Meurtrissant (première phase), Meurtrissant (deuxième phase)
+> **Niveau de Personnage Attendu** : 4
+> **Alliés :** Père Lucian (FP 3)
+> **Consommation de PV Attendue :** 24% (première phase), et 24% (deuxième phase) pour un total de 48%
+>
+> ### **Ennemis :**
+>
+> | |3 Joueurs | 4 Joueurs | 5 Joueurs | 6 Joueurs |
 > |-|-|-|-|-|
-> | Vampire Spawn | 0 | 1 | 2 | 3 |
+> | Vampiriens | 0 | 1 | 2 | 3 |
 > | Volenta Popofsky | 1 | 1 | 1 | 1 |
 
-> [!warning]+ **Vampire Spawn and Grappling** 
-> To avoid vampire spawn getting trapped in place due to player abilities that slow movement, all vampire spawn in Barovia have the following ability: **Fast Grappler**. The vampire spawn does not have to spend extra movement to move a creature grappled by it if the grappled creature is the same size or smaller.
+> [!warning]+ **Vampiriens et Lutte**
+> Pour éviter que les vampiriens ne soient piégés sur place en raison des capacités des joueurs qui ralentissent le mouvement, tous les vampiriens en Barovie ont la capacité suivante : **Agrippeur Rapide**. Le vampirien n'a pas besoin de dépenser de mouvement supplémentaire pour déplacer une créature agrippée par lui si la créature agrippée est de la même taille ou plus petite.
 
-> [!warning]+ **Sunlight in Barovia**
-> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
+> [!warning]+ **Lumière du Soleil en Barovie**
+> Rappelez-vous que les vampires et autres créatures en Barovie ne sont pas affectés par la lumière du jour barovienne, comme décrit dans <span class="citation">Lumière du Soleil en Barovie (p. 24)</span>.
 
-> [!warning]+ **Vampires Aren't Humanoid**
-> Remember that **vampire spawn**, including Volenta, have the **undead** type, rather than the **humanoid** type. As such, spells and effects that target only humanoids, such as _hold person_, or which can't affect undead, such as _command_, have no effect on Volenta and the vampires accompanying her.
+> [!warning]+ **Les Vampires ne sont pas des Humanoïdes**
+> Rappelez-vous que les **vampiriens**, y compris Volenta, ont le type **mort-vivant**, plutôt que le type **humanoïde**. En tant que tel, les sorts et effets qui ne ciblent que les humanoïdes, tels que *immobilisation de personne*, ou qui ne peuvent pas affecter les morts-vivants, tels que *injonction*, n'ont aucun effet sur Volenta et les vampires qui l'accompagnent.
+
 
 <div class="statblock">
 <h2>Volenta, First Form</h2>
@@ -469,114 +475,119 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 <p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
 <p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
 </div>
-
 ### 1. Volenta
-[[Non-Player Characters#Volenta Popofsky|Volenta]] begins combat in her **first form**, preferring to start the fight by lobbing her ***alchemist's firebomb.*** Afterward, she alternates between using her ***multiattack*** to use ***tanglefoot*** and ***thunderstone***.
+[[Non-Player Characters#Volenta Popofsky|Volenta]] commence le combat sous sa **première forme**, préférant débuter l'affrontement en lançant sa ***bombe de feu grégeois***. Ensuite, elle alterne en utilisant son ***attaque multiple*** pour employer son ***sac de colle*** et sa ***pierre tonnerre***.
 
-When using her ***hail of daggers***, Volenta prefers to target the players instead of Father Lucian. As she fights them, she taunts Father Lucian gleefully, noting, "I'd intended to rip out your throat in front of your cute little congregation, but I guess decorating the church steps with your friends' heads and entrails isn't a bad second place!"
+Lorsqu'elle utilise sa ***grêle de dagues***, Volenta préfère cibler les joueurs plutôt que le Père Lucian. Tout en les combattant, elle nargue le Père Lucian avec jubilation, notant : "J'avais l'intention de t'arracher la gorge devant ta mignonne petite congrégation, mais je suppose que décorer les marches de l'église avec les têtes et les entrailles de tes amis n'est pas une mauvaise alternative !"
 
-Volenta flees from combat if her first form is reduced to 0 hit points, using her *smokestick* reaction to escape if possible. (The other **vampire spawn** don't accompany her, and fight to the death.)
+Volenta fuit le combat si sa première forme est réduite à 0 point de vie, utilisant sa réaction de *bâton fumigène* pour s'échapper si possible. (Les autres **vampiriens** ne l'accompagnent pas et se battent jusqu'à la mort.)
 
-When Volenta flees, she smashes through a nearby window and gallops across the rooftops like a four-legged beast. As she flees, she snarls, “You think your precious little church can keep you safe? He'll burn down the rest of Vallaki to get to you, and kill the rest of this stinking vermin to force you out!” She then sneers at the players and promises to see them again soon before vanishing from sight behind a chimney.
-### 2. Father Lucian
-[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] retains the statistics of a **priest**. However, his ***divine eminence*** feature now reads as follows:
+Lorsque Volenta s'enfuit, elle fracasse une fenêtre voisine et galope sur les toits comme une bête à quatre pattes. Dans sa fuite, elle gronde : "Vous pensez que votre précieuse petite église peut vous garder en sécurité ? Il brûlera le reste de Vallaki pour vous atteindre, et tuera le reste de cette vermine puante pour vous forcer à sortir !" Elle lance ensuite un regard méprisant aux joueurs et promet de les revoir bientôt avant de disparaître de la vue derrière une cheminée.
 
-* ***Divine Eminence.*** As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
+### 2. Père Lucian
+[[Non-Player Characters#Father Lucian Petrovich|Père Lucian]] conserve les statistiques d'un **prêtre**. Cependant, son aptitude ***éminence divine*** se lit désormais comme suit :
 
-In combat, Father Lucian directs the players to form a defensive line around the door, hoping to funnel the vampires one-by-one into a choke point in order to dispatch them individually. Father Lucian himself attempts to end his turns behind full cover on each round of combat, ducking out only briefly to target vampires with his offensive spells.
+* ***Éminence Divine.*** En réaction, lorsqu'il voit une autre créature à 9 mètres ou moins être touchée par une attaque avec une arme, le Père Lucian peut dépenser un emplacement de sort pour que cette attaque inflige magiquement 10 (3d6) dégâts radiants supplémentaires à la cible touchée. Si le Père Lucian dépense un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau au-dessus du 1er.
 
-On his first turn, Father Lucian uses his action to cast *spirit guardians*, filling the air with a galaxy of swirling, fiery suns that burn with fierce golden light. He stands as near to the front lines as possible while remaining behind full cover, seeking to ensure that any attacking vampire spawn will inevitably be drawn into range of his spell.
+Au combat, le Père Lucian ordonne aux joueurs de former une ligne défensive autour de la porte, espérant canaliser les vampires un par un dans un goulot d'étranglement afin de les éliminer individuellement. Le Père Lucian tente lui-même de terminer ses tours derrière un abri total à chaque round de combat, ne sortant que brièvement pour cibler les vampires avec ses sorts offensifs.
 
-On his second turn, Father Lucian casts *spiritual weapon*, summoning and attacking with a golden ethereal mace whose head resembles a sunburst—a facsimile of the mace that his ancestor, Tasha Petrovna, once wielded in battle. He then casts *sacred flame*, targeting any vampire that is currently attacking the players.
+À son premier tour, le Père Lucian utilise son action pour lancer *esprits gardiens*, remplissant l'air d'une galaxie de soleils tourbillonnants et ardents qui brûlent d'une féroce lumière dorée. Il se tient aussi près que possible de la ligne de front tout en restant derrière un abri total, cherchant à s'assurer que tout vampirien attaquant sera inévitablement attiré à portée de son sort.
 
-On his third and subsequent turns, Father Lucian uses his action to cast *guiding bolt* and his bonus action to attack with *spiritual weapon* once again.
+À son deuxième tour, le Père Lucian lance *arme spirituelle*, invoquant et attaquant avec une masse d'armes éthérée et dorée dont la tête ressemble à un soleil éclatant — un fac-similé de la masse que son ancêtre, Tasha Petrovna, brandissait autrefois au combat. Il lance ensuite *flamme sacrée*, ciblant tout vampire qui attaque actuellement les joueurs.
 
-If any of the players are reduced to 0 hit points, Father Lucian spends his action casting *cure wounds* on them. If his concentration is ever disrupted, he spends his action to renew *spirit guardians* instead.
+À son troisième tour et aux suivants, le Père Lucian utilise son action pour lancer *trait guidant* et son action bonus pour attaquer à nouveau avec *arme spirituelle*.
 
-> [!info]+ **Dying NPCs**
+Si l'un des joueurs est réduit à 0 point de vie, le Père Lucian dépense son action pour lancer *soins* sur lui. Si sa concentration est un jour interrompue, il dépense son action pour renouveler *esprits gardiens* à la place.
+
+> [!info]+ **PNJ Mourants**
 >
-> Because Volenta and her **vampire spawn** prefer to target the players instead of Father Lucian, it's unlikely that Father Lucian will be reduced to 0 hit points in this battle.
+> Parce que Volenta et ses **vampiriens** préfèrent cibler les joueurs plutôt que le Père Lucian, il est peu probable que le Père Lucian soit réduit à 0 point de vie dans cette bataille.
 >
-> However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
-### 3. The Vampire Spawn
-The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
-# D5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
+> Cependant, comme indiqué dans **Monstres et Mort** (<span class="citation">Manuel des Joueurs, p. 198</span>), les personnages non-joueurs alliés — tels que le Père Lucian, Ireena Kolyana et tout autre PNJ combattant aux côtés des joueurs — devraient tomber inconscients lorsqu'ils sont réduits à 0 point de vie. Lorsqu'ils le font, ils suivent les mêmes règles pour les jets de sauvegarde contre la mort que les personnages joueurs, décrites plus en détail dans **Jets de Sauvegarde contre la Mort** (<span class="citation">Manuel des Joueurs, p. 197</span>).
 
-**_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
-# D6. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
-## D6a. The Invitation
-Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc O - Dinner with the Devil]], before departing.
+### 3. Les Vampiriens
+Les deux **vampiriens** combattent en utilisant leurs ***griffes*** pour agripper les ennemis, qu'ils traînent ensuite à l'écart pour s'en régaler en privé — de préférence en tirant leurs proies agrippées par les fenêtres et sur le toit de la boutique. Les deux vampiriens se battent jusqu'à la mort.
 
-Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
-## D6b. The Trial
-When the players arrive in the town square, which is largely as described in <span class="citation">N8. Town Square (p. 119)</span>, they find a small crowd of onlookers has gathered around the platform holding the empty stocks. Atop the platform stands Rahadin, flanked by two pale-faced Vallakian **guards**. One of the guards is bending down and arguing with Father Lucian, who stands at the base of the platform.
+# D5. Récupérer les Ossements
+Si les joueurs et le Père Lucian réussissent à rapporter les ossements volés à l'église Saint-Andral avant l'aube du 7 Neyavr, le Père Lucian remercie les joueurs et invite Ireena à rester sous leur protection aussi longtemps qu'elle le désire. Ireena dort alors à l'église Saint-Andral chaque nuit jusqu'à ce que le groupe quitte Vallaki dans [[Arc J - La Gemme Volée]].
 
-On either side of Rahadin kneel Milivoj and Henrik van der Voort, their legs and feet bound with rope. Henrik is weeping with fear, while Milivoj is staring vacantly at the ground. Not far away, Milivoj's sobbing seven younger siblings, described further in [[#D2. Milivoj’s House]], struggle to ascend the platform stairs to reach him as a third **guard** blocks their path.
+**_Jalon_**. Rapporter les ossements de Saint Andral complète un jalon de l'histoire. En les rapportant à l'église, accordez à chaque joueur 1 250 PX.
 
-Father Lucian and Milivoj's siblings are grateful to see the players upon their arrival. Father Lucian asks the players to help "stop this madness," noting quietly that Milivoj may have made mistakes, but hardly ones deserving of death.
+# D6. La Visite de Rahadin
+Au crépuscule de la première nuit après la restauration des ossements et la prise de pouvoir de Lady Fiona Wachter dans [[Arc F - Le Souhait de Lady Wachter]] ou suite à [[Arc G - La Fratrie Strazni]], Rahadin, le chambellan de Strahd, arrive à Vallaki sur son *coursier fantôme*. Il ordonne ensuite à la garde de la ville d'arrêter Milivoj et Henrik et de les amener sur la place de la ville pour être jugés. (En raison des ordres permanents de Lady Wachter d'obéir aux lois du Château Ravenloft — tant qu'elles ne portent pas préjudice aux innocents de Vallaki — les gardes aux portes ne désobéissent pas.)
 
-If confronted, Rahadin can coldly share that Milivoj and Henrik have been found guilty of crimes against Vallaki and its people.
+## D6a. L'Invitation
+Rahadin chevauche ensuite jusqu'à l'Auberge de l'Eau Bleue ou tout autre endroit où les joueurs peuvent être trouvés. Là, il remet aux joueurs une invitation à dîner au Château Ravenloft, comme décrit dans [[Arc O - Dîner avec le Diable]], avant de repartir.
 
-If the players demand to know which crimes Milivoj and Henrik have committed, or at another suitable point during the proceedings, the crowd parts as Lady Fiona Wachter arrives, flanked by four **guards** and two **cultists**. Lady Wachter then demands Rahadin inform her of Milivoj and Henrik's crimes. "If the servants of Castle Ravenloft presume to commandeer my guards without my knowledge or permission," she fumes, "I have that right, at least."
+Peu après le départ de Rahadin, un Yeska au visage rouge et en pleurs s'approche des joueurs et les supplie de venir rapidement sur la place de la ville. Milivoj, leur dit-il, a été fait prisonnier par la garde de la ville et doit être exécuté. (Le Père Lucian, qui est déjà allé sur la place de la ville pour demander la clémence, a envoyé Yeska trouver et convoquer les joueurs lorsque Milivoj a été emmené de l'enceinte de l'église.)
 
-Rahadin then reads aloud the following proclamation:
+## D6b. Le Procès
+Lorsque les joueurs arrivent sur la place de la ville, qui est en grande partie telle que décrite en <span class="citation">N8. Place de la Ville (p. 119)</span>, ils trouvent une petite foule de badauds rassemblée autour de l'estrade portant le pilori vide. Au sommet de l'estrade se tient Rahadin, flanqué de deux **gardes** vallakiens au visage pâle. L'un des gardes se penche et discute avec le Père Lucian, qui se tient au pied de l'estrade.
+
+De chaque côté de Rahadin sont agenouillés Milivoj et Henrik van der Voort, les jambes et les pieds liés par une corde. Henrik pleure de peur, tandis que Milivoj fixe le sol d'un air absent. Non loin de là, les sept jeunes frères et sœurs de Milivoj, décrits plus en détail dans [[#D2. Maison de Milivoj]], luttent pour monter les escaliers de l'estrade afin de l'atteindre, tandis qu'un troisième **garde** leur bloque le passage.
+
+Le Père Lucian et les frères et sœurs de Milivoj sont reconnaissants de voir les joueurs à leur arrivée. Le Père Lucian demande aux joueurs d'aider à "arrêter cette folie", notant doucement que Milivoj a peut-être commis des erreurs, mais guère méritant la mort.
+
+S'il est confronté, Rahadin peut froidement partager que Milivoj et Henrik ont été reconnus coupables de crimes contre Vallaki et son peuple.
+
+Si les joueurs exigent de savoir quels crimes Milivoj et Henrik ont commis, ou à un autre moment approprié de la procédure, la foule s'écarte alors que Lady Fiona Wachter arrive, flanquée de quatre **gardes** et de deux **cultistes**. Lady Wachter exige alors que Rahadin l'informe des crimes de Milivoj et Henrik. "Si les serviteurs du Château Ravenloft présument commander mes gardes sans ma connaissance ou ma permission", fume-t-elle, "j'ai au moins ce droit."
+
+Rahadin lit alors à haute voix la proclamation suivante :
 
 <div class="description">
-<p>I, Strahd von Zarovich, Lord of Barovia, hereby find Henrik van der Voort of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
-<p>I further find Milivoj of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
-<p>It is therefore ordered that each receive suitable punishments as befitting the circumstances and nature of their crimes, to be determined and carried out by the Chamberlain of Castle Ravenloft with all reasonable haste.</p>
+<p>Moi, Strahd von Zarovich, Seigneur de Barovie, déclare par la présente Henrik van der Voort de Vallaki COUPABLE des chefs d'accusation suivants : conspiration en vue de commettre un cambriolage ; conspiration en vue de commettre un vol ; complicité de vol ; et recel de biens volés.</p>
+<p>Je déclare en outre Milivoj de Vallaki COUPABLE des chefs d'accusation suivants : intrusion, destruction de biens, conspiration en vue de commettre un cambriolage, cambriolage et vol.</p>
+<p>Il est donc ordonné que chacun reçoive les châtiments appropriés selon les circonstances et la nature de leurs crimes, à déterminer et exécuter par le Chambellan du Château Ravenloft avec toute la diligence raisonnable.</p>
 </div>
 
-The proclamation is signed and sealed by Strahd.
+La proclamation est signée et scellée par Strahd.
 
-As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions. (Lady Wachter will take no action to bar Strahd's justice, but supports the players in their efforts if friendly toward them.)
+En tant que Chambellan du Château Ravenloft, informe Rahadin aux joueurs, il a déterminé que la sentence pour ces crimes est la mort — à moins que certains ne soient prêts à parler en faveur des condamnés, présentant des circonstances atténuantes qui allègent la gravité de leurs transgressions. (Lady Wachter ne fera rien pour entraver la justice de Strahd, mais soutiendra les joueurs dans leurs efforts si elle leur est amicale.)
 
-Should the players do so, Rahadin plays the role of an adversarial and cold-hearted judge, pushing back against their responses and probing at the hole in their reasoning. The players might argue the following mitigating circumstances:
+Si les joueurs le font, Rahadin joue le rôle d'un juge contradictoire et au cœur froid, repoussant leurs réponses et sondant les failles de leur raisonnement. Les joueurs peuvent faire valoir les circonstances atténuantes suivantes :
 
-* **Henrik:** Henrik committed his crimes subject to coercion and duress by Volenta, an ostensible agent of Strahd himself. Henrik is also unlikely to commit his crime again, has no criminal history, and committed no violent act against any person. Additionally, Henrik cooperated with the players when confronted at the coffin-maker's shop.
-* **Milivoj:** Milivoj's actions were driven by the necessity of his family's poverty, rather than by malice. He was also ignorant of the implications of stealing the bones, and was manipulated by Henrik into doing so. Like Henrik, he has no criminal history and committed no violent act against any person.
+* **Henrik :** Henrik a commis ses crimes sous la contrainte et la pression de Volenta, un agent ostensible de Strahd lui-même. Il est également peu probable qu'Henrik commette à nouveau son crime, il n'a pas de casier judiciaire et n'a commis aucun acte de violence contre quiconque. De plus, Henrik a coopéré avec les joueurs lorsqu'il a été confronté à la boutique du fabricant de cercueils.
+* **Milivoj :** Les actions de Milivoj étaient motivées par la nécessité de la pauvreté de sa famille, plutôt que par la malveillance. Il ignorait également les implications du vol des ossements et a été manipulé par Henrik pour le faire. Comme Henrik, il n'a pas de casier judiciaire et n'a commis aucun acte de violence contre quiconque.
 
-The players can also argue that either character has shown sincere remorse for their actions.
+Les joueurs peuvent également faire valoir que l'un ou l'autre personnage a montré un remords sincère pour ses actes.
 
-When the players conclude their arguments for each prisoner, they can make a Charisma (Persuasion) check—to attempt to convince Rahadin to decrease Milivoj and Henrik's sentences if their points are at least reasonably well-argued.
+Lorsque les joueurs concluent leurs arguments pour chaque prisonnier, ils peuvent faire un test de Charisme (Persuasion) — pour tenter de convaincre Rahadin de réduire les peines de Milivoj et Henrik si leurs points sont au moins raisonnablement bien argumentés.
 
-The difficulty of convincing Rahadin to decrease Henrik's sentence is as follows:
+La difficulté pour convaincre Rahadin de réduire la peine d'Henrik est la suivante :
 
-* DC 5: Rahadin agrees to a heavy sentence.
-* DC 10: Rahadin agrees to a moderate sentence.
-* DC 15: Rahadin agrees to a light sentence.
-* DC 20: Rahadin agrees to free Henrik without punishment.
+* DD 5 : Rahadin accepte une peine lourde.
+* DD 10 : Rahadin accepte une peine modérée.
+* DD 15 : Rahadin accepte une peine légère.
+* DD 20 : Rahadin accepte de libérer Henrik sans punition.
 
-The difficulty of convincing Rahadin to decrease Milivoj's sentence is as follows:
+La difficulté pour convaincre Rahadin de réduire la peine de Milivoj est la suivante :
 
-* DC 5: Rahadin agrees to an extreme sentence.
-* DC 10: Rahadin agrees to a severe sentence.
-* DC 15: Rahadin agrees to a heavy sentence.
-* DC 20: Rahadin agrees to a moderate sentence.
+* DD 5 : Rahadin accepte une peine extrême.
+* DD 10 : Rahadin accepte une peine sévère.
+* DD 15 : Rahadin accepte une peine lourde.
+* DD 20 : Rahadin accepte une peine modérée.
 
-Once the players have convinced Rahadin to decrease a prisoner's sentence, he then invites the players to suggest a suitable sentence. If the sentence they suggest is too light, he informs them and counters with an alternative suggestion of his own.
+Une fois que les joueurs ont convaincu Rahadin de réduire la peine d'un prisonnier, il invite alors les joueurs à suggérer une sentence appropriée. Si la sentence qu'ils suggèrent est trop légère, il les en informe et contre-attaque avec une suggestion alternative de son cru.
 
-Suitable punishments for each sentence include:
+Les punitions appropriées pour chaque sentence incluent :
 
-* **Extreme.** Life imprisonment in Castle Ravenloft. (Rahadin takes the prisoner to the castle dungeons.)
-* **Severe.** Mutilation. (Rahadin removes the prisoner's dominant hand.)
-* **Heavy.** Branding. (Rahadin commands a guard to retrieve and light a torch, which he uses to heat an iron signet ring that bears the image of Castle Ravenloft—the symbol of his office. He then uses the hot ring to brand the prisoner on the neck.)
-* **Moderate.** Flogging. (Rahadin commands a guard to fetch a whip, then delivers the agreed-upon number of lashes himself.)
-* **Light.** A fine. (Rahadin directs the prisoner to pay a fine of the agreed-upon sum, to be paid to the town coffers. If the prisoner cannot afford to pay it, Rahadin also sentences him to forced labor in the town's service until he has paid off his debt.)
+* **Extrême.** Emprisonnement à vie au Château Ravenloft. (Rahadin emmène le prisonnier dans les donjons du château.)
+* **Sévère.** Mutilation. (Rahadin retire la main dominante du prisonnier.)
+* **Lourde.** Marquage au fer. (Rahadin ordonne à un garde de récupérer et d'allumer une torche, qu'il utilise pour chauffer une chevalière en fer portant l'image du Château Ravenloft — le symbole de sa charge. Il utilise ensuite l'anneau brûlant pour marquer le prisonnier au cou.)
+* **Modérée.** Flagellation. (Rahadin ordonne à un garde d'aller chercher un fouet, puis administre lui-même le nombre de coups convenu.)
+* **Légère.** Une amende. (Rahadin ordonne au prisonnier de payer une amende de la somme convenue, à verser aux coffres de la ville. Si le prisonnier ne peut pas se permettre de la payer, Rahadin le condamne également aux travaux forcés au service de la ville jusqu'à ce qu'il ait remboursé sa dette.)
 
-Rahadin does not deliver any sentence until all have been agreed upon. If the players prove intransigent or appear to be stalling, Rahadin warns them that his patience is not infinite, and that he will choose and proceed with a suitable sentence unless the players can provide new evidence—not new arguments—mitigating the severity of the prisoners' crimes. "If any person interferes," he warns, "I will not hesitate to incapacitate them. I answer to none but the master of Castle Ravenloft, and you will not obstruct the exactment of justice this night."
+Rahadin ne prononce aucune sentence tant que toutes n'ont pas été convenues. Si les joueurs se montrent intransigeants ou semblent gagner du temps, Rahadin les avertit que sa patience n'est pas infinie et qu'il choisira et appliquera une sentence appropriée à moins que les joueurs ne puissent fournir de nouvelles preuves — et non de nouveaux arguments — atténuant la gravité des crimes des prisonniers. "Si une personne interfère", prévient-il, "je n'hésiterai pas à la neutraliser. Je ne réponds devant personne d'autre que le maître du Château Ravenloft, et vous n'entraverez pas l'exécution de la justice ce soir."
 
-If the players appear horrified by Rahadin's chosen sentence, he coldly reminds them that the prisoners have been found guilty of conspiring to steal from a holy church. "My lord's subjects often claim he lacks appreciation for the sacred," he says. "It seems, perhaps, that he is the only one with any appreciation at all."
+Si les joueurs semblent horrifiés par la sentence choisie par Rahadin, il leur rappelle froidement que les prisonniers ont été reconnus coupables d'avoir conspiré pour voler une église sacrée. "Les sujets de mon seigneur prétendent souvent qu'il manque d'appréciation pour le sacré", dit-il. "Il semble, peut-être, qu'il soit le seul à avoir la moindre appréciation du tout."
 
-If the players appear unpersuaded, Milivoj tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, Milivoj grits his teeth and stifles a roar of pain, but refuses to cry out and give Rahadin the satisfaction.)
+Si les joueurs semblent peu convaincus, Milivoj leur dit d'une voix rauque : "S'il vous plaît, ne faites rien de stupide en mon nom. J'ai fait quelque chose de mal, et j'accepterai n'importe quelle punition. Tant que mes frères et sœurs ne souffrent pas." (S'il est puni par le marquage, la flagellation ou la mutilation, Milivoj serre les dents et étouffe un rugissement de douleur, mais refuse de crier et de donner cette satisfaction à Rahadin.)
 
-If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, Lady Wachter quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
+Si des joueurs semblent susceptibles d'entraver les efforts de Rahadin pour exécuter une sentence, Lady Wachter les supplie calmement de ne pas être stupides. "Il est le chambellan du Château Ravenloft et le bras droit de Von Zarovich", insiste-t-elle. Si les joueurs ont réussi à négocier avec Rahadin pour éviter l'exécution, elle ajoute : "Vous avez déjà sauvé des vies aujourd'hui. N'échangez pas les vôtres pour une entreprise vouée à l'échec. Vallaki a *besoin* de vous."
 
-If the players actually attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
+Si les joueurs tentent réellement d'entraver les efforts de Rahadin pour exécuter cette sentence, il attaque, s'arrêtant une fois que ces joueurs ont été réduits à 0 point de vie. Immédiatement avant de porter le coup final, il entonne : "Je vous déclare coupable d'entrave à la justice — et je vous condamne en conséquence." Pendant que le joueur est inconscient, il utilise alors sa chevalière en fer pour le marquer au cou avec l'image du Château Ravenloft. Il exécute ensuite les sentences d'Henrik et de Milivoj.
 
-Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ once more and departs Vallaki for Castle Ravenloft.
+Une fois que Rahadin est satisfait que justice a été faite, il invoque à nouveau son *coursier fantôme* et quitte Vallaki pour le Château Ravenloft.
 
 <div class="statblock">
 <h2>Rahadin, Castle Chamberlain</h2>
