@@ -549,11 +549,10 @@ Chaque fois qu'un bouton est pressé, son symbole brille de la couleur de son é
 Une créature qui touche toute partie de la porte autre que les boutons sans l'avoir d'abord déverrouillée reçoit une légère mais douloureuse décharge électrique. Une créature qui tente d'enfoncer la porte doit réussir un test de Force DD 25 ; en cas d'échec, un éclair jaillit de la porte en ligne droite sur 30 mètres de long et 1,50 mètre de large. Chaque créature sur la ligne doit réussir un jet de sauvegarde de Dextérité DD 15, subissant 8d6 dégâts de foudre en cas d'échec, ou la moitié en cas de réussite. (Déclencher la foudre plusieurs fois ne provoque pas l'effondrement de la porte.)
 
 Si huit symboles différents sont pressés dans une séquence incorrecte, leurs lumières scintillent brièvement, puis s'éteignent. La première fois que cela se produit, les statues de griffon au sommet du toit de la tour — quatre **gargouilles** déguisées — s'animent et attaquent. Les gargouilles combattent jusqu'à la mort.
-
 > [!combat]- **Combat - Les Gargouilles**
 > **Niveau de Combat** : Oppressif
 > **Niveau de Personnage Attendu** : 4
-> **Alliés :** Szoldar Szoldarovich (CR 1/2)
+> **Alliés :** Szoldar Szoldarovich (FP 1/2)
 > **Consommation de PV Attendue :** 85%
 >
 > ### **Ennemis :**
@@ -572,502 +571,510 @@ Si huit symboles différents sont pressés dans une séquence incorrecte, leurs 
 > | 6 | Ajoutez une cinquième gargouille. |
 
 
-### 2. The Scaffolding
-<span class="citation"><em>This scene takes place in Chapter 11: Area V3.</em></span>
+### 2. L'Échafaudage
+<span class="citation"><em>Cette scène se déroule au Chapitre 11 : Zone V3.</em></span>
 
-The scaffolding is as described in <span class="citation">V3. Rickety Scaffolding (p. 170)</span>. If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
+L'échafaudage est tel que décrit dans <span class="citation">V3. Échafaudage Branlant (p. 170)</span>. Si une créature grimpe l'échafaudage jusqu'au deuxième étage, les quatre **gargouilles** sur le toit s'animent et attaquent. (Rappelez-vous que l'échafaudage mène à un trou dans le mur au troisième étage, pas au deuxième.) Utilisez le bloc de statistiques ci-dessous pour les **gargouilles**, plutôt que celui du _Manuel des Monstres_.
 
 <div class="statblock">
-<h2>Gargoyle</h2>
-<em>Medium Elemental, Chaotic Evil</em>
+<h2>Gargouille</h2>
+<em>Élémentaire de taille Moyenne, Chaotique Mauvais</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe d'Armure</strong> 15 (armure naturelle)
 <br>
-<strong>Hit Points</strong> 37 (5d8 + 15)
+<strong>Points de Vie</strong> 37 (5d8 + 15)
 <br>
-<strong>Speed</strong> 15 ft., fly 30 ft.
+<strong>Vitesse</strong> 4,50 m, vol 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
+      <td data-label="FOR">16 (+3)</td>
       <td data-label="DEX">8 (-1)</td>
       <td data-label="CON">16 (+3)</td>
       <td data-label="INT">6 (-2)</td>
-      <td data-label="WIS">11 (+0)</td>
+      <td data-label="SAG">11 (+0)</td>
       <td data-label="CHA">7 (-2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Damage Resistances</strong> piercing and slashing from nonmagical attacks that aren't adamantine<br>
-<strong>Damage Vulnerabilities</strong> thunder<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> exhaustion, petrified, poisoned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Terran<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +2<br>
+<strong>Résistances aux dégâts</strong> perforants et tranchants des attaques non magiques qui ne sont pas en adamantine<br>
+<strong>Vulnérabilités aux dégâts</strong> tonnerre<br>
+<strong>Immunités aux dégâts</strong> poison<br>
+<strong>Immunités aux états</strong> épuisement, pétrifié, empoisonné<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 10<br>
+<strong>Langues</strong> Terran<br>
+<strong>Puissance</strong> 2<br>
+<strong>Bonus de Maîtrise</strong> +2<br>
 <hr>
-<p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
-<p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
-<p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
-<p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
+<p><strong><em>Fausse apparence.</em></strong> Tant que la gargouille reste immobile, elle est impossible à distinguer d'une statue inanimée.</p>
+<p><strong><em>Changement ardent.</em></strong> Si la gargouille subit des dégâts de feu, elle rougeoie de chaleur jusqu'à la fin de son prochain tour. Tant qu'elle rougeoie, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de feu supplémentaires lors d'une attaque réussie. Tant qu'elle rougeoie, la gargouille gagne une vulnérabilité aux dégâts de froid et cesse immédiatement de rougeoyer si elle subit des dégâts de froid.</p>
+<p><strong><em>Changement glacial.</em></strong> Si la gargouille subit des dégâts de froid, elle se couvre de givre jusqu'à la fin de son prochain tour. Tant qu'elle est couverte de givre, ses <strong><em>griffes</em></strong> infligent 1d4 dégâts de froid supplémentaires lors d'une attaque réussie. Tant qu'elle est couverte de givre, la gargouille gagne une vulnérabilité aux dégâts de feu et sa glace disparaît si elle subit des dégâts de feu.</p>
+<p><strong><em>Corps de pierre.</em></strong> Si la gargouille subit des dégâts de froid alors qu'elle rougeoie, des dégâts de feu alors qu'elle est couverte de givre, des dégâts contondants d'un coup critique, ou des dégâts du sort <em>fracassement</em> ou d'une magie similaire, les ailes de la gargouille se brisent, lui faisant perdre sa vitesse de vol.</p>
+<p><strong><em>Lutteur.</em></strong> La gargouille a un avantage aux jets d'attaque effectués contre une créature qu'elle a empoignée.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
+<p><strong><em>Attaques multiples.</em></strong> La gargouille effectue deux attaques : une avec sa morsure et une avec ses griffes.</p>
+<p><strong><em>Morsure.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 pour toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts perforants.</p>
+<p><strong><em>Griffes.</em></strong> <em>Attaque au corps à corps avec une arme :</em> +5 pour toucher, allonge 1,50 m, une cible. <em>Touché :</em> 6 (1d6 + 3) dégâts tranchants. Au lieu d'infliger des dégâts, la gargouille peut empoigner la cible (évasion DD 13).</p>
 </div>
 
-If able, a gargoyle that has grappled a player flies 15 feet up on its turn and uses its action to ***bite*** the grappled player.
-### 3. Inside the Tower
-<span class="citation"><em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em></span>
+Si elle en est capable, une gargouille qui a empoigné un joueur vole de 4,50 mètres vers le haut pendant son tour et utilise son action pour ***mordre*** le joueur empoigné.
 
-The interior of the tower is largely as described in <span class="citation">V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71)</span>. 
+### 3. À l'intérieur de la Tour
+<span class="citation"><em>Cette scène se déroule au Chapitre 11 : Zones V4, V5, V6, V7 & V8.</em></span>
 
-**The Third Floor.** The third floor also contains an old, rotted crib.
+L'intérieur de la tour est en grande partie tel que décrit dans <span class="citation">V4. Tour, Premier Étage, V5. Tour, Deuxième Étage, V6. Tour, Troisième Étage, et V7. Tour, Quatrième Étage (pp. 170-171)</span>. 
 
-> [!lore]+ **The Crib**
-> The old crib is the last memento of Khazan's infant child, who died with its mother in childbirth two years after Barovia was trapped in the Mists.
+**Le Troisième Étage.** Le troisième étage contient également un vieux berceau pourri.
 
-**The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
+> [!lore]+ **Le Berceau**
+> Le vieux berceau est le dernier souvenir de l'enfant en bas âge de Khazan, qui est mort en couches avec sa mère deux ans après que la Barovie a été piégée dans les Brumes.
 
-A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
+**Le Quatrième Étage.** La boîte en bois contenant la tête coupée de Yan a été retirée de la tour. De plus, l'armure n'est pas magique et constitue une armure de plates fonctionnelle.
 
-* A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
-* Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *Rictavio’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
+Un jet d'Intelligence (Investigation) DD 15 réussi ou une fouille de dix minutes au quatrième étage révèle deux indices :
+
+* Un bracelet de perles colorées avec plusieurs breloques en bois à la taille d'un enfant, enroulé autour d'une dague en argent et d'une carte de Tarokka (l'**Encapuchonné**). (Un joueur qui réussit un jet d'Intelligence (Histoire ou Arcanes) DD 13 se souvient que l'Encapuchonné représente les mystères, les nouveaux venus et les identités cachées.)
+* Deux morceaux de parchemin brûlés au milieu d'un tas de cendres carbonisées dans le poêle, incluant une page brûlée du journal de Van Richten et un croquis roussi d'une affiche annonçant le *Carnaval des Merveilles de Rictavio.* (Le croquis semble avoir été fait bien plus récemment que l'entrée du journal.)
 ![[Carnival Poster.png]]
-<span class="credit">"Rictavio's Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Affiche du Carnaval de Rictavio" par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-As the players search the room, any character who looks out one of the windows toward Lake Baratok notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
+Pendant que les joueurs fouillent la pièce, tout personnage qui regarde par l'une des fenêtres vers le lac Baratok remarque quelque chose d'étrange : une zone de nénuphars à environ 4,50 mètres du rivage tachée d'un jaune vif et flamboyant, en net contraste avec les verts discrets des nénuphars voisins. 
 
-> [!abstract]+ **The Lily Pads**
+> [!abstract]+ **Les Nénuphars**
 >
-> A player who investigates the stained patch of lily pads can find a trio of ceramic pots sunk ten feet below the surface of the water. The pots are each half-filled with rocks; two bear traces of dried yellow paint along their rims and interior, while the third bears traces of dried white paint along its rim and interior.
+> Un joueur qui examine la zone de nénuphars tachés peut trouver trois pots en céramique coulés à 3 mètres sous la surface de l'eau. Les pots sont chacun à moitié remplis de pierres ; deux portent des traces de peinture jaune séchée sur leurs bords et à l'intérieur, tandis que le troisième porte des traces de peinture blanche séchée sur son bord et à l'intérieur.
 >
-> If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
+> Si le joueur a déjà vu le chariot de Rictavio à l'Enclos d'Arasek, il reconnaît la peinture comme étant de la même teinte de jaune que l'enseigne sur le chariot.
 
-If read, the burned journal page now reads only as follows:
+Si elle est lue, la page de journal brûlée ne se lit plus qu'ainsi :
 
 <div class="description">
-<p>For more than three decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.</p>
-<p>In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. Today I am a man who has simply lived too long. Like a regretful lich, I find myself inexorably bound to an existence I sought out of madness and, seemingly, must now endure for all eternity. Of course I shall die, but whether I shall ever rest in my grave haunts my idle thoughts, and torments me in my dreams.</p>
+<p>Depuis plus de trois décennies maintenant, j'ai entrepris d'enquêter et d'exposer les créatures des ténèbres à la lumière purificatrice de la vérité et de la connaissance. « Héros » on m'appelle dans certains cercles ; « sage » et « maître chasseur » on me nomme dans d'autres. Le fait que j'aie survécu à d'innombrables assauts surnaturels est considéré comme une merveille parmi mes pairs ; mon nom est prononcé avec peur et dégoût parmi mes ennemis.</p>
+<p>En vérité, cette vocation « vertueuse » a commencé comme un effort obsessionnel pour détruire un vampire qui a assassiné mon enfant, et c'est devenu pour moi une carrière fastidieuse et sombre. Même si ma vie de chasseur de monstres ne faisait que commencer, je sentais le poids du temps sur mes épaules fatiguées. Aujourd'hui, je suis un homme qui a simplement vécu trop longtemps. Comme une liche pleine de regrets, je me trouve inexorablement lié à une existence que j'ai cherchée par folie et que, semble-t-il, je dois maintenant endurer pour toute l'éternité. Bien sûr, je mourrai, mais la question de savoir si je reposerai un jour dans ma tombe hante mes pensées oisives et me tourmente dans mes rêves.</p>
 </div>
 
-The handwriting matches the handwriting of the excerpt of *Van Richten's Guide to Vampires* found in [[Act I - Into the Mists/Arc B - Welcome to Barovia#Rooms at the Mansion|Arc B - Welcome to Barovia]] and the manuscript on werewolves obtained in [[Act I - Into the Mists/Arc C - Into the Valley#C4d. The Dancing Fire|Arc C - Into the Valley]]. The remainder of the text is unreadable—scorched by heat or burned away to ash.
-# E7. The Road Back
-The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
+L'écriture correspond à celle de l'extrait du *Guide de Van Richten sur les Vampires* trouvé dans l'[[Acte I - Dans les Brumes/Arc B - Bienvenue en Barovie#Chambres au Manoir|Arc B - Bienvenue en Barovie]] et au manuscrit sur les loups-garous obtenu dans l'[[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C4d. Le Feu Dansant|Arc C - Dans la Vallée]]. Le reste du texte est illisible—roussi par la chaleur ou réduit en cendres.
 
-When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in <span class="citation">Werewolves (p. 32)</span>, but revise the descriptive text as follows: 
+# E7. Le Chemin du Retour
+Les activités des joueurs au Lac Baratok attirent l'attention d'une paire de **loups-garous**, qui se cachent dans les bois à l'est du lac, attendant silencieusement que les joueurs retournent sur la route.
+
+Lorsque les joueurs entament le trajet de retour vers Vallaki—soit par le chemin du nord, soit par la Vieille Route de Svalich au sud—les loups-garous les suivent. Quinze minutes après le départ des joueurs du lac, ils rencontrent les deux loups-garous sous forme humaine. La scène se déroule en grande partie telle que décrite dans <span class="citation">Loups-garous (p. 32)</span>, mais révisez le texte descriptif comme suit : 
 
 <div class="description">
-<p>A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick mutton chops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.</p>
-<p>Just behind him, barely visible in the gloom, stands a grim-faced woman, her long, dark hair loosely braided. She holds a spear of her own, the tip glinting in the scarce light, and wears a cloak wrapped tightly around her chest.</p>
+<p>Une voix grave résonne : « Qui va là ? » À travers le brouillard glacial, vous apercevez un grand homme vêtu d'habits ternes et portant une cape grise en lambeaux. Il a des cheveux noirs hirsutes et d'épais favoris. Il s'appuie lourdement sur une lance et porte un petit baluchon de peaux d'animaux en bandoulière.</p>
+<p>Juste derrière lui, à peine visible dans la pénombre, se tient une femme au visage sombre, ses longs cheveux noirs tressés de façon lâche. Elle tient elle-même une lance, dont la pointe brille dans la faible lumière, et porte une cape serrée étroitement autour de sa poitrine.</p>
 </div> 
 
-The two **werewolves** introduce themselves as Zsolt and Mathilda, trappers from Krezk. (If Szoldar is with the players, he whispers warily that he recognizes neither "trapper's" name.) Zsolt is warm and friendly, while Mathilda is sullen and quiet. 
+Les deux **loups-garous** se présentent comme Zsolt et Mathilda, des trappeurs de Krezk. (Si Szoldar est avec les joueurs, il murmure avec méfiance qu'il ne reconnaît le nom d'aucun de ces « trappeurs ».) Zsolt est chaleureux et amical, tandis que Mathilda est maussade et silencieuse. 
 
-Zsolt warns the players that the road has become dangerous for travelers, and suggests traveling together. Whether the players accept or reject his offer, Zsolt then shares the following story:
+Zsolt prévient les joueurs que la route est devenue dangereuse pour les voyageurs, et suggère de faire le chemin ensemble. Que les joueurs acceptent ou rejettent son offre, Zsolt partage ensuite l'histoire suivante :
 
 <div class="description">
-<p>A light glints in Zsolt’s amber eyes. "There's been a tale echoing through these woods of late. A tale of a Vistana woman, a kind of phantom, who stalks the paths under the moon's gaze. They say she's not of this world, but from the realms of death itself.”</p>
-<p>He licks his lips. "She's said to be a frightful sight, with eyes that burn like embers in the darkness, and an iron leg that shrieks in the night. They say she's clad in a patchwork of cloaks, like a wandering vagabond, but don't let that fool you. For in her hand, she carries a wicked blade—a weapon that thirsts for the blood of innocents.”</p>
-<p>He chuckles lightly. "And oh, does her blade drink well! She's been butchering good folk in the woods, they say. Men, women—it matters not. Whip! goes her blade, and off come their heads, trophies for her dark desires.”</p>
-<p>He pauses, and his lips spread into a wolfish grin,  "But I'm sure we'll have naught to worry about with fine, strong folks like you on the roads. And besides—how deadly can a tale truly be?"</p>
+<p>Une lueur brille dans les yeux ambrés de Zsolt. « Il y a une histoire qui résonne dans ces bois dernièrement. L'histoire d'une femme Vistana, une sorte de fantôme, qui arpente les sentiers sous le regard de la lune. Ils disent qu'elle n'est pas de ce monde, mais des royaumes de la mort elle-même. »</p>
+<p>Il se lèche les lèvres. « On dit qu'elle est effrayante à voir, avec des yeux qui brûlent comme des braises dans l'obscurité, et une jambe de fer qui grince dans la nuit. On dit qu'elle est vêtue d'un patchwork de capes, comme une vagabonde errante, mais ne vous y trompez pas. Car dans sa main, elle porte une lame redoutable—une arme qui a soif du sang des innocents. »</p>
+<p>Il glousse légèrement. « Et oh, qu'elle boit bien, sa lame ! Elle a massacré de braves gens dans les bois, à ce qu'on dit. Hommes, femmes—peu importe. Fouic ! fait sa lame, et leurs têtes tombent, trophées pour ses sombres désirs. »</p>
+<p>Il fait une pause, et ses lèvres s'étirent en un sourire de loup, « Mais je suis sûr que nous n'aurons rien à craindre avec des gens forts et vaillants comme vous sur les routes. Et d'ailleurs—à quel point une histoire peut-elle être mortelle, n'est-ce pas ? »</p>
 </div>
 
-When his story is complete, Zsolt playfully asks the players whether they have good steel to defend themselves, should the murderess find them upon the road. 
+Lorsque son histoire est terminée, Zsolt demande de manière taquine aux joueurs s'ils ont du bon acier pour se défendre, au cas où la meurtrière les trouverait sur la route. 
 
-If at least two characters show that they’re carrying silvered weapons or ammunition, the playful light fades from Zsolt’s eyes, replaced by a momentary glint of wariness. His grip tightens around his spear, and his gaze meets Mathilda's for a brief, near-imperceptible moment. He congratulates the players on entering the woods well-prepared, but the joviality in his voice has become hollow. Unless stopped or provided with a suitable excuse, Zsolt and Mathilda accompany the players in silence as far as the Luna River Crossroads, then depart south toward Berez.
+Si au moins deux personnages montrent qu'ils portent des armes ou des munitions en argent, la lueur taquine disparaît des yeux de Zsolt, remplacée par un bref éclat de méfiance. Sa poigne se resserre autour de sa lance, et son regard croise celui de Mathilda pour un instant bref, presque imperceptible. Il félicite les joueurs de s'être aventurés dans les bois bien préparés, mais la jovialité de sa voix sonne désormais creux. À moins d'être arrêtés ou qu'on leur fournisse une excuse valable, Zsolt et Mathilda accompagnent les joueurs en silence jusqu'au Carrefour de la Rivière Luna, puis partent vers le sud en direction de Berez.
 
-Otherwise, if no characters show that they’re carrying silvered weapons or ammunition, a mocking smirk creeps onto Zsolt's face, and he says, "You seem to be mighty warriors indeed! But it seems you've forgotten something important." If the players ask what they've forgotten, Zsolt's eyes flash with hunger, and he hisses, "Silver." He and Mathilda then assume their hybrid forms and attack.
+Sinon, si aucun personnage ne montre qu'il porte des armes ou des munitions en argent, un sourire moqueur se dessine sur le visage de Zsolt, et il dit : « Vous semblez être de puissants guerriers en effet ! Mais il semble que vous ayez oublié quelque chose d'important. » Si les joueurs demandent ce qu'ils ont oublié, les yeux de Zsolt brillent de faim, et il siffle : « L'argent. » Lui et Mathilda prennent alors leurs formes hybrides et attaquent.
 
-> [!combat]- **Combat - The Werewolves**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 4
-> **Allies:** Szoldar Szoldarovich (CR 1/2)
-> **Expected HP Consumption:** 38%
+> [!combat]- **Combat - Les Loups-garous** > **Niveau de Combat** : Éprouvant
+> **Niveau de Personnage Attendu** : 4
+> **Alliés :** Szoldar Szoldarovich (FP 1/2)
+> **Consommation de PV Attendue :** 38%
 > 
-> ### **Enemies:**
+> ### **Ennemis :**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 Joueurs | 4 Joueurs | 5 Joueurs | 6 Joueurs |
 > |-|-|-|-|-|
-> | Werewolf | 2 | 2 | 2 | 2 |
+> | Loup-garou | 2 | 2 | 2 | 2 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Équilibrage :**
+> Si vous avez moins ou plus de 5 joueurs, modifiez la rencontre comme suit :
 >
-> | Number of Players | Modification |
+> | Nombre de Joueurs | Modification |
 > |-|-|
-> | 3 | Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
-> | 4 | Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
-> | 6 | Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
+> | 3 | Réduisez les points de vie des loups-garous à 42. Réduisez les dégâts de leur ***morsure*** à 5 (1d10) dégâts perforants et les dégâts de leurs ***griffes*** à 5 (2d4). Ils utilisent toujours leur action bonus pour se transformer en forme hybride lors du premier tour de combat contre les joueurs. |
+> | 4 | Réduisez les points de vie des loups-garous à 63. Réduisez les dégâts de leur ***morsure*** à 6 (1d8+2) dégâts perforants et les dégâts de leurs ***griffes*** à 7 (2d4+2). Ils utilisent toujours leur action bonus pour se transformer en forme hybride lors du premier tour de combat contre les joueurs. |
+> | 6 | Augmentez les points de vie des loups-garous à 105. Augmentez les dégâts de leur ***morsure*** à 8 (1d8+4) dégâts perforants et les dégâts de leurs ***griffes*** à 9 (2d4+4). Ils utilisent toujours leur action bonus pour se transformer en forme hybride lors du premier tour de combat contre les joueurs. |
 
-Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
+Utilisez le bloc de statistiques ci-dessous pour les **loups-garous**, plutôt que celui du *Manuel des Monstres.*
 
 <div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
+<h2>Loup-garou</h2>
+<em>Humanoïde (humain, métamorphe) de taille Moyenne, Chaotique Mauvais</em>
 <hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+<strong>Classe d'Armure</strong> 11 sous forme humanoïde, 12 (armure naturelle) sous forme de loup ou hybride
 <br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
+<strong>Points de Vie</strong> 84 (13d8 + 26)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Vitesse</strong> 9 m (12 m sous forme de loup)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
+      <th>FOR</th>
       <th>DEX</th>
       <th>CON</th>
       <th>INT</th>
-      <th>WIS</th>
+      <th>SAG</th>
       <th>CHA</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
+      <td data-label="FOR">16 (+3)</td>
       <td data-label="DEX">13 (+1)</td>
       <td data-label="CON">14 (+2)</td>
       <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
+      <td data-label="SAG">11 (+0)</td>
       <td data-label="CHA">10 (+0)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision, passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus</strong> +2<br>
+<strong>Jets de Sauvegarde</strong> For +5<br>
+<strong>Compétences</strong> Perception +4, Discrétion +3<br>
+<strong>Sens</strong> vision dans le noir 18 m, Perception passive 14<br>
+<strong>Langues</strong> Commun (ne peut pas parler sous forme de loup)<br>
+<strong>Puissance</strong> 3, ou 2 sans sa régénération<br>
+<strong>Bonus de Maîtrise</strong> +2<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
+<p><strong><em>Ouïe et odorat aiguisés.</em></strong> Le loup-garou a un avantage aux jets de Sagesse (Perception) basés sur l'ouïe ou l'odorat.</p>
+<p><strong><em>Tactique de meute.</em></strong> Le loup-garou a un avantage aux jets d'attaque contre une créature si au moins l'un de ses alliés est à 1,50 mètre ou moins de cette créature et que cet allié n'est pas neutralisé.</p>
+<p><strong><em>Régénération.</em></strong> Le loup-garou regagne 10 points de vie au début de son tour. Si le loup-garou subit des dégâts nécrotiques ou des dégâts contondants, perforants ou tranchants d'une arme en argent, ce trait ne fonctionne pas au début du prochain tour du loup-garou. Le loup-garou ne meurt que s'il commence son tour avec 0 point de vie et ne se régénère pas.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 6 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
+<p><strong><em>Attaques multiples.</em></strong> Le loup-garou effectue deux attaques : deux avec sa lance (forme humanoïde) ou une avec sa morsure et une avec ses griffes (forme de loup ou hybride).</p>
+<p><strong><em>Morsure (Forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 pour toucher, allonge 1,50 m, une cible. Touché : 7 (1d8 + 3) dégâts perforants. Au lieu d'infliger des dégâts, le loup-garou peut empoigner la cible (évasion DD 11). De plus, si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 13 ou être maudite par la lycanthropie du loup-garou.</p>
+<p><strong><em>Griffes (Forme de loup ou hybride uniquement).</em></strong> Attaque au corps à corps avec une arme : +5 pour toucher, allonge 1,50 m, une créature. Touché : 8 (2d4 + 3) dégâts tranchants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 13 ou être jetée à terre.</p>
+<p><strong><em>Lance (Forme humanoïde uniquement).</em></strong> Attaque au corps à corps ou à distance avec une arme : +5 pour toucher, allonge 1,50 m ou portée 6/18 m, une créature. Touché : 6 (1d6 + 3) dégâts perforants, ou 6 (1d8 + 3) dégâts perforants si utilisée à deux mains pour effectuer une attaque au corps à corps.</p>
+<h3>Actions Bonus</h3>
+<p><strong><em>Métamorphose.</em></strong> Le loup-garou se métamorphose en un hybride loup-humanoïde ou en loup, ou reprend sa forme véritable, qui est humanoïde. Ses statistiques, en dehors de sa CA, sont les mêmes sous chaque forme. L'équipement qu'il porte ou transporte fusionne avec sa nouvelle forme. Il reprend sa forme véritable s'il meurt.</p>
 </div>
 
-In battle, the werewolves prioritize players wielding silvered weapons, if any. If one werewolf is killed or both are bloodied, they flee into the Svalich Woods.
+En combat, les loups-garous visent en priorité les joueurs maniant des armes en argent, s'il y en a. Si un loup-garou est tué ou si les deux sont ensanglantés, ils fuient dans les Bois de Svalich.
 
-The players experience no other encounters on their journey to Vallaki.
+Les joueurs ne font aucune autre rencontre lors de leur voyage vers Vallaki.
 
-> [!info]+ **The Curse of Lycanthropy**
-> If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolves' Hunt|Arc C - Into the Valley]] for more information about the curse.
-# E8. Return to Vallaki
-The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
+> [!info]+ **La Malédiction de la Lycanthropie**
+> Si un joueur est infecté par la lycanthropie, consultez l'encadré **La Lycanthropie en Barovie** dans l'[[Acte I - Dans les Brumes/Arc C - Dans la Vallée#C11. La Chasse des Loups-garous|Arc C - Dans la Vallée]] pour plus d'informations sur la malédiction.
+# E8. Retour à Vallaki
+Le retour des joueurs à Vallaki depuis le Lac Baratok est long de trois miles et quart (environ 5 kilomètres) et prend approximativement une heure.
 
-When the players return to Vallaki, they can pursue their leads either by seeking out Rictavio at the Blue Water Inn, or by directly investigating Rictavio’s wagon in Arasek Stockyard.
+Lorsque les joueurs retournent à Vallaki, ils peuvent suivre leurs pistes soit en cherchant Rictavio à l'Auberge de l'Eau Bleue, soit en inspectant directement le chariot de Rictavio à l'Enclos d'Arasek.
 
-As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, Arrigal, who has tracked the players back to Vallaki. If the players enter Vallaki, Arrigal uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to Arabelle.)
+Alors que les joueurs retournent à la porte du Couchant de Vallaki, un joueur avec un score de Sagesse (Perception) passive de 19 ou plus remarque la même silhouette qu'auparavant les observant—cette fois-ci, depuis les bois du nord-ouest. La silhouette disparaît dans les arbres si on la regarde, si on lui parle, si on s'en approche ou si on interagit avec elle d'une quelconque manière. (Il s'agit, encore une fois, d'Arrigal, qui a traqué les joueurs jusqu'à Vallaki. Si les joueurs entrent dans Vallaki, Arrigal utilise ses deux dagues comme des pitons de fortune pour escalader les murs de la palissade de Vallaki et se faufiler au-delà des gardes en patrouille. Il continue ensuite à traquer les joueurs à travers les rues dans l'espoir qu'ils le mèneront à Arabelle.)
 
-> [!profile]+ **Profile: Dr. Rudolph van Richten**
-> **Roleplaying Information**
-> ***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.
+> [!profile]+ **Profil : Dr Rudolph van Richten**
+> **Informations d'Interprétation**
+> ***Résonance.*** Van Richten devrait inspirer de la gratitude pour ses connaissances (partagées librement), du réconfort face à sa confiance et son expérience, et une légère irritation due à sa paranoïa et sa brusquerie.
 > 
-> ***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
+> ***Émotions.*** Van Richten se sent le plus souvent méfiant, sur ses gardes, pensif, inquiet, mélancolique, satisfait, inquisiteur, coupable et honteux.
 > 
-> ***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus' death and his slaughter of the Radanaviches.
+> ***Motivations.*** Van Richten veut garder Arabelle en sécurité, éviter d'être détecté par Strahd, aider les ennemis de Strahd, et se racheter pour la mort d'Erasmus et pour le massacre des Radanavich.
 > 
-> ***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
+> ***Inspiration.*** Lorsque vous interprétez Van Richten, inspirez-vous d'Alastor « Maugrey Fol Œil » Moody (*Harry Potter*), de Geralt de Riv (*The Witcher*), et de Mike Ehrmantraut (*Breaking Bad*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich Vistani caravan.
+> **Informations sur le Personnage**
+> ***Façade.*** Aux yeux du monde, Van Richten est un chasseur de monstres impitoyable et aguerri. Pour ceux en qui il a confiance, Van Richten est un mentor compatissant avec des standards extrêmement élevés, une forte tendance paranoïaque, et un caractère parfois colérique. Seul Van Richten connaît la profondeur de la culpabilité, de la honte et du dégoût de soi qu'il ressent pour la mort de son fils et de sa femme, et pour le massacre de la caravane Vistani des Radanavich.
 > 
-> ***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
+> ***Moral.*** Lors d'un combat, Van Richten tentera de se montrer plus rusé que son adversaire ou de le déjouer, battant en retraite si nécessaire afin de s'assurer le terrain le plus avantageux.
 > 
-> ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
-## E8a. Confronting Rictavio
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+> ***Relations.*** Van Richten est le mentor de la chasseuse de monstres Vistana Ezmerelda d'Avenir, le père de feu Erasmus van Richten, lié au Plan Éthéré (avec qui il ne peut ni communiquer ni percevoir), l'ancien propriétaire du singe Piccolo maintenant possédé par le fabricant de jouets de Vallaki Gadof Blinsky, le tueur de la famille d'Arturi Radanavich, et l'ancien allié de la rébellion de Doru contre le Château Ravenloft.
 
-If the players visit the Blue Water Inn first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that Rictavio recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where Rictavio has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
+## E8a. Confronter Rictavio
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N2.</em></span>
 
-If the players indicate an interest in following Rictavio to the stockyard, Danika jokingly warns them to be on the lookout for dangerous beasts—local rumors suggest that the ringmaster is keeping something big and deadly in his wagon.
+Si les joueurs visitent l'Auberge de l'Eau Bleue en premier, ils peuvent apprendre par [[Non-Player Characters#Danika Dorakova|Danika]] que Rictavio a récemment quitté l'auberge et qu'il a mentionné « inspecter son chariot pour quelques réparations nécessaires ». Si les joueurs demandent où Rictavio garde son chariot, Danika se souvient l'avoir entendu dire qu'il le gardait à l'Enclos d'Arasek. 
 
-If the players wait for Rictavio to return before confronting him, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] greets them warmly and feigns ignorance of their allegations and claims. However, he invites them to his guest suite to discuss the matter in private if the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover.
+Si les joueurs indiquent qu'ils souhaitent suivre Rictavio jusqu'à l'enclos, Danika les prévient en plaisantant de faire attention aux bêtes dangereuses—des rumeurs locales suggèrent que le Monsieur Loyal garde quelque chose de gros et de mortel dans son chariot.
 
-Once he and the players are alone in his guest suite, Rictavio draws his sword-cane and demands proof that the players are not servants of Strahd von Zarovich. If the players muster sufficient evidence or succeed on a DC 15 Charisma (Persuasion) check, Rictavio reluctantly stows his blade, checks the window and corridor for Strahd’s spies, and shuts the window shutters tight. He then removes his *hat of disguise*, and confesses his identity as Dr. Rudolph van Richten. 
+Si les joueurs attendent que Rictavio revienne avant de le confronter, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] les accueille chaleureusement et feint l'ignorance de leurs allégations et affirmations. Cependant, il les invite dans sa suite d'invités pour discuter de la question en privé si les joueurs insistent sur le fait qu'ils souhaitent aider Arabelle, lui montrent la page de journal brûlée, ou menacent autrement de faire sauter sa couverture.
+
+Une fois qu'il est seul avec les joueurs dans sa suite, Rictavio dégaine sa canne-épée et exige la preuve que les joueurs ne sont pas des serviteurs de Strahd von Zarovich. Si les joueurs rassemblent suffisamment de preuves ou réussissent un jet de Charisme (Persuasion) DD 15, Rictavio range à contrecœur sa lame, vérifie la fenêtre et le couloir à la recherche d'espions de Strahd, et ferme fermement les volets de la fenêtre. Il retire ensuite son *chapeau de déguisement*, et confesse son identité en tant que Dr Rudolph van Richten. 
 
 ![[RVR_Transparent.png]]
 
-<span class="credit">"Dr. Rudolph van Richten" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">« Dr Rudolph van Richten » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
 <div class="statblock">
 <h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
+<em>Humanoïde (humain) de taille Moyenne, loyal bon</em>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor)
+<strong>Classe d'Armure</strong> 13 (armure de cuir)
 <br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
+<strong>Points de Vie</strong> 77 (14d8 + 14)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Vitesse</strong> 9 m
 <hr>
 <table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9 (–1)</td>
-      <td>14 (+2)</td>
-      <td>13 (+1)</td>
-      <td>19 (+4)</td>
-      <td>18 (+4)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
+  <thead>
+    <tr>
+      <th>FOR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>INT</th>
+      <th>SAG</th>
+      <th>CHA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9 (–1)</td>
+      <td>14 (+2)</td>
+      <td>13 (+1)</td>
+      <td>19 (+4)</td>
+      <td>18 (+4)</td>
+      <td>16 (+3)</td>
+    </tr>
+  </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Jets de Sauvegarde</strong> Con +4, Sag +7<br>
+<strong>Compétences</strong> Arcanes +10, Intuition +7, Médecine +10, Perception +7, Religion +7, Escamotage +5<br>
+<strong>Sens</strong> Perception passive 17<br>
+<strong>Langues</strong> Abyssal, Commun, Elfique, Infernal<br>
+<strong>Puissance</strong> 5 (1 800 PX)<br>
+<strong>Bonus de Maîtrise</strong> +3
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
+<p><strong><em>Équipement Spécial.</em></strong> Van Richten porte un <em>chapeau de déguisement</em> et un <em>anneau de protection mentale</em>.</p>
+<p><strong><em>Attaque Sournoise.</em></strong> Une fois par tour, Van Richten peut infliger 17 (5d6) dégâts supplémentaires à une créature qu'il touche avec une attaque s'il a un avantage au jet d'attaque. Il n'a pas besoin de l'avantage au jet d'attaque si la cible est un mort-vivant ; ou si au moins l'un de ses alliés est à 1,50 m ou moins de la cible, que l'allié n'est pas neutralisé, et qu'il n'a pas un désavantage au jet d'attaque.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong>Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong>Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong>Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
+<p><strong><em>Attaques Multiples.</em></strong> Van Richten effectue deux attaques avec sa canne-épée en argent ou son arbalète en argent.</p>
+<p><strong><em>Canne-Épée en Argent.</em></strong> Attaque au corps à corps avec une arme : +5 pour toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts perforants.</p>
+<p><strong><em>Arbalète en Argent.</em></strong> Attaque à distance avec une arme : +5 pour toucher, portée 24/96 m, une cible. Touché : 6 (1d8 + 2) dégâts perforants.</p>
+<p><strong><em>Bracelet à Breloques.</em></strong> Van Richten utilise son bracelet à breloques pour lancer l'un des sorts suivants, en utilisant la Sagesse comme caractéristique d'incantation (DD de sauvegarde des sorts 15) :<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/jour chaque</strong> : cécité/surdité, protection contre la mort, liberté de mouvement</p>
+<p><strong><em>Chapeau de Déguisement.</em></strong> Van Richten utilise son <em>chapeau de déguisement</em> pour lancer <em>déguisement</em>.
+<p><strong><em>Lentille Lucide.</em></strong> Van Richten utilise sa <em>lentille lucide</em> pour lancer <em>détection de la magie</em> ou <em>détection du mal et du bien</em> (1/jour chaque).
+<h3>Actions Bonus</h3>
+<p><strong><em>Action Rusée.</em></strong> Van Richten prend l'action Se désengager, Se cacher, ou Foncer.</p>
+<p><strong><em>Maître des Tactiques (Aider).</em></strong> Van Richten utilise l'action Aider pour soutenir l'attaque d'un allié contre une créature se trouvant à 9 mètres ou moins de lui et qui peut le voir ou l'entendre.</p>
+<p><strong><em>Combat Intuitif.</em></strong> Van Richten fait un jet de Sagesse (Intuition) contre une créature qu'il peut voir et qui n'est pas neutralisée, opposé au jet de Charisme (Tromperie) de la cible. En cas de succès, il a un avantage pour attaquer cette créature et cette créature a un désavantage pour l'attaquer pendant 1 minute. Cet avantage dure 1 minute ou jusqu'à ce qu'il utilise cette capacité avec succès contre une cible différente.</p>
+<h3>Réactions</h3>
+<p><strong><em>Bracelet à Breloques.</em></strong> <em>Déclencheur :</em> Une créature hostile attaque Van Richten ou termine son tour. <em>Effet</em> : Van Richten lance un sort en utilisant son <em>bracelet à breloques</em>.</p>
+<p><strong><em>Esquive Instinctive.</em></strong> <em>Déclencheur :</em> Un attaquant touche Van Richten avec un jet d'attaque. <Em>Effet :</em> Van Richten réduit de moitié les dégâts de l'attaque contre lui (arrondi à l'inférieur).</p>
 </div>
 
-Van Richten can share the following information:
+Van Richten peut partager les informations suivantes :
 
-* Until recently, he had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
-* Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
-* The girl, who introduced herself as Arabelle, was uncertain of why she had been kidnapped. Van Richten used his *talisman of echoes* to interrogate the dead Vistana’s severed head, and learned that Strahd had issued a bounty on young girls matching Arabelle’s precise and unique description: dark-haired and olive-skinned, with lavender irises. Van Richten and Arabelle agreed that returning her to the Vistani camp would leave her exposed to Strahd, and was therefore too dangerous.
-* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by Vallaki to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
-* Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
-* While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
+* Jusqu'à récemment, il faisait profil bas dans la tour du Lac Baratok. Cependant, cela a changé lorsqu'il a vu un homme Vistana apporter un sac gigotant à un rejeton vampire aux cheveux dorés sur les rives de la rivière Luna. (Van Richten a reconnu le vampire comme étant un homme nommé Escher, un barde de Barovie qui avait rejoint la révolte des Baroviens.)
+* Van Richten a attaqué le duo, tuant le Vistana et balafrant le vampire, qui a fui. En ouvrant le sac, il a trouvé une jeune fille Vistana à l'intérieur.
+* La fille, qui s'est présentée comme Arabelle, n'était pas certaine de la raison pour laquelle elle avait été kidnappée. Van Richten a utilisé son *talisman des échos* pour interroger la tête coupée du Vistana mort, et a appris que Strahd avait émis une prime sur les jeunes filles correspondant à la description précise et unique d'Arabelle : cheveux bruns et peau olive, avec des iris lavande. Van Richten et Arabelle ont convenu que la ramener au campement Vistani l'exposerait à Strahd, et que c'était donc trop dangereux.
+* Les deux sont retournés à la tour du Lac Baratok, où Van Richten avait précédemment caché son cheval, Drusilla, et un chariot Vistani couvert qu'il avait initialement utilisé pour entrer en Barovie. En utilisant son *chapeau de déguisement*, Van Richten a adopté l'apparence du Vistana mort et s'est faufilé dans le camp Vistani près de Vallaki pour voler trois pots de peinture, qu'il a utilisés pour déguiser son chariot en « Carnaval des Merveilles de Rictavio ».
+* Van Richten et Arabelle ont ensuite voyagé jusqu'à Vallaki, Van Richten adoptant l'identité de Rictavio pour se cacher au grand jour. Arabelle est restée dissimulée dans son chariot depuis.
+* Bien que la tour du Lac Baratok contienne un *champ antimagie* permanent qui bloquerait la scrutation de Strahd, Van Richten pensait que Strahd serait parfaitement au courant de ce fait, et que la tour figurerait donc parmi les premiers endroits où il chercherait. C'est pourquoi Van Richten, qui portait déjà une telle amulette, a donné à Arabelle une *amulette d'antidétection* de rechange qu'il avait autrefois donnée à—et ensuite reçue de—l'un de ses étudiants. (S'il est pressé, Van Richten admet que l'amulette appartenait autrefois à Ezmerelda d'Avenir, mais ne discute pas de la question plus en détail.)
 
-If the players ask Van Richten about his arrival in Barovia or the revolt against Strahd, he can also share the following information:
+Si les joueurs interrogent Van Richten sur son arrivée en Barovie ou sur la révolte contre Strahd, il peut également partager les informations suivantes :
 
-* When Van Richten first arrived in Barovia, he hoped to face Strahd alone, taking advantage of the vampire’s hibernation to destroy him in his coffin. 
-* His plans were foiled when an undead dire wolf attacked a trio of Barovia children, and the resulting battle revealed his identity to the onlooking Doru.
-* Doru blackmailed Van Richten into leading a full-scale revolt on the castle, threatening to bring an untrained mob to Ravenloft’s doors if Van Richten didn’t lead them there. Van Richten, fearful that such a mob could awaken Strahd and destroy his own plans, reluctantly agreed.
-* Shortly after entering the castle, however, they were betrayed. Escher, Doru’s “lieutenant,” vanished from the group as they explored the catacombs. Not long thereafter, the mob found Strahd’s coffin empty—and Strahd himself attacked shortly thereafter. Van Richten fled, knowing from his long studies of Strahd that victory was impossible. 
-* Upon escaping Castle Ravenloft and recovering his horse, Van Richten began the journey to warn the Barovians of the vampire’s awakening. However, he was stopped by the Vistani seer Madam Eva, who warned him: “The message you bring shall be borne by another. Should you return to the village while light lingers in the valley, you shall surely meet your grave.” 
-* Knowing full well of Eva’s reputation, Van Richten reluctantly set forth for Lake Baratok instead, weeping bitter tears for the sons and daughters of Barovia. 
+* Lorsque Van Richten est arrivé en Barovie, il espérait affronter Strahd seul, profitant de l'hibernation du vampire pour le détruire dans son cercueil. 
+* Ses plans ont été déjoués lorsqu'un loup redoutable mort-vivant a attaqué un trio d'enfants baroviens, et la bataille qui en a résulté a révélé son identité à Doru, qui observait.
+* Doru a fait chanter Van Richten pour qu'il mène une révolte à grande échelle contre le château, menaçant d'amener une foule non entraînée aux portes de Ravenloft si Van Richten ne les y conduisait pas. Van Richten, craignant qu'une telle foule ne réveille Strahd et ne détruise ses propres plans, a accepté à contrecœur.
+* Peu de temps après être entrés dans le château, cependant, ils ont été trahis. Escher, le « lieutenant » de Doru, a disparu du groupe alors qu'ils exploraient les catacombes. Peu de temps après, la foule a trouvé le cercueil de Strahd vide—et Strahd lui-même a attaqué peu après. Van Richten a fui, sachant, grâce à ses longues études sur Strahd, que la victoire était impossible. 
+* Après s'être échappé du Château Ravenloft et avoir récupéré son cheval, Van Richten a entamé le voyage pour avertir les Baroviens du réveil du vampire. Cependant, il a été arrêté par la voyante Vistana Madame Eva, qui l'a prévenu : « Le message que vous portez sera transmis par un autre. Si vous retournez au village alors que la lumière s'attarde dans la vallée, vous rencontrerez sûrement votre tombe. » 
+* Connaissant parfaitement la réputation d'Eva, Van Richten s'est mis en route à contrecœur pour le Lac Baratok à la place, pleurant des larmes amères pour les fils et les filles de Barovie. 
 
-If the players demand it, Van Richten agrees to bring them to his wagon at Arasek Stockyard to see Arabelle for themselves. Proceed to [[#E8b. Following Rictavio]] below.
-## E8b. Following Rictavio
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
+Si les joueurs l'exigent, Van Richten accepte de les amener à son chariot à l'Enclos d'Arasek pour voir Arabelle de leurs propres yeux. Passez à [[#E8b. Suivre Rictavio]] ci-dessous.
 
-If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that Rictavio is repeatedly adjusting and re-adjusting the same spoke, and that Rictavio’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+## E8b. Suivre Rictavio
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N5.</em></span>
 
-If the players confront him, Rictavio greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help Arabelle, show him the burned journal page, or otherwise threaten to blow his cover, Rictavio’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
+Si les joueurs suivent [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] jusqu'à l'Enclos d'Arasek au lieu de l'attendre à l'Auberge de l'Eau Bleue, ils peuvent le trouver agenouillé près du chariot, où il semble ajuster les rayons de la roue en bois arrière gauche du chariot. Un joueur avec un score de Sagesse (Perception) passive de 16 ou plus remarque que Rictavio ajuste et réajuste continuellement le même rayon, et que les lèvres de Rictavio bougent, comme s'il parlait à quelqu'un. Si les joueurs l'observent, il poursuit sa tâche pendant cinq bonnes minutes—bien plus longtemps qu'une telle tâche ne devrait ordinairement prendre—avant de se lever et de se préparer à partir.
 
-If the players muster sufficient evidence of their good faith or succeed on a DC 15 Charisma (Persuasion) check, Rictavio sighs and commands the players to form a protective wall around the rear of the wagon. If the players antagonize Rictavio instead, or otherwise fail to convince him, a young girl’s voice quietly rings out from the wagon: “They mean me no harm. Please, open the door.”
-## E8c. Rictavio’s Wagon
-<span class="citation"><em>This scene takes place in Chapter 5: Area N5</em></span>
+Si les joueurs le confrontent, Rictavio les accueille chaleureusement, mais feint l'ignorance de leurs allégations et affirmations. Si les joueurs insistent sur le fait qu'ils souhaitent aider Arabelle, lui montrent la page de journal brûlée, ou menacent autrement de faire sauter sa couverture, le regard de Rictavio se durcit, son poing se serre autour de sa canne, et sa voix s'abaisse à un murmure. Il exige de savoir s'ils sont des espions de Strahd, et menace calmement de les « expédier » s'ils servent la volonté du Diable.
 
-Once the players or Arabelle have convinced him to do so, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
+Si les joueurs rassemblent des preuves suffisantes de leur bonne foi ou réussissent un jet de Charisme (Persuasion) DD 15, Rictavio soupire et ordonne aux joueurs de former un mur protecteur à l'arrière du chariot. Si les joueurs contrarient Rictavio à la place, ou échouent autrement à le convaincre, la voix d'une jeune fille résonne doucement depuis le chariot : « Ils ne me veulent aucun mal. S'il te plaît, ouvre la porte. »
+
+## E8c. Le Chariot de Rictavio
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N5</em></span>
+
+Une fois que les joueurs ou Arabelle l'ont convaincu de le faire, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] produit une clé de sa manche et ouvre la porte. Lorsqu'il le fait, les joueurs peuvent voir que le chariot contient un lit de paille doux, une couverture en laine confortable, quelques livres, et une jeune fille Vistana—Arabelle—qui serre un tigre à dents de sabre en peluche contre sa poitrine et porte un collier de perles avec une amulette en cuivre sculpté.
 
 ![[Arabelle.png]]
-<span class="credit">"Arabelle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">« Arabelle » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-### Meeting Arabelle
-Unless diverted by the players, the conversation unfolds as follows:
+### Rencontrer Arabelle
+À moins d'être détournée par les joueurs, la conversation se déroule comme suit :
 
-* Arabelle greets the players warmly, thanks them for their efforts to find her, and shares her regret for the wounds they have sustained along the way. 
-* Van Richten is surprised to learn that Arabelle was expecting them, and Arabelle admits that she had a premonition that someone would follow in their tracks and that she left multiple clues—the Tarokka card, the bracelet, the handkerchief, and the ring—to guide the players in their path.
-* Arabelle thanks Van Richten for his efforts to keep her safe, but gently reminds him that they both knew that their plan could not last forever—and that, with the players present, a long-term solution is more likely within reach.
+* Arabelle salue chaleureusement les joueurs, les remercie pour leurs efforts afin de la retrouver, et partage ses regrets pour les blessures qu'ils ont subies en chemin. 
+* Van Richten est surpris d'apprendre qu'Arabelle les attendait, et Arabelle admet qu'elle a eu la prémonition que quelqu'un suivrait leurs traces et qu'elle a laissé de multiples indices—la carte de Tarokka, le bracelet, le mouchoir, et l'anneau—pour guider les joueurs sur leur chemin.
+* Arabelle remercie Van Richten pour ses efforts afin de la garder en sécurité, mais lui rappelle doucement qu'ils savaient tous les deux que leur plan ne pourrait pas durer éternellement—et que, avec la présence des joueurs, une solution à long terme est plus probablement à portée de main.
 
-During this conversation, Van Richten can also reveal the following information if he hasn't already:
+Au cours de cette conversation, Van Richten peut également révéler les informations suivantes s'il ne l'a pas déjà fait :
 
-* Until recently, Van Richten had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
-* Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
-* The girl, who introduced herself as Arabelle, was uncertain of why she had been kidnapped. Van Richten used his *talisman of echoes* to interrogate the dead Vistana’s severed head, and learned that Strahd had issued a bounty on young girls matching Arabelle’s precise and unique description: dark-haired and olive-skinned, with lavender irises. Van Richten and Arabelle agreed that returning her to the Vistani camp would leave her exposed to Strahd, and was therefore too dangerous.
-* The two returned to the tower at Lake Baratok, where Van Richten had previously hidden his horse, Drusilla, and a covered Vistani wagon that he had first used to enter Barovia. Using his *hat of disguise*, Van Richten adopted the dead Vistana’s guise and snuck into the Vistani camp by Vallaki to steal three pots of paint, which he used to disguise his wagon as “Rictavio’s Carnival of Wonders.”
-* Van Richten and Arabelle then traveled to Vallaki, with Van Richten adopting the identity of Rictavio to hide in plain sight. Arabelle has remained concealed in his wagon ever since.
-* While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. 
-* As such, Van Richten, who already wore one such amulet, gave Arabelle a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
-### Arrigal's Arrival
-As the conversation draws to a close, [[Non-Player Characters#Arrigal|Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
+* Jusqu'à récemment, Van Richten faisait profil bas dans la tour du Lac Baratok. Cependant, cela a changé lorsqu'il a vu un homme Vistana apporter un sac gigotant à un rejeton vampire aux cheveux dorés sur les rives de la rivière Luna. (Van Richten a reconnu le vampire comme étant un homme nommé Escher, un barde de Barovie qui avait rejoint la révolte des Baroviens.)
+* Van Richten a attaqué le duo, tuant le Vistana et balafrant le vampire, qui a fui. En ouvrant le sac, il a trouvé une jeune fille Vistana à l'intérieur.
+* La fille, qui s'est présentée comme Arabelle, n'était pas certaine de la raison pour laquelle elle avait été kidnappée. Van Richten a utilisé son *talisman des échos* pour interroger la tête coupée du Vistana mort, et a appris que Strahd avait émis une prime sur les jeunes filles correspondant à la description précise et unique d'Arabelle : cheveux bruns et peau olive, avec des iris lavande. Van Richten et Arabelle ont convenu que la ramener au campement Vistani l'exposerait à Strahd, et que c'était donc trop dangereux.
+* Les deux sont retournés à la tour du Lac Baratok, où Van Richten avait précédemment caché son cheval, Drusilla, et un chariot Vistani couvert qu'il avait initialement utilisé pour entrer en Barovie. En utilisant son *chapeau de déguisement*, Van Richten a adopté l'apparence du Vistana mort et s'est faufilé dans le camp Vistani près de Vallaki pour voler trois pots de peinture, qu'il a utilisés pour déguiser son chariot en « Carnaval des Merveilles de Rictavio ».
+* Van Richten et Arabelle ont ensuite voyagé jusqu'à Vallaki, Van Richten adoptant l'identité de Rictavio pour se cacher au grand jour. Arabelle est restée dissimulée dans son chariot depuis.
+* Bien que la tour du Lac Baratok contienne un *champ antimagie* permanent qui bloquerait la scrutation de Strahd, Van Richten pensait que Strahd serait parfaitement au courant de ce fait, et que la tour figurerait donc parmi les premiers endroits où il chercherait. 
+* C'est pourquoi Van Richten, qui portait déjà une telle amulette, a donné à Arabelle une *amulette d'antidétection* de rechange qu'il avait autrefois donnée à—et ensuite reçue de—l'un de ses étudiants. (S'il est pressé, Van Richten admet que l'amulette appartenait autrefois à Ezmerelda d'Avenir, mais ne discute pas de la question plus en détail.)
 
-* Arrigal thanks Van Richten for the “fascinating story,” thanks the players for their “aid and guidance,” and commands Arabelle to exit the wagon and return with him.
-* Van Richten immediately accuses Arrigal of being a spy for Strahd, noting that, while stealing the pots of paint, he saw Arrigal whispering to a bat in the woods nearby. He demands that Arabelle remain in the wagon, and asks the players to defend her from Arrigal. 
-* Arrigal’s hands go to the shortsword and daggers on his belt, while Van Richten prepares to draw his sword-cane for battle. Arabelle quietly asks the players to help them see reason.
+### L'Arrivée d'Arrigal
+Alors que la conversation touche à sa fin, [[Non-Player Characters#Arrigal|Arrigal]] émerge des ombres d'une ruelle voisine. Si les joueurs ne détournent pas la conversation, elle se poursuit ainsi : 
 
-Arrigal is ignorant of Strahd’s bounty on Arabelle and truthfully shares this if asked, finding the notion preposterous. If asked whether he would give Arabelle up to Strahd if commanded, he fiercely and truthfully rejects that he would ever do such a thing.
+* Arrigal remercie Van Richten pour cette « histoire fascinante », remercie les joueurs pour leur « aide et leurs conseils », et ordonne à Arabelle de sortir du chariot et de rentrer avec lui.
+* Van Richten accuse immédiatement Arrigal d'être un espion de Strahd, notant que, pendant qu'il volait les pots de peinture, il a vu Arrigal chuchoter à une chauve-souris dans les bois voisins. Il exige qu'Arabelle reste dans le chariot, et demande aux joueurs de la défendre contre Arrigal. 
+* Les mains d'Arrigal vont vers l'épée courte et les dagues à sa ceinture, tandis que Van Richten s'apprête à dégainer sa canne-épée pour le combat. Arabelle demande doucement aux joueurs de les aider à entendre raison.
 
-As the conversation unfolds, Arrigal makes clear his belief that Van Richten has kidnapped Arabelle for nefarious purposes. Although Arabelle protests Arrigal's accusations, Arrigal replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
+Arrigal ignore l'existence de la prime de Strahd sur Arabelle et partage honnêtement cela si on le lui demande, trouvant l'idée grotesque. Si on lui demande s'il livrerait Arabelle à Strahd s'il en recevait l'ordre, il rejette farouchement et sincèrement l'idée de faire une telle chose.
 
-If the players ask Van Richten for proof that Strahd sought to kidnap Arabelle, Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in <span>V7. Tower, Fourth Floor (p. 171)</span>. He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
+Au fur et à mesure que la conversation se déroule, Arrigal indique clairement qu'il pense que Van Richten a kidnappé Arabelle à des fins infâmes. Bien qu'Arabelle proteste contre les accusations d'Arrigal, Arrigal répond : « Tais-toi, mon enfant—il est clair que cet homme t'a trompée. Je ne peux pas dire quels plans malfaisants il avait pour toi, mais il a clairement profité de ta naïveté. Tu vas retourner au camp avec moi immédiatement. »
 
-> [!item]+ **Talisman of Echoes**
+Si les joueurs demandent à Van Richten de prouver que Strahd cherchait à kidnapper Arabelle, Van Richten récupère la boîte en bois contenant la tête coupée de Yan depuis le compartiment caché de son chariot, tel que décrit dans <span>V7. Tour, Quatrième Étage (p. 171)</span>. Il propose ensuite de permettre à l'un des joueurs d'utiliser son *talisman des échos* pour interroger la tête de Yan afin d'obtenir les preuves qu'ils recherchent.
+
+> [!item]+ **Talisman des Échos**
 >
-> _Wondrous item, rare_
+> _Objet merveilleux, rare_
 >
-> This talisman has 4 charges. While holding it, you can use an action to spend 1 of its charges to cast the _gentle repose_ spell, or 2 of its charges to cast the _speak with dead_ spell. (The spell *speak with dead* isn't affected by the spell's ordinary ten-day limit when cast in this way.)
+> Ce talisman possède 4 charges. Tant que vous le tenez, vous pouvez utiliser une action pour dépenser 1 de ses charges pour lancer le sort _préservation des morts_, ou 2 de ses charges pour lancer le sort _communication avec les morts_. (Le sort *communication avec les morts* n'est pas affecté par la limite ordinaire de dix jours du sort lorsqu'il est lancé de cette manière.)
 >
-> The talisman regains 1d4 expended charges daily at dawn. If you expend the talisman's last charge, roll a d20. On a 1, the talisman crumbles into ashes and is destroyed.
+> Le talisman regagne 1d4 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge du talisman, lancez un d20. Sur un 1, le talisman tombe en cendres et est détruit.
 
 ![[SpeakWithDead.png]]
 
-<span class="credit">"Talisman of Echoes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">« Talisman des Échos » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-Five sample answers a players might receive are given below:
+Voici cinq exemples de réponses que les joueurs pourraient recevoir :
 
-* What is your name? *Yan.*
-* What lord did you serve in life? *The vampire, Strahd von Zarovich.*
-* Did that lord command you to kidnap the girl Arabelle? *He did, through his servant, the vampire Escher.*
-* What did he ask you to do with her? *He bade me to take her to the Luna River, where she would be brought to Castle Ravenloft.*
-* How did you die? *A blade sliced my head from my shoulders from behind.*
+* Quel est ton nom ? *Yan.*
+* Quel seigneur servais-tu de ton vivant ? *Le vampire, Strahd von Zarovich.*
+* Ce seigneur t'a-t-il ordonné de kidnapper la fille Arabelle ? *Il l'a fait, par l'intermédiaire de son serviteur, le vampire Escher.*
+* Que t'a-t-il demandé de faire avec elle ? *Il m'a ordonné de l'amener à la rivière Luna, d'où elle serait conduite au Château Ravenloft.*
+* Comment es-tu mort ? *Une lame a tranché ma tête de mes épaules par derrière.*
 
-Yan might also reveal the following information if asked using one of the players' five questions:
+Yan pourrait également révéler les informations suivantes si on lui pose la question en utilisant l'une des cinq questions des joueurs :
 
-* Yan served Strahd loyally because he was promised riches and power in exchange for his service.
-* Yan didn't know what Escher or Strahd planned to do with Arabelle.
-* Yan received his orders at dusk on the day before the players first arrived in Vallaki (i.e., on the same day the players received their Tarokka reading and first encountered Strahd).
+* Yan servait Strahd loyalement car on lui avait promis richesses et pouvoir en échange de ses services.
+* Yan ne savait pas ce qu'Escher ou Strahd prévoyaient de faire d'Arabelle.
+* Yan a reçu ses ordres au crépuscule, le jour précédant la première arrivée des joueurs à Vallaki (c'est-à-dire le même jour où les joueurs ont reçu leur tirage de Tarokka et ont rencontré Strahd pour la première fois).
 
-If Yan reveals his loyalty to Strahd and his instructions to kidnap Arabelle, Arrigal is shaken, but not entirely convinced—until Arabelle speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, Van Richten rescued her, and she overheard Yan asking another man whether “the lord” would pay his debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
-### Brokering an Agreement
-Van Richten is unwilling to allow Arrigal to take Arabelle back to the Vistani encampment. However, Arrigal is unwilling to allow Van Richten to keep Arabelle hidden in Vallaki, away from her family. It is up to the players to broker an agreement between them.
+Si Yan révèle sa loyauté envers Strahd et ses instructions pour kidnapper Arabelle, Arrigal est ébranlé, mais pas entièrement convaincu—jusqu'à ce qu'Arabelle prenne la parole pour confirmer l'histoire de Van Richten, rapportant calmement que Yan l'a kidnappée, que Van Richten l'a secourue, et qu'elle a surpris Yan en train de demander à un autre homme si « le seigneur » paierait ses dettes en échange de la « livraison du chiot » avant d'entendre un échange de pièces de monnaie peu après.
 
-As they do, keep the following interests in mind:
+### Négocier un Accord
+Van Richten n'est pas disposé à laisser Arrigal ramener Arabelle au campement Vistani. Cependant, Arrigal n'est pas disposé à laisser Van Richten garder Arabelle cachée à Vallaki, loin de sa famille. Il appartient aux joueurs de négocier un accord entre eux.
 
-* Van Richten wants to prevent Strahd’s spies from finding Arabelle.
-* Arrigal wants to keep Arabelle with her family—and especially her father, Luvash.
-* Both Van Richten and Arrigal want to keep Arabelle comforted and safe.
+Ce faisant, gardez les intérêts suivants à l'esprit :
 
-Because neither Van Richten nor Arrigal will concede any of these priorities; the players will need to find a solution that satisfies all of then simultaneously. Van Richten and Arrigal will reluctantly accept any reasonable proposal that does so. (For example, the players might propose that “Rictavio” relocate his wagon to the woods near the Vistani camp, where Luvash can visit her daily, while Arrigal feeds Strahd false information about Arabelle’s whereabouts.)
+* Van Richten veut empêcher les espions de Strahd de trouver Arabelle.
+* Arrigal veut garder Arabelle avec sa famille—et tout particulièrement avec son père, Luvash.
+* Van Richten et Arrigal veulent tous les deux qu'Arabelle soit réconfortée et en sécurité.
 
-When a final agreement is reached, Arabelle places a small hand on one of the players’ arms and softly thanks them for their efforts. If the players do not intervene, she then steps forward and takes Van Richten’s hand in hers. The following sequence then unfolds:
+Puisque ni Van Richten ni Arrigal ne concèderont aucune de ces priorités ; les joueurs devront trouver une solution qui les satisfasse toutes simultanément. Van Richten et Arrigal accepteront à contrecœur toute proposition raisonnable qui y parvient. (Par exemple, les joueurs pourraient proposer que « Rictavio » déplace son chariot dans les bois près du camp Vistani, où Luvash pourra lui rendre visite quotidiennement, tandis qu'Arrigal fournira à Strahd de fausses informations sur l'emplacement d'Arabelle.)
 
-* Arabelle thanks Dr. Van Richten for helping her, and informs him that he’s a good man—a sentiment that his son agrees with.
-* The blood drains from Van Richten’s face, and he sways on his feet, as though he’s about to faint. “My son?” he croaks.
-* Arabelle pats the back of Van Richten’s hand, and tells him that his son has been keeping her safe in the wagon. She promises him that his son loves him very much, and shares her belief that he has been keeping Van Richten safe as well. (Van Richten quietly thanks her, now resembling a weary old man far more than a veteran monster hunter.)
-### Arabelle's Prophecy
-A few moments later, Arabelle staggers, her eyes rolling back into her head as the whites of her eyes become the color of storm clouds. When she speaks, her voice seems to echo with the sound of a second, far older woman’s voice as she delivers the following prophecy:
+Lorsqu'un accord final est conclu, Arabelle pose une petite main sur le bras de l'un des joueurs et les remercie doucement pour leurs efforts. Si les joueurs n'interviennent pas, elle s'avance ensuite et prend la main de Van Richten dans les siennes. La séquence suivante se déroule alors :
+
+* Arabelle remercie le Dr Van Richten de l'avoir aidée, et l'informe qu'il est un homme bon—un sentiment que son fils partage.
+* Le sang se retire du visage de Van Richten, et il vacille sur ses pieds, comme s'il était sur le point de s'évanouir. « Mon fils ? » croasse-t-il.
+* Arabelle tapote le dos de la main de Van Richten, et lui dit que son fils a veillé sur elle dans le chariot. Elle lui promet que son fils l'aime beaucoup, et partage sa conviction qu'il a également veillé sur Van Richten. (Van Richten la remercie doucement, ressemblant désormais bien plus à un vieil homme fatigué qu'à un chasseur de monstres vétéran.)
+
+### La Prophétie d'Arabelle
+Quelques instants plus tard, Arabelle chancelle, ses yeux se révulsant tandis que le blanc de ses yeux prend la couleur des nuages d'orage. Lorsqu'elle parle, sa voix semble résonner avec le son d'une seconde voix de femme, bien plus âgée, alors qu'elle prononce la prophétie suivante :
 
 <div class="description" style="text-align: center;">
-<p>In darkest night, the light shall flee,</p>
-<p>No dawn to break, with no reprieve.</p>
-<p>From the grave, the dead shall climb,</p>
-<p>Their restless march a baleful sign.</p>
-<p>At castle’s peak, a heart beats red,</p>
-<p>Its hunger deep and ever-fed.</p>
-<p>Should silence fall, the skies shall crack,</p>
-<p>A thousand souls in torment black.</p>
+<p>Dans la nuit la plus sombre, la lumière fuira,</p>
+<p>Aucune aube ne poindra, sans aucun répit.</p>
+<p>De la tombe, les morts s'élèveront,</p>
+<p>Leur marche agitée, un signe funeste.</p>
+<p>Au sommet du château, un cœur bat rouge,</p>
+<p>Sa faim profonde et toujours nourrie.</p>
+<p>Si le silence tombe, les cieux se fendront,</p>
+<p>Un millier d'âmes dans un noir tourment.</p>
 </div>
 
-Arabelle then falls over unconscious. Any character that makes a successful DC 10 Wisdom (Medicine) check can easily discern that she is unharmed—merely asleep. Upon waking, Arabelle retains no memory of the prophecy she spoke.
+Arabelle tombe ensuite inconsciente. Tout personnage réussissant un jet de Sagesse (Médecine) DD 10 peut facilement discerner qu'elle est indemne—simplement endormie. À son réveil, Arabelle ne garde aucun souvenir de la prophétie qu'elle a prononcée.
 
-Neither Arabelle, Van Richten, nor Arrigal know it, but Arabelle's prophecy refers to Strahd's ultimate plot to use the Heart of Sorrow to plunge the valley into eternal night, summoning a horde of undead across the land and using the souls of the Barovians to escape the Mists.
+Ni Arabelle, ni Van Richten, ni Arrigal ne le savent, mais la prophétie d'Arabelle fait référence au complot ultime de Strahd, qui est d'utiliser le Cœur du Chagrin pour plonger la vallée dans une nuit éternelle, invoquant une horde de morts-vivants à travers le pays et utilisant les âmes des Baroviens pour s'échapper des Brumes.
 
-Van Richten is troubled by Arabelle’s prophecy, and the resemblance it bears to Madam Eva’s warning on the Svalich Road. Nonetheless, in gratitude for the players’ aid, he bequeaths to them his *talisman of echoes.*
+Van Richten est troublé par la prophétie d'Arabelle, et par la ressemblance qu'elle porte avec l'avertissement de Madame Eva sur la Route de Svalich. Néanmoins, en gratitude pour l'aide des joueurs, il leur lègue son *talisman des échos*.
 
-Arrigal is similarly grateful for the players’ assistance in recovering his niece. He is glad to promise that, notwithstanding his oath of loyalty to Strahd, he will refrain from reporting Arabelle or Van Richten’s true locations to Castle Ravenloft, and will avoid reporting the players’ movements for as long as he can. 
+Arrigal est tout aussi reconnaissant pour l'aide des joueurs dans la récupération de sa nièce. Il est heureux de promettre que, nonobstant son serment de loyauté envers Strahd, il s'abstiendra de rapporter les véritables emplacements d'Arabelle ou de Van Richten au Château Ravenloft, et évitera de rapporter les mouvements des joueurs aussi longtemps qu'il le pourra. 
 
-In addition, though he won’t take up arms against Strahd or cease his work as a spy, Arrigal offers to deliver false information to Castle Ravenloft once when the players request it—but no more than that. He won’t deliver any information that is obviously false, however, and he provides no guarantees as to how long or whether Strahd will believe his information.
+De plus, bien qu'il ne prendra pas les armes contre Strahd ni ne cessera son travail d'espion, Arrigal propose de livrer de fausses informations au Château Ravenloft une fois lorsque les joueurs le demanderont—mais pas plus. Il ne livrera aucune information qui soit manifestement fausse, cependant, et il ne fournit aucune garantie quant à la durée ou au fait que Strahd croira ses informations.
 
-***Milestone.*** Finding Arabelle completes a story milestone. When Arabelle delivers her prophecy, award each player 1,250 XP.
+***Jalon.*** Retrouver Arabelle constitue un jalon narratif. Lorsqu'Arabelle prononce sa prophétie, accordez à chaque joueur 1 250 PX.
 
-> [!abstract]+ **The Werewolf’s Curse**
+> [!abstract]+ **La Malédiction du Loup-Garou**
 >
-> If one of the players was infected by a werewolf’s bite on the Old Svalich Road, Van Richten shares that he is capable of brewing an elixir capable of suppressing the curse of lycanthropy for a single night, rendering the player a docile wolf during a full moon, rather than a raging werewolf.
+> Si l'un des joueurs a été infecté par la morsure d'un loup-garou sur la Vieille Route de Svalich, Van Richten partage qu'il est capable de préparer un élixir capable de supprimer la malédiction de la lycanthropie pendant une seule nuit, rendant le joueur sous la forme d'un loup docile durant la pleine lune, plutôt que d'un loup-garou enragé.
 >
-> To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
+> Pour ce faire, cependant, il a besoin d'une réserve d'aconit tue-loup, une plante à fleurs qui pousserait le long des rives d'un bassin béni à Krezk. (Consultez [[Arc I - Les Murs de Krezk]] pour plus d'informations sur les efforts des joueurs pour entrer dans Krezk.) Van Richten est heureux de préparer une portion de l'élixir pour chaque fleur d'aconit tue-loup que les joueurs lui rapportent, un processus qui nécessite six heures et un certain nombre d'ingrédients supplémentaires.
 
-> [!abstract]+ **Inspecting Ireena**
-> If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
+> [!abstract]+ **Inspecter Ireena**
+> Si les joueurs demandent à Van Richten d'inspecter la morsure de vampire d'Ireena, il peut partager qu'elle n'a pas reçu une morsure de vampire ordinaire, et qu'elle a en fait été marquée par un vampire. (« Le maître du Château Ravenloft, je présume », ajoute-t-il, si les joueurs ne lui ont pas révélé la source de la morsure.) Van Richten n'est pas sûr de la raison pour laquelle le vampire aurait pu faire cela, mais note que n'importe lequel des serviteurs et des créatures du vampire peut reconnaître l'odeur de la marque, et que cela peut servir à les décourager de faire du mal à sa porteuse.
 
-> [!abstract]+ **Recruiting Van Richten**
-> If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at Arabelle's side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)
+> [!abstract]+ **Recruter Van Richten**
+> Si les joueurs tentent de recruter Van Richten dans leur groupe, il décline poliment mais fermement. Si les joueurs lui demandent la raison pour laquelle il le fait, il insiste sur le fait qu'il doit rester aux côtés d'Arabelle pour la garder à l'abri des sbires de Strahd. « J'ai échoué à protéger un enfant une fois », dit-il sèchement. « Je ne ferai pas cette erreur à nouveau. » (Van Richten n'expliquera pas davantage.)
 > 
-> A player who succeeds on a DC 15 Wisdom (Insight) check notices that Van Richten seems to be holding something back. If challenged, Van Richten lauds the player for their astuteness, but refuses to explain himself further. "I work alone—and for good reason," he states firmly. "Such reasons are my own."
-# Design Notes: The Missing Vistana
-The original module's quest to rescue Arabelle provides the players with no clear motive for her kidnapping, no real reason to find her, and no clear clues to follow in order to do so. The original module also provides Dr. Rudolph van Richten with no clear purpose while in Vallaki, introducing him as little more than a murderous pseudo-antagonist who wishes to commit mass homicide against the Vistani of the nearby encampment with a vague (though undeveloped) interest in investigating the Keepers of the Feather.
+> Un joueur qui réussit un jet de Sagesse (Intuition) DD 15 remarque que Van Richten semble retenir quelque chose. S'il est défié, Van Richten loue le joueur pour sa perspicacité, mais refuse de s'expliquer davantage. « Je travaille seul—et pour de bonnes raisons », déclare-t-il fermement. « Ces raisons m'appartiennent. »
 
-This arc aims to remedy both issues simultaneously, providing Van Richten with a reason to remain hidden in or around Vallaki for the duration of the campaign (i.e., to keep Arabelle safe) while providing the players with a more comprehensive and engaging storyline for Arabelle's kidnapping. It also brings closure to Van Richten's troubled relationship with the Vistani, providing him with a symbolic opportunity to protect a child of the people that effectively killed his own.
+# Notes de Conception : La Vistana Disparue
+La quête originale du module pour sauver Arabelle ne fournit aux joueurs aucun motif clair pour son enlèvement, aucune raison réelle de la retrouver, et aucun indice clair à suivre pour y parvenir. Le module original ne fournit également au Dr Rudolph van Richten aucun but précis lors de son séjour à Vallaki, le présentant comme guère plus qu'un pseudo-antagoniste meurtrier qui souhaite commettre un homicide de masse contre les Vistani du campement voisin, avec un intérêt vague (bien que peu développé) pour enquêter sur les Gardiens de la Plume.
 
-In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
+Cet arc vise à remédier à ces deux problèmes simultanément, en fournissant à Van Richten une raison de rester caché à ou autour de Vallaki pendant la durée de la campagne (c'est-à-dire pour garder Arabelle en sécurité) tout en offrant aux joueurs un scénario plus complet et plus engageant concernant l'enlèvement d'Arabelle. Cela permet également de clore la relation trouble de Van Richten avec les Vistani, lui offrant une occasion symbolique de protéger une enfant du peuple qui a effectivement tué le sien.
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Arc G - The Strazni Siblings]].
+Dans le processus, l'arc offre aux joueurs l'occasion de s'aventurer vers l'ouest au-delà des murs de Vallaki, atténuant le sentiment de claustrophobie étouffante que de nombreux groupes décrivent après plusieurs sessions consécutives dans la ville.
 
-***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
+***Jouets Blinsky.*** Le magasin de jouets a été introduit comme une première étape dans cet arc afin de décourager les joueurs de le compléter entièrement lors de leur première journée à Vallaki (afin de les encourager à terminer l'[[Arc D - Le Festin de St. Andral]] à la place), et de développer davantage la relation d'Izek Strazni avec Ireena Kolyana, explorée plus en détail dans l'[[Arc G - La Fratrie Strazni]].
 
-The plotline involving the signet ring has been added to provide Luvash with a real reason to recruit unqualified strangers in the search for his daughter (because they are uniquely capable of entering Vallaki) and to provide the players with a clear sense of direction as they work to uncover the mystery of Arabelle's disappearance.
+***Campement Vistani.*** Luvash, Arrigal, et l'ensemble de la tribu Vistani ont été rendus plus sympathiques afin d'encourager les joueurs à construire une relation à long terme avec eux, de développer davantage les thèmes de l'aventure que sont l'unité et la rédemption au lieu de l'égoïsme et de la méfiance, et de motiver davantage les joueurs à localiser Arabelle et à trouver une solution qui la réunisse avec sa famille.
 
-***Strahd's Bounty.*** Strahd's interest in Arabelle has been added to provide an altruistic motivation for Van Richten to "kidnap her first." Yan has been changed from an ordinary Vistana thief to Escher's agent in order to paint Van Richten's actions in a better light (he was triggered by his traumatic memories of Erasmus and was working to protect an innocent), to explain why Arabelle was not immediately taken to Castle Ravenloft (Yan had to first deliver to Escher at an isolated, pre-determined spot), and to explain why Arrigal was ignorant of Strahd's plot (thereby providing the players with a proper diplomatic moral dilemma at the climax of the arc).
+L'intrigue impliquant la chevalière a été ajoutée pour donner à Luvash une véritable raison de recruter des étrangers non qualifiés pour la recherche de sa fille (parce qu'ils sont exceptionnellement capables d'entrer dans Vallaki) et pour donner aux joueurs un sens clair de la direction à suivre alors qu'ils travaillent pour découvrir le mystère de la disparition d'Arabelle.
 
-***Dusk Elf Hovels.*** In order to discourage the players from exploring the Amber Temple too early (and because the players are strangers that he has only just met, with no evident qualifications that will help him achieve his goals), Kasimir Velikov no longer shares Patrina's dreams or his interest in the Amber Temple upon their first meeting. 
+***La Prime de Strahd.*** L'intérêt de Strahd pour Arabelle a été ajouté pour fournir une motivation altruiste à Van Richten pour la « kidnapper en premier ». Yan a été transformé d'un simple voleur Vistana en un agent d'Escher afin de dépeindre les actions de Van Richten sous un meilleur jour (il a été déclenché par ses souvenirs traumatiques d'Erasmus et travaillait pour protéger une innocente), pour expliquer pourquoi Arabelle n'a pas été immédiatement emmenée au Château Ravenloft (Yan devait d'abord la livrer à Escher à un endroit isolé et prédéterminé), et pour expliquer pourquoi Arrigal ignorait le complot de Strahd (fournissant ainsi aux joueurs un dilemme moral et diplomatique approprié à l'apogée de l'arc).
 
-Kasimir will later lead the players to the Amber Temple in [[Arc S - A Sword of Sunlight]] after the players learn of his interest in the temple at the conclusion of [[Arc Q - A Shining Beacon]]. For now, however, Kasimir's injuries from his most recent venture up Mount Ghakis have been shown to foreshadow his involvement in that future arc.
+***Taudis des Elfes du Crépuscule.*** Afin de décourager les joueurs d'explorer le Temple d'Ambre trop tôt (et parce que les joueurs sont des étrangers qu'il vient de rencontrer, sans qualifications évidentes pour l'aider à atteindre ses objectifs), Kasimir Velikov ne partage plus les rêves de Patrina ou son intérêt pour le Temple d'Ambre lors de leur première rencontre. 
 
-The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
+Kasimir conduira plus tard les joueurs au Temple d'Ambre dans l'[[Arc S - Une Épée de Lumière Solaire]] après que les joueurs ont appris son intérêt pour le temple à la conclusion de l'[[Arc Q - Une Balise Brillante]]. Pour l'instant, cependant, les blessures de Kasimir suite à sa plus récente aventure sur le Mont Ghakis ont été montrées pour présager son implication dans ce futur arc.
 
-Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
+Les symboles sur la chevalière ont été ajoutés pour fournir aux joueurs la solution à la porte-puzzle à l'entrée de la Tour de Van Richten.
 
-***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
+La relation de Rahadin avec le Prince Erevan (relatée dans l'histoire de Kasimir) a été ajoutée pour accentuer sa décision de choisir le Roi Barov comme sa famille au détriment de son propre peuple, et pour créer une relation antagoniste plus personnelle entre Rahadin et le porteur de la *lame brisée* dans l'accroche d'aventure des ***Reliques Baroviennes***.
 
-The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
+***Manoir du Bourgmestre.*** L'intrigue du « manoir hanté » a été ajoutée pour fournir aux joueurs une accroche vers l'[[Arc H - L'Âme Perdue]], et comme une option diplomatique de secours si les joueurs choisissaient de laisser Ireena dans la sécurité de l'Église de St. Andral.
 
-*Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Arc H - The Lost Soul]] for more information about Stella's fate.)
+La généalogie de la famille Strazni a été ajoutée pour révéler explicitement le lien d'Ireena avec Izek, clarifiant et accentuant les enjeux de l'[[Arc G - La Fratrie Strazni]].
 
-Victor has been given Khazan's lost spellbook to provide him with a reason to know of (and a reason to take an interest in) the tower at Lake Baratok, as well as to explain Victor's precocious skill as a mage. Victor's interest in Khazan's staff has been added to foreshadow the means by which the players can obtain the staff in the Ravenloft catacombs in [[Arc P - Ravenloft Heist]].
+*Entités Éthérées* a été ajouté pour fournir des informations supplémentaires afin d'aider les joueurs à restaurer l'âme de Stella, et pour donner à Victor Vallakovich une excuse pour visiter la bibliothèque de son père pendant que les joueurs sont présents. (Voir l'[[Arc H - L'Âme Perdue]] pour plus d'informations sur le destin de Stella.)
 
-***Lake Zarovich.*** This brief detour to Szoldar and Yevgeni's dressing shack has been added to make sure that the Barovian wilderness remains strange and foreboding (because only experienced hunters know how to navigate it), to explicitly introduce the players to a pair of individuals able to point out important paths and landmarks, and to inform the players of the werewolves' heavy presence along the western half of the valley.
+Victor s'est vu remettre le livre de sorts perdu de Khazan pour lui donner une raison de connaître (et une raison de s'intéresser à) la tour du Lac Baratok, ainsi que pour expliquer les compétences précoces de mage de Victor. L'intérêt de Victor pour le bâton de Khazan a été ajouté pour présager du moyen par lequel les joueurs pourront obtenir le bâton dans les catacombes de Ravenloft dans l'[[Arc P - Le Braquage de Ravenloft]].
 
-***The Svalich Road.*** Van Richten's handkerchief has been left in the Luna River to foreshadow his involvement in Arabelle's disappearance. The **twig blights** and **scarecrows** have been placed here to foreshadow the druids of Yester Hill and their alliance with the witch of Berez, Baba Lysaga.
+***Lac Zarovich.*** Ce bref détour par la cabane d'habillage de Szoldar et Yevgeni a été ajouté pour s'assurer que la nature sauvage de Barovie reste étrange et inquiétante (parce que seuls les chasseurs expérimentés savent comment y naviguer), pour présenter explicitement aux joueurs deux individus capables d'indiquer les chemins et les points de repère importants, et pour informer les joueurs de la forte présence de loups-garous dans la moitié ouest de la vallée.
 
-***Lake Baratok.*** The additional clues around Ezmerelda's wagon (the signs, scent of sulfur, and wolf tracks) have been added to discourage players from attempting to open it and thereby activate the alchemist's fire trap. The additional set of wagon tracks and the paint in the woods have been added to provide additional clues connecting Rictavio to the tower.
+***La Route de Svalich.*** Le mouchoir de Van Richten a été laissé dans la rivière Luna pour présager son implication dans la disparition d'Arabelle. Les **fléaux des brindilles** et les **épouvantails** ont été placés ici pour présager des druides de la Colline de Yester et de leur alliance avec la sorcière de Berez, Baba Lysaga.
 
-The puzzle on the tower door has been changed to befit a more dignified archmage like Khazan, and has been integrated with the signet ring to provide the players with an easy "Eureka!" moment that nonetheless provides a sense of satisfaction for deciphering the puzzle. 
+***Lac Baratok.*** Les indices supplémentaires autour du chariot d'Ezmerelda (les panneaux, l'odeur de soufre, et les traces de loup) ont été ajoutés pour décourager les joueurs de tenter de l'ouvrir et d'activer ainsi le piège de feu grégeois. La série supplémentaire de traces de chariot et la peinture dans les bois ont été ajoutées pour fournir des indices additionnels reliant Rictavio à la tour.
 
-The gargoyles on the rooftop have been turned into **gargoyles** to replace the **young blue dragon** as a more fitting enemy for the genre. The gargoyles attack players who climb the scaffolding in order to ensure that there is no "challenge-free" entrance into the tower.
+L'énigme sur la porte de la tour a été modifiée pour convenir à un archimage plus digne comme Khazan, et a été intégrée avec la chevalière pour fournir aux joueurs un moment « Eurêka ! » facile qui procure néanmoins un sentiment de satisfaction pour avoir déchiffré l'énigme. 
 
-The lightning sheath from the original module has been intentionally removed and replaced with a fairer lightning trap that foreseeably punishes players who attempt to evade the puzzle.
+Les gargouilles sur le toit ont été transformées en **gargouilles** (créatures) pour remplacer le **jeune dragon bleu**, un ennemi plus approprié pour le genre. Les gargouilles attaquent les joueurs qui grimpent sur l'échafaudage afin de s'assurer qu'il n'y ait pas d'entrée « sans défi » dans la tour.
 
-The paint-stained lily pads have been added to provide additional clues regarding Rictavio's connection to the tower, as has the burned sign for *Rictavio's Carnival of Wonders*. The beaded bracelet and Tarokka card have been added to confirm Arabelle's presence in the tower, and to suggest that Rictavio is not all that he seems.
+Le fourreau de foudre du module original a été intentionnellement supprimé et remplacé par un piège de foudre plus juste qui punit de manière prévisible les joueurs qui tentent d'éluder l'énigme.
 
-Van Richten's journal page introduces the character of Erasmus van Richten, who will serve a more significant role in [[Arc H - The Lost Soul]].
+Les nénuphars tachés de peinture ont été ajoutés pour fournir des indices supplémentaires concernant la connexion de Rictavio à la tour, tout comme l'enseigne brûlée du *Carnaval des Merveilles de Rictavio*. Le bracelet de perles et la carte de Tarokka ont été ajoutés pour confirmer la présence d'Arabelle dans la tour, et pour suggérer que Rictavio n'est pas tout ce qu'il semble être.
 
-***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Arc H - The Lost Soul]].
+La page de journal de Van Richten introduit le personnage d'Erasmus van Richten, qui jouera un rôle plus important dans l'[[Arc H - L'Âme Perdue]].
 
-***Return to Vallaki.*** Van Richten's **saber-toothed tiger** has been removed from his wagon because it no longer serves a purpose in the absence of his homicidal plan to kill the Vistani, because he would have had no place to store it during his time as "Alanik" in the village of Barovia before Strahd awoke, and because it is far more overt and uncontrollable a weapon than his cautious and prudent characterization would reasonably allow.
+***Le Chemin du Retour.*** La rencontre avec Zsolt et Mathilda introduit la meute de loups-garous de manière plus formelle, annonçant l'[[Arc L - L'Antre des Loups]] et s'assurant que les joueurs apprécient la valeur de l'obtention d'armes en argent avant leur rencontre avec le coven du Vieux Moulin à Os dans l'[[Arc H - L'Âme Perdue]].
 
-Van Richten's confrontation with Arrigal has been added to provide a suitable climax for the arc—a social encounter, rather than a combat one. Van Richten's *talisman of echoes* has been added to provide the players with a means of proving their case to Arrigal (and thereby winning his loyalties) and to provide the players with a material reward for completing the quest.
+***Retour à Vallaki.*** Le **tigre à dents de sabre** de Van Richten a été retiré de son chariot parce qu'il ne sert plus à rien en l'absence de son plan meurtrier pour tuer les Vistani, parce qu'il n'aurait eu aucun endroit où le stocker pendant son temps en tant qu'« Alanik » dans le village de Barovie avant le réveil de Strahd, et parce que c'est une arme beaucoup plus évidente et incontrôlable que ce que sa caractérisation prudente et précautionneuse ne le permettrait raisonnablement.
 
-Arabelle's prophecy has been provided to accentuate the importance of deciphering the *Tome of Strahd* (and, therefore, of locating the Amber Temple) and to foreshadow Strahd's final plan, building dramatic tension.
+La confrontation de Van Richten avec Arrigal a été ajoutée pour fournir un point culminant approprié à l'arc—une rencontre sociale, plutôt qu'une rencontre de combat. Le *talisman des échos* de Van Richten a été ajouté pour fournir aux joueurs un moyen de prouver leurs affirmations à Arrigal (et ainsi gagner sa loyauté) et pour fournir aux joueurs une récompense matérielle pour avoir terminé la quête.
+
+La prophétie d'Arabelle a été fournie pour accentuer l'importance de déchiffrer le *Tome de Strahd* (et, par conséquent, de localiser le Temple d'Ambre) et pour annoncer le plan final de Strahd, faisant monter la tension dramatique.
