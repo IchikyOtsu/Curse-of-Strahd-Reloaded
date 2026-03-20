@@ -1,607 +1,575 @@
-_An adventure for five 4th-level characters._
+_Une aventure pour cinq personnages de niveau 4._
 
-In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, Izek Strazni.
+Dans cet arc, à la demande de Dame Eva, les joueurs se rendent chez Blinsky Jouets, le domicile du fabricant de jouets de Vallaki, afin d'acheter un cadeau d'anniversaire pour la petite-nièce d'Eva, Arabelle. Là, les joueurs apprennent de nouvelles informations sur le directeur de cirque itinérant Rictavio, et sur le brutal exécuteur du Baron, Izek Strazni.
 
-After obtaining a toy for Arabelle, the players visit the Vistani encampment located a short distance away from Vallaki's walls. There, the players can meet the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. 
+Après avoir obtenu un jouet pour Arabelle, les joueurs se rendent au campement Vistani situé à courte distance des murs de Vallaki. Là, les joueurs peuvent rencontrer les chefs du camp : Luvash et Arrigal, le père et l'oncle d'Arabelle, respectivement.
 
-When the players learn that Arabelle has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from Kasimir Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in the Baron’s personal library in Vallaki and uncover Arabelle’s location.
+Lorsque les joueurs apprennent qu'Arabelle a récemment disparu, Luvash leur demande de récupérer un indice trouvé sur les lieux de sa disparition — un étrange anneau chevalière en platine — auprès de Kasimir Velikov, l'un des elfes du crépuscule dont les masures encerclent le campement. Luvash pense que l'anneau pourrait détenir la clé pour retrouver sa fille, et promet aux joueurs une grande richesse s'ils recherchent ses secrets dans la bibliothèque personnelle du Baron à Vallaki et découvrent où se trouve Arabelle.
 
-Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to Baron Vargas Vallakovich’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, Victor Vallakovich, whose spellbook bears the same sigil as the signet ring. 
+Après avoir obtenu l'anneau de Kasimir et être retournés à Vallaki, les joueurs doivent accéder à la bibliothèque personnelle du Baron Vargas Vallakovich — par la ruse, la diplomatie ou la subterfuge. Une fois à l'intérieur, ils rencontrent bientôt le fils du Baron, Victor Vallakovich, dont le grimoire porte le même sceau que l'anneau chevalière.
 
-In exchange for the players’ promise to bring back any relics found therein—including, if possible, a proper wizard’s staff—Victor tells them that the sigil was the personal symbol of the archmage Khazan, whose abandoned tower sits on the shores of Lake Baratok. Though Victor doesn’t know how to get there, he can direct the players to Szoldar Szoldarovich, a Vallakian wolf-hunter who knows the Svalich Woods well.
+En échange de la promesse des joueurs de lui rapporter toutes les reliques trouvées sur place — y compris, si possible, un véritable bâton de mage — Victor leur révèle que le sceau était le symbole personnel de l'archimage Khazan, dont la tour abandonnée se dresse sur les rives du lac Baratok. Bien que Victor ne sache pas comment s'y rendre, il peut diriger les joueurs vers Szoldar Szoldarovich, un chasseur de loups de Vallaki qui connaît bien les Bois Svalich.
 
-The players can hire Szoldar as a guide, or simply buy him a drink to get directions to Lake Baratok. Upon arriving at the lake, the players can find the trapped wagon of the Vistana monster hunter Ezmerelda d’Avenir, as well as the ancient mage’s tower of Khazan himself. After bypassing the tower’s magically locked door, the players can find clues revealing Arabelle’s fate—and suggesting that the ringmaster Rictavio is not all he appears. 
+Les joueurs peuvent engager Szoldar comme guide, ou simplement lui offrir un verre pour obtenir les directions menant au lac Baratok. En arrivant au lac, les joueurs peuvent trouver le chariot piégé de la chasseuse de monstres Vistana Ezmerelda d'Avenir, ainsi que l'ancienne tour du mage Khazan lui-même. Après avoir contourné la porte magiquement verrouillée de la tour, les joueurs peuvent trouver des indices révélant le sort d'Arabelle — et laissant entendre que le directeur de cirque Rictavio n'est pas ce qu'il prétend être.
 
-If the players return to Vallaki, confront Rictavio, and persuade him that they’re friends, rather than foes, he reluctantly reveals his identity and leads them to Arabelle’s hiding place: the carnival wagon stored in the Arasek Stockyard. Unbeknownst to the players, however, Arabelle’s uncle, Arrigal, has followed them into Vallaki—and when Arrigal reveals himself and demands her return, the players must decide which man to trust. And even once the tension has settled, Arabelle delivers a dark and cryptic prophecy . . .
+Si les joueurs retournent à Vallaki, affrontent Rictavio et le convainquent qu'ils sont des amis plutôt que des ennemis, il révèle à contrecœur son identité et les conduit jusqu'à la cachette d'Arabelle : le chariot de carnaval entreposé dans l'Entrepôt Arasek. À l'insu des joueurs, cependant, l'oncle d'Arabelle, Arrigal, les a suivis jusqu'à Vallaki — et lorsqu'Arrigal se révèle et exige son retour, les joueurs doivent décider à quel homme faire confiance. Et même une fois la tension retombée, Arabelle délivre une prophétie sombre et cryptique…
 
-> [!lore]+ **Strahd’s Bounty**
->
-> When Strahd received Madam Eva’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
->
-> Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
+> [!lore]+ **La Prime de Strahd**
 > 
-> ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
+> Lorsque Strahd reçut la dernière [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|prédiction de Dame Eva]], il apprit qu'il ne pouvait pas contrôler le pouvoir brut des Fanes sans un gage de la divinité de la _Rozana_. Strahd apprit également deux moyens par lesquels il pourrait obtenir un tel gage : en sacrifiant un souvenir de son passé au Mur Murmurant près de la Colline de Yester, ou en s'assurant d'un descendant mortel portant une étincelle divine des Trois Dames elles-mêmes. La préférence de Strahd va, bien entendu, à la seconde option.
 > 
-> ***Arabelle’s Disappearance.*** Yan returned to the Vistani encampment outside of Vallaki—and it wasn’t long before he struck gold. Upon recognizing that Luvash’s daughter, Arabelle, bore many of the signs that Escher had described, Yan summoned Escher to the camp and prepared to make his move.
->
-> Alexei, a Vistana youth and Arabelle’s older cousin, was ordinarily tasked with watching her while her father, Luvash, worked. While Arabelle played in the woods near the encampment, Yan approached Alexei and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once Alexei was asleep, Yan grabbed Arabelle, gagged her, and stuffed her into a sack.
->
-> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Escher, having taken the teleportation circle to Berez, transformed into a bat and flew to the meeting point, where he met Yan. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
->
-> Dr. Rudolph van Richten, the vampire hunter who had fled Castle Ravenloft after Strahd’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, Van Richten was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed Yan and Escher’s clandestine meeting.
->
-> Ordinarily, Van Richten would have been loath to reveal his location—even in the presence of one of Strahd’s foul spawn—and risk blowing his cover. However, when he noticed Yan’s sack moving and heard a child’s whimpering within, Van Richten’s mind flashed back to the kidnapping and death of his late son, Erasmus—and his body moved without thinking.
->
-> Within seconds, Yan was dead and a wounded Escher had fled for Castle Ravenloft. Van Richten swiftly rescued Arabelle from her restraints, and was astounded to see that she was a young Vistana herself. When Van Richten used his *talisman of echoes* to cast *speak with dead* on Yan’s severed head and learnt of Escher’s plan, he and Arabelle realized that the Vistani encampment was no longer safe from Strahd’s spies.
->
-> Taking Yan’s head with them to prevent investigation and wading upstream through the Luna River to mislead the dusk elves’ scouts, Van Richten and Arabelle returned to <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span> to hatch a plan. Remaining at the tower was infeasible—one of Strahd's servants now knew Arabelle’s face and location, and Van Richten reasoned Strahd would surely attempt to scry her. Though the tower’s antimagic field would hinder Strahd’s efforts, it would also be the first place he would look when his scrying spell inevitably failed.
->
-> Van Richten himself had an *amulet of proof against detection and location* to avoid Strahd’s watchful eye—as well as a spare amulet that his student, Ezmerelda d’Avenir, had returned to him when the two parted ways. The two amulets would suffice to protect them from Strahd’s magic, but Arabelle still needed a place to live and sleep away from the eyes of Strahd’s spies—at least until Van Richten could find a better alternative.
->
-> ***Lying Low.*** The nearby town of Vallaki, with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while Van Richten could disguise himself with his *hat of disguise*, he had no such disguises for Arabelle, and any effort to transport her into or around Vallaki would risk alerting Strahd’s spies.
->
-> Fortunately, Van Richten still had an old Vistani wagon hidden away in the woods from when he had first entered Barovia—one with ample space for Arabelle to reside. While Vistani weren’t welcome in Vallaki, Van Richten decided that a different disguise—one that would allow them to hide in plain sight—could serve just as well.
->
-> Disguising himself as Yan, Van Richten used Arabelle’s advice to sneak into the Vistani camp itself, stealing several of the colorful paints that the Vistani used to decorate their wagons. That night, Rictavio’s Carnival of Wonders was born—and Van Richten himself became Rictavio, ringmaster of the “carnival.”
->
-> As Van Richten worked, Arabelle—who had stowed a copy of the Hooded One Tarokka card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid the card in her pillow alongside a silvered dagger that Van Richten had given her, leaving her beaded charm bracelet wrapped around them.
->
-> In the morning, Van Richten hid Arabelle in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with Gunther and Yelena Arasek to store the wagon (still holding Arabelle) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
->
-> ***Aftermath of the Kidnapping.*** Arabelle’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
->
-> At nearly the same time that Van Richten and Arabelle were riding through Vallaki’s gates, a dusk elf named Savid found Yan’s decapitated body amidst the reeds of the Luna River amid signs of a struggle. Savid also found a strange trinket atop the bloodied grass: a platinum signet ring stamped with a strange sigil. He returned it to Luvash, who ordered Savid to deliver it to Kasimir Velikov—the dusk elves’ leader and scholar—for inspection upon Kasimir’s return. Luvash has continued the search for Arabelle, though his personal efforts came to a bloody and brutal halt when his right leg was caught in a well-hidden wolf trap.
->
-> Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
->
-> Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
-# E1. Blinsky Toys
-<span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
+> Strahd sait qu'un descendant de l'une des Dames vit quelque part dans la vallée, et connaît les signes qui l'y mèneront. À cette fin, il a dépêché ses espions à travers la Barovie à leur recherche. Ce que Strahd ignore, c'est que son échanson et plus récent favori — le **vampire espawn** Escher — a pris sur lui de poursuivre le descendant de son propre chef.
+> 
+> _**Le Pacte d'Escher et Yan.**_ Bien qu'Escher ait rejoint la cour de Strahd de son plein gré, il est récemment devenu anxieux à l'idée que Strahd pourrait bientôt le rejeter — surtout si les épouses vampiriques de Strahd, Ludmilla, Anastrasya et Volenta, réussissent à regagner ses faveurs. Ainsi, lorsqu'un Vistana nommé Yan — l'un des nombreux espions de Strahd — visita le Château Ravenloft pour faire un rapport, Escher conclut un pacte avec lui. Yan accepta d'aider à localiser le descendant des Dames ; en échange, une fois qu'Escher serait devenu le favori de Strahd, il fournirait à Yan richesses et pouvoir.
+> 
+> _**La Disparition d'Arabelle.**_ Yan retourna au campement Vistani à l'extérieur de Vallaki — et il ne fallut pas longtemps avant qu'il ne fasse mouche. Ayant reconnu que la fille de Luvash, Arabelle, portait bon nombre des signes qu'Escher lui avait décrits, Yan fit venir Escher au camp et se prépara à passer à l'action.
+> 
+> Alexei, un jeune Vistana et cousin aîné d'Arabelle, était ordinairement chargé de la surveiller pendant que son père, Luvash, travaillait. Pendant qu'Arabelle jouait dans les bois près du campement, Yan s'approcha d'Alexei et lui fit boire de copieuses quantités de vin — bien assez pour le rendre excessivement ivre. Une fois Alexei endormi, Yan attrapa Arabelle, la bâillonna et la fourra dans un sac.
+> 
+> Yan se dépêcha d'amener Arabelle au point de rendez-vous préarrangé avec Escher : un endroit anodin sur les rives de la rivière Luna à proximité. Escher, ayant emprunté le cercle de téléportation jusqu'à Berez, se transforma en chauve-souris et vola jusqu'au point de rendez-vous, où il retrouva Yan. Yan trouva Escher là comme prévu — mais au moment où Escher récupérait le paiement de Yan, le désastre frappa.
+> 
+> Le Dr Rudolph van Richten, le chasseur de vampires qui avait fui le Château Ravenloft après l'éveil de Strahd, séjournait non loin de là dans l'ancienne tour du lac Baratok. Ce jour-là, Van Richten cherchait dans les herbes marécageuses du bord de rivière une herbe médicinale particulière dont il avait manqué — et c'est là, accroupi dissimulé dans les broussailles, qu'il remarqua le rendez-vous clandestin de Yan et Escher.
+> 
+> En temps normal, Van Richten aurait répugné à révéler sa position — même en présence d'un des infâmes rejetons de Strahd — et risquer de griller sa couverture. Cependant, lorsqu'il remarqua que le sac de Yan bougeait et entendit les gémissements d'un enfant à l'intérieur, l'esprit de Van Richten fut ramené à l'enlèvement et à la mort de son défunt fils, Erasmus — et son corps bougea sans réfléchir.
+> 
+> En quelques secondes, Yan était mort et un Escher blessé avait fui vers le Château Ravenloft. Van Richten délivra rapidement Arabelle de ses liens, et fut stupéfait de voir qu'elle était une jeune Vistana. Lorsque Van Richten utilisa son _talisman des échos_ pour lancer _parler aux morts_ sur la tête tranchée de Yan et apprit le plan d'Escher, lui et Arabelle réalisèrent que le campement Vistani n'était plus à l'abri des espions de Strahd.
+> 
+> Emportant la tête de Yan pour empêcher toute enquête et remontant le courant à travers la rivière Luna pour égarer les éclaireurs des elfes du crépuscule, Van Richten et Arabelle retournèrent au <span class="citation">Chapitre 11 : La Tour de Van Richten (p. 167)</span> pour élaborer un plan. Rester dans la tour n'était pas envisageable — l'un des serviteurs de Strahd connaissait désormais le visage et l'emplacement d'Arabelle, et Van Richten estima que Strahd tenterait certainement de la scruter. Bien que le champ d'antimagie de la tour contrariât les efforts de Strahd, ce serait aussi le premier endroit où il chercherait lorsque son sort de scrutation échouerait inévitablement.
+> 
+> Van Richten lui-même possédait une _amulette de protection contre la détection et la localisation_ pour échapper au regard vigilant de Strahd — ainsi qu'une amulette de rechange que son élève, Ezmerelda d'Avenir, lui avait rendue lorsque les deux s'étaient séparés. Les deux amulettes suffiraient à les protéger de la magie de Strahd, mais Arabelle avait toujours besoin d'un endroit où vivre et dormir à l'abri des yeux des espions de Strahd — du moins jusqu'à ce que Van Richten puisse trouver une meilleure alternative.
+> 
+> _**Se faire oublier.**_ La ville voisine de Vallaki, avec sa grande population animée, pourrait offrir un bien meilleur endroit pour les deux se fondre dans la masse. Cependant, si Van Richten pouvait se déguiser avec son _chapeau de déguisement_, il n'avait pas de tels déguisements pour Arabelle, et tout effort pour la transporter dans ou autour de Vallaki risquait d'alerter les espions de Strahd.
+> 
+> Heureusement, Van Richten avait encore un vieux chariot Vistani caché dans les bois depuis qu'il était entré pour la première fois en Barovie — un chariot avec suffisamment d'espace pour qu'Arabelle puisse y résider. Bien que les Vistani ne fussent pas les bienvenus à Vallaki, Van Richten décida qu'un déguisement différent — l'un qui leur permettrait de se cacher en pleine vue — pourrait tout aussi bien convenir.
+> 
+> Se déguisant en Yan, Van Richten utilisa les conseils d'Arabelle pour se glisser dans le camp Vistani lui-même, dérobant plusieurs des peintures colorées que les Vistani utilisaient pour décorer leurs chariots. Cette nuit-là, le Carnaval des Merveilles de Rictavio vit le jour — et Van Richten lui-même devint Rictavio, directeur du « carnaval ».
+> 
+> Pendant que Van Richten travaillait, Arabelle — qui avait glissé dans sa poche une copie de la carte Tarokka du Capuchonné suite à un vague pressentiment ce matin-là — sentit sa Vue intérieure s'embraser à nouveau. Sans comprendre entièrement pourquoi, elle cacha la carte dans son oreiller aux côtés d'une dague argentée que Van Richten lui avait donnée, laissant son bracelet de perles de charme enroulé autour d'eux.
+> 
+> Au matin, Van Richten dissimula Arabelle à l'arrière du chariot, qu'il attela à Drusilla, son cheval, et le conduisit jusqu'à Vallaki. Là, il conclut un accord avec Gunther et Yelena Arasek pour entreposer le chariot (contenant toujours Arabelle) dans l'Entrepôt Arasek, et s'installa dans la chambre d'hôte privée de l'Auberge de l'Eau Bleue.
+> 
+> _**Les Suites de l'Enlèvement.**_ L'absence d'Arabelle ne passa pas inaperçue longtemps. Au crépuscule du soir de son enlèvement, Luvash avait découvert l'Alexei avec la gueule de bois et appris la disparition de sa fille. Les Vistani et les elfes du crépuscule se dispersèrent dans les bois avoisinants, cherchant en vain le moindre signe de la fillette disparue.
+> 
+> Presque au même moment où Van Richten et Arabelle franchissaient les portes de Vallaki, un elfe du crépuscule nommé Savid trouva le corps décapité de Yan parmi les roseaux de la rivière Luna au milieu de signes de lutte. Savid trouva également un étrange objet sur l'herbe ensanglantée : un anneau chevalière en platine gravé d'un étrange symbole. Il le rapporta à Luvash, qui ordonna à Savid de le remettre à Kasimir Velikov — le chef et érudit des elfes du crépuscule — pour inspection à son retour. Luvash a poursuivi les recherches pour retrouver Arabelle, bien que ses efforts personnels aient connu un arrêt sanglant et brutal lorsque sa jambe droite fut prise dans un piège à loups bien dissimulé.
+> 
+> Pendant ce temps, Van Richten prévoit d'apporter de la nourriture à Arabelle depuis les cuisines de l'Auberge de l'Eau Bleue une fois chaque matin et chaque soir, prétendant aux curieux qu'il ne fait que livrer des en-cas au « féroce tigre à dents de sabre » qu'il a enfermé dans son chariot. Le mensonge de Van Richten est cependant plus vrai qu'il ne le sait. Le chariot est hanté par le fantôme bienveillant de son fils, **Erasmus van Richten** (voir <span class="citation">Le Guide de Van Richten sur Ravenloft, p. 180</span>) — et Erasmus, dans son enthousiasme juvénile, a déjà éloigné plus d'une fois les curieux en secouant le chariot et en griffant son intérieur en bois.
+> 
+> Van Richten et Arabelle savent tous deux qu'il s'agit au mieux d'une solution temporaire. Van Richten, qui entendit parler pour la première fois des mystérieux [[Lore of Barovia#Keepers of the Feather|Gardiens de la Plume]] lors de la rébellion de Doru, enquête discrètement sur leurs membres comme décrit dans <span class="citation">N2c. Salle Commune (p. 100)</span>. Il espère déterminer si la société secrète est amie ou ennemie — et, si elle est amie, si ses agents peuvent être dignes de confiance.
+# E1. Blinsky Jouets
 
-After receiving Madam Eva’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, Arabelle, the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking Urwin Martikov, Danika Dorakova, or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N7.</em></span>
 
+Après avoir reçu la demande de Dame Eva dans [[Act I - Into the Mists/Arc C - Into the Valley]] d'acheter et de livrer un jouet pour sa petite-nièce, Arabelle, les joueurs peuvent obtenir des indications pour se rendre à la boutique de jouets locale de Vallaki, Blinsky Jouets, en demandant à Urwin Martikov, Danika Dorakova, ou à la plupart des habitants natifs de Vallaki. Blinsky Jouets se trouve désormais sur la rive nord de la place du marché de Vallaki, telle que décrite dans <span class="citation">N8. Place du Marché (p. 119)</span>.
 
-> [!profile]+ **Profile: Gadof Blinsky**
->
-> **Roleplaying Information**
-> ***Resonance.*** Blinsky should inspire amusement with his accent, attire, and morbid aesthetic, endearment for his loneliness and sincerity, and sympathy for his terror of Izek.
->
-> ***Emotions.*** Blinsky most often feels cheerful, frightened, anxious, lonely, joyful, or melancholy.
->
-> ***Motivations.*** Blinsky wants to use his macabre toys to bring joy to Barovia’s children and to succeed Fritz von Weerg as the greatest toymaker of history.
->
-> ***Inspirations.*** When playing Blinsky, channel Olaf (*Frozen*), Rubeus Hagrid (*Harry Potter*), and Gepetto (*Pinocchio*).
->
-> **Character Information**
->
-> ***Persona.*** To the world, Gadof Blinsky is a cheerful toymaker with a love for the macabre. To those he trusts, Blinsky is a lonely and anxious man, fearful that his work will never be good enough to win his customers’ love.
->
-> ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
->
-> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
+> [!profile]+ **Profil : Gadof Blinsky**
+> 
+> **Informations d'interprétation** _**Résonance.**_ Blinsky devrait inspirer l'amusement par son accent, sa tenue et son esthétique macabre, l'attachement par sa solitude et sa sincérité, et la sympathie pour sa terreur d'Izek.
+> 
+> _**Émotions.**_ Blinsky ressent le plus souvent de la gaieté, de la peur, de l'anxiété, de la solitude, de la joie ou de la mélancolie.
+> 
+> _**Motivations.**_ Blinsky veut utiliser ses jouets macabres pour apporter de la joie aux enfants de la Barovie et succéder à Fritz von Weerg en tant que plus grand fabricant de jouets de l'histoire.
+> 
+> _**Inspirations.**_ En jouant Blinsky, inspirez-vous d'Olaf (_La Reine des Neiges_), de Rubeus Hagrid (_Harry Potter_) et de Gepetto (_Pinocchio_).
+> 
+> **Informations sur le personnage**
+> 
+> _**Personnalité.**_ Pour le monde, Gadof Blinsky est un fabricant de jouets jovial avec un goût pour le macabre. Pour ceux en qui il a confiance, Blinsky est un homme solitaire et anxieux, craignant que son travail ne soit jamais assez bon pour gagner l'amour de ses clients.
+> 
+> _**Moral.**_ Dans un combat, Blinsky plaiderait pour la paix, trébuchant sur lui-même et suppliant pour sa grâce tout en cherchant une occasion de fuir.
+> 
+> _**Relations.**_ Blinsky possède Piccolo, un singe de compagnie qui lui a été offert par « Alanik Ray », un érudit voyageur (et l'un des déguisements de Rudolph van Richten) peu après la rébellion de Doru. Blinsky fabrique également des poupées ressemblant à Ireena Kolyana pour Izek Strazni, et reçoit une modeste allocation pour confectionner des décorations pour les festivals hebdomadaires du Baron Vallakovich. De plus, Blinsky est le créateur de la jambe prothétique d'Ezmerelda d'Avenir.
 
-Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Jouets est tel que décrit dans <span class="citation">N7. Blinsky Jouets (p. 118)</span>. Tandis que les personnages explorent la boutique, Blinsky leur parle joyeusement de son inspiration pour fabriquer des jouets : le légendaire fabricant de jouets Fritz von Weerg, et sa plus grande invention perdue au fil des âges : un homme mécanique qui se trouverait quelque part dans le Château Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+Si les joueurs interrogent Blinsky sur la poupée ressemblant à Ireena Kolyana (voir <span class="citation">Jouets Inquiétants, p. 118</span>), il insiste anxieusement sur le fait qu'elle n'est pas à vendre et leur demande de choisir un autre jouet. Si les joueurs exigent une explication pour sa ressemblance troublante, ils peuvent amener un Blinsky apeuré à partager ce qu'il sait avec un test réussi de Charisme (Persuasion ou Intimidation) DD 10 ou en prenant eux-mêmes la poupée. Blinsky est visiblement terrifié par la colère d'Izek, et fera tout pour s'assurer que la poupée soit livrée à temps.
 
-If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
+Si les joueurs interrogent Blinsky sur Piccolo, il peut leur indiquer qu'il a reçu le singe il y a un peu plus de trois mois, d'un érudit voyageur nommé Alanik Ray.
 
-As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
+Lorsque les personnages sortent de Blinsky Jouets, ils peuvent voir Izek Strazni et deux **gardes** arriver pour afficher de nouvelles proclamations, tel que décrit dans <span class="citation">N8. Place du Marché (p. 119)</span>.
 
 ![[Jamboree_Poster_Distressed.png]]
 
-<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">« Jamboree de la Tête de Loup » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
 
-# E2. Vistani Camp
-<span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
+# E2. Camp Vistani
 
-The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>. The journey is one-half mile long and takes approximately ten minutes.
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N9.</em></span>
 
-When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
-## E2a. The Vistani Encampment
-### Entering the Vistani Camp
-The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>, with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
+Le chemin de Vallaki jusqu'au Camp Vistani est tel que décrit dans <span class="citation">N9. Camp Vistani (p. 119)</span>. Le trajet fait un demi-mille de long et dure environ dix minutes.
 
-When the players first enter the tent, modify the descriptive text as follows:
+Lorsque les joueurs arrivent au camp, ils peuvent choisir soit de gravir la colline jusqu'à l'anneau de chariots au sommet (voir [[#E2a. Le Campement Vistani]]) soit de parler à l'un des elfes du crépuscule qui gardent les masures au pied de la colline (voir [[#E2b. Masures des Elfes du Crépuscule]]).
 
-<div class="description">
-<p>As you duck inside the tent, you hear the sound of splintering wood and shattering ceramic. Blinking through the haze of smoke that fills the interior, you see three sputtering campfires burning low with embers. A total of six Vistani sit around the hearths, watching the source of the commotion with solemn, sympathetic looks.</p>
-<p>A shirtless young man kneels on the dead grass by the center of the tent, his eyes downcast and his face pale. Beside him, a broken wooden crate sits amidst a pile of broken pottery shards, several of which are still wobbling from the force of impact.</p>
-<p>A dozen feet from the kneeling youth stands an older, larger man wearing studded leather armor and a thick, well-trimmed beard. His eyes are bloodshot, and his right hand is trembling. He appears to be leaning his weight against a makeshift wooden crutch for support; looking down, you see that his lower right leg is wrapped in blood-stained bandages.</p>
-<p>"You were supposed to keep her safe!" the larger man bellows hoarsely. He whirls, his hand grabbing blindly as if for something else to throw. Sweat beads on his forehead, and he chokes back a sob of rage. "My little girl! And now—"</p>
-<p>He wavers unsteadily—and stumbles. In a blink, a third man, also clad in studded leather and wearing a fine-trimmed goatee, steps out from his shadow and catches the larger man on his shoulder before he falls. "Easy, brother," the third man murmurs. "You've lost a lot of blood." He glances up and catches sight of you, his brow tightening almost imperceptibly. "And it would appear that we have company."</p>
-</div>
+## E2a. Le Campement Vistani
 
-The shirtless man is Alexei. The larger man is Luvash. The man with the goatee is Arrigal.
+### Entrer dans le Camp Vistani
 
-If the players do not respond first, Luvash hails them warily and—leaning back on his crutch to conceal any weakness—asks them their business. If the players share that they have come to deliver Madam Eva’s gift, Luvash tells them that Arabelle—his daughter—has recently gone missing.
+Les Vistani sont en grande partie tels que décrits dans <span class="citation">Interpréter les Vistani et les Elfes (p. 119)</span>, avec le campement en grande partie tel que décrit dans <span class="citation">N9c. Tente Vistani, N9d. Chevaux, N9e. Chariot de Luvash, N9f. Chariot des Vistani Endormis, N9g. Chariot des Vistani Joueurs, N9h. Chariot Familial Vistani et N9i. Chariot du Trésor Vistani (pp. 121-23)</span>.
 
-> [!profile]+ **Profile: Luvash**
->
-> **Roleplaying Information**
-> ***Resonance.*** Luvash should make the players feel sympathetic to his grief, endeared to his dedication to his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
->
-> ***Emotions.*** Luvash most often feels angered, melancholy, anxious, guilty, desperate, frustrated, joyful, content, amused, or grateful.
->
-> ***Motivations.*** Luvash wants to ensure that his daughter, Arabelle, is safe and loved, and that the families of the Vistani encampment can thrive and prosper.
->
-> ***Inspirations.*** When playing Luvash, channel Boromir (*The Lord of the Rings*), Robert Baratheon (*A Game of Thrones*), Bob Parr (*The Incredibles*), and Wolverine (*X-Men*).
->
-> **Character Information**
-> ***Persona.*** To the world, Luvash is a gruff, stubborn brawler with an impatient spirit and a heart of gold. To those he trusts, Luvash is a fiercely devoted father with a soft and gentle compassion—but near-overwhelmed by anxiety for the safety of his daughter.
->
-> ***Morale.*** In a fight, Luvash would draw his blade to protect his people without a moment’s hesitation, but would swiftly sheathe it if necessary to keep Arabelle safe.
->
-> ***Relationships.*** Luvash is the elder brother of Arrigal, one of Strahd’s spies. (Luvash doesn’t know that Arrigal is a spy for Strahd.) Luvash is also the father of Arabelle, whose mother was one of Madam Eva’s descendants, and—along with Arrigal—one of the two leaders of the Vistani camp outside of Vallaki.
+Lorsque les joueurs entrent dans la tente pour la première fois, modifiez le texte descriptif comme suit :
 
-> [!profile]+ **Profile: Arrigal**
->
-> **Roleplaying Information**
-> ***Resonance.*** Arrigal should make the players feel insulted by his slight condescension, unnerved by his intense curiosity and veneer of cheerful courtesy, and—when they learn of it—both disgusted by and sympathetic to his decision to serve Strahd.
->
-> ***Emotions.*** Arrigal most often feels curious, suspicious, frustrated, resentful, relaxed, or amused.
->
-> ***Motivations.*** Arrigal wants to protect his family and ensure a bright future for Barovia’s Vistani, free of the resentments of the small-minded Barovians—a goal which he intends to accomplish by serving Strahd.
->
-> ***Inspirations.*** When playing Arrigal, channel Loki (*Thor*), Littlefinger (*A Game of Thrones*), and Hannibal Lecter (*The Silence of the Lambs*).
->
-> **Character Information**
-> ***Persona.*** To the world, Arrigal is Luvash’s enforcer and adviser: a cautious, cheerful, and curious man who prefers to remain aloof from the troubles of others. To those he trusts, Arrigal is a dedicated uncle, a fierce advocate for the Vistani, and a duelist with a slew of deadly skills. Only Arrigal knows that he serves Strahd von Zarovich faithfully as one of his spies—and that he would go to great lengths to serve the vampire’s will in exchange for the prosperity of his family and people.
->
-> ***Morale.*** In a fight, Arrigal would act with ruthless cunning, retreating as necessary before striking from the shadows, using deceit, manipulation, or dirty tricks to ensure an advantage.
->
-> ***Relationships.*** Arrigal is Luvash’s younger brother and Arabelle’s uncle. He is also a spy for Strahd and makes regular reports to Anastrasya, one of Strahd’s vampiric brides.
+<div class="description"> <p>En vous glissant à l'intérieur de la tente, vous entendez le bruit de bois qui se brise et de céramique qui se fracasse. Clignant des yeux à travers la brume de fumée qui emplit l'intérieur, vous apercevez trois feux de camp crachotants qui brûlent doucement de leurs braises. Six Vistani au total sont assis autour des foyers, regardant la source du remue-ménage avec des regards solennels et compatissants.</p> <p>Un jeune homme torse nu est agenouillé sur l'herbe morte au centre de la tente, les yeux baissés et le visage blême. À côté de lui, une caisse en bois brisée gît au milieu d'un tas d'éclats de poterie, dont plusieurs oscillent encore sous l'impact.</p> <p>À une dizaine de mètres du jeune homme agenouillé se tient un homme plus âgé et plus imposant, vêtu d'une armure de cuir clouté et arborant une épaisse barbe bien taillée. Ses yeux sont injectés de sang, et sa main droite tremble. Il semble appuyer son poids sur une béquille en bois de fortune ; en regardant vers le bas, vous constatez que son bas de jambe droit est enveloppé de bandages tachés de sang.</p> <p>« Tu étais censé la garder en sécurité ! » beugle le grand homme d'une voix rauque. Il se retourne, sa main cherchant aveuglément comme pour attraper autre chose à lancer. La sueur perle sur son front, et il ravale un sanglot de rage. « Ma petite fille ! Et maintenant— »</p> <p>Il chancelle de façon précaire — et trébuche. En un éclair, un troisième homme, lui aussi vêtu de cuir clouté et arborant une barbiche soigneusement taillée, sort de son ombre et rattrape le grand homme sur son épaule avant qu'il ne tombe. « Doucement, frère », murmure le troisième homme. « Tu as perdu beaucoup de sang. » Il lève les yeux et vous aperçoit, son sourcil se crispant presque imperceptiblement. « Et il semblerait que nous ayons de la compagnie. »</p> </div>
 
-Luvash can share the following information with the players:
+Le jeune homme torse nu est Alexei. Le grand homme est Luvash. L'homme à la barbiche est Arrigal.
 
-* One day before the players’ arrival in Vallaki, Luvash’s nephew, Alexei, was tasked with watching Arabelle play in the nearby woods while Luvash mediated a dispute between two Vistani families.
-* Instead of watching Arabelle, Alexei got drunk on wine. When he woke up, Arabelle was gone.
-* Alexei claims that Yan, a long-time member of the encampment, gave him the wine and had vanished when Alexei awoke.
-* Luvash led the search for Arabelle, joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
-* The search parties haven’t yet found Arabelle. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
-* Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
+Si les joueurs ne réagissent pas en premier, Luvash les hèle avec méfiance et — s'appuyant sur sa béquille pour dissimuler toute faiblesse — leur demande quel est leur motif. Si les joueurs partagent qu'ils sont venus apporter le cadeau de Dame Eva, Luvash leur apprend qu'Arabelle — sa fille — a récemment disparu.
 
-Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
-
-Luvash asks the players to recover the ring from Kasimir, then research its sigil in Baron Vallakovich’s library. Should the players return to him with actionable information about Arabelle’s whereabouts—or, better yet, Arabelle herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
-
-If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
-
-> [!abstract]+ **Tracking Arabelle**
-> If the players offer to track Arabelle from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of <span class="citation">P. Luna River Crossroads (p. 40)</span>. As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
+> [!profile]+ **Profil : Luvash**
 > 
-> A player who searches the area where Arabelle disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
+> **Informations d'interprétation** _**Résonance.**_ Luvash devrait faire ressentir aux joueurs de la sympathie pour son chagrin, de l'attachement pour son dévouement envers sa fille, de l'irritation face à son entêtement, et un léger malaise face à son tempérament fougueux.
 > 
-> A player who inspects the footprints and makes a DC 15 Intelligence (Investigation) check can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river.
+> _**Émotions.**_ Luvash ressent le plus souvent de la colère, de la mélancolie, de l'anxiété, de la culpabilité, du désespoir, de la frustration, de la joie, du contentement, de l'amusement ou de la gratitude.
 > 
-> Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
-## E2b. Dusk Elf Hovels
-The dusk elf hovels are as described in <span class="citation">N9b. Dusk Elf Hovels (p. 121)</span>. The dusk elves themselves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>. If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
-
-If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
-## E2c. Kasimir’s Hovel
-<span class="citation"><em>This scene takes place in Chapter 5: Area N9a.</em></span>
-
-Kasimir’s hovel is largely as described in <span class="citation">N9a. Kasimir's Hovel (p. 121)</span>. If the players enter it, read:
-
-<div class="description">
-<p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
-<p>Beyond the curtains lie a larger chamber, lit and heated by a fireplace at the north end. An old green rug sits facing the fire, just beside an old wooden table flanked by several chairs. The left-side wall of this comfortable room bears a dozen cubbyholes bearing leather-bound books and small wooden statuettes of elven figures, while the wall to the right bears a faded tapestry of a lush and beautiful forest beneath a noonday sun.</p>
-</div>
-
-The players can find Kasimir sitting on the green rug facing the fire, meditating. He is as described in <span class="citation">Kasimir Velikov (p. 232)</span>, but has recently sustained a black eye and several cuts across his cheek.
-
-![[Kasimir Velikov 1.png]]
-<span class="credit">"Kasimir Velikov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-
-> [!profile]+ **Profile: Kasimir Velikov**
->
-> **Roleplaying Information**
-> ***Resonance.*** Kasimir should make the players feel grateful for his competence and genuine interest in assisting them, mildly insulted by his slight condescension, mildly suspicious of his caginess, and sympathetic to his sorrow for the plight of his people.
->
-> ***Emotions.*** Kasimir most often feels curious, frustrated, suspicious, excited, melancholy, nostalgic, somber, or regretful.
->
-> ***Motivations.*** Kasimir wants to ensure the safety of the dusk elves and resurrect his sister, Patrina, once he’s freed her of Strahd’s dark influence and seen Strahd destroyed.
->
-> ***Inspirations.*** When playing Kasimir, channel Stephen Strange (*Doctor Strange*), Sherlock Holmes (*Sherlock*), Spock (*Star Trek*), and the Twelfth Doctor (*Doctor Who*).
->
-> **Character Information**
-> ***Persona.*** To the world, Kasimir is a quiet and withdrawn scholar, with a powerful curiosity and a fierce dedication to his people. To those he trusts, Kasimir is a lost and broken man, guilt-ridden for his role in Patrina’s death and resigned to somber despair for the dusk elves’ future. Only Kasimir knows the lengths to which he is willing to go to resurrect his sister—and the price he is willing to pay.
->
-> ***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
->
-> ***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
-
-> [!info]+ **What Kasimir Knows**
-> If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
-> * ***The Forest Folk.*** "Their ancestors first discovered this valley thousands of years ago. They are a reclusive people, however, and today serve the Devil and his servants."
-> * ***Argynvostholt.*** Kasimir shares the information in <span class="citation">Vallaki Lore (p. 96)</span>.
-> * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
-> * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
-
-His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
-
-Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether the Baron’s library might hold more information, but believes it a lead worth pursuing.)
-
-![[Khazan's Ring.png]]
-<span class="credit">"Khazan's Ring" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-The symbol on the signet ring resembles the connected series of lines depicted on <span class="citation">V2. Tower Door (p. 169)</span>, but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
-
-Kasimir notes that the runes are the symbols of the evocation (left) and necromancy (right) schools of magic, respectively, but confesses that the ring has shown no reaction to any kind of magic.
-
-If the players ask Kasimir about his injuries, he claims that he had been hiking across Mount Ghakis, but fell when the frozen bluff he’d been walking on crumbled beneath his weight. If the players ask him why he was visiting Mount Ghakis, he discloses only that he was searching for something of personal significance. (If the players push harder, Kasimir politely asks them to avoid intruding too deeply into his private matters.)
-
-If the players ask Kasimir about the history of the dusk elves, Kasimir shares the following tale:
-
-<div class="description">
-<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was scarcely eighty years old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
-<p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
-<p>Barov's conquest was swift and brutal. His forces, joined by Rahadin, my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw Rahadin shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
-<p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
-<p>Strahd's hunger for conquest, however, was endless. Within a year, the last of his enemies had fallen, and he had claimed the valley for his own, naming it "Barovia." We found ourselves trapped, imprisoned in the heart of our conqueror's new empire. By then, however, we had built a home here, and chose to remain—hoping, in our heart of hearts, that the Vistani's kindness would keep us safe. And so here we have remained ever since.</p>
-</div>
-
-# E3. Burgomaster’s Mansion
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3.</em></span>
-
-The burgomaster's mansion is largely as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span>. However, the magic mirror in <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> has been modified and moved to <span class="citation">N3t. Victor's Workroom (p. 109)</span>. See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
-
-If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
-## E3a. Entering the Mansion
-If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
-
-If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
-### 1. Persuading the Baron
-Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
-
-If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
-
-While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
-
-* For the past two months, a spirit has haunted the Vallakovich mansion. 
-* Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.
-* The mansion’s butler and the baroness' lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
-* The Baron’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who Vargas uses to prepare costumes and decorations for his weekly festivals. Vargas is desperate to ensure that the women remain ignorant of the spirit’s existence.
-* The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
-
-The Baron doesn’t mind allowing the players to use the library before they’ve solved the case, but will only grant them access if they agree to take it on. 
-
-The Baron cannot be convinced with appeals to Arabelle’s safety, insisting that he cares little for the plight of a “Vistani whelp.”
-
-If the players wish to visit the library, the baron summons Clavdia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, the baron asks Clavdia to escort them to the kitchen instead. In both cases, as the Baron departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
-
-The kitchen is largely as described in <span class="citation">N3g. Kitchen (p. 106)</span>. The cook, Tereska, is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
-
-* The spirit has mostly been seen on the second floor, though strange sounds have been heard coming from the attic at night. 
-* Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
-* The Baroness’s lady-in-waiting, a quiet woman named Valentina, reported seeing the spirit in the Baroness’s mirror on multiple occasions. The Baroness hid the mirror away in the attic shortly thereafter.
-* Valentina described the spirit’s appearance as the distorted silhouette of a young woman. All of the servants agree that its hauntings universally carry a sense of sorrow, loneliness, and longing.
-* Few members of the household enter the attic anymore, though the Baron’s son, Victor Vallakovich, has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
-* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was Lady Fiona Wachter’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
-
-If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in <span class="citation">N3o. Master Bedroom (p. 108)</span>. She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
-### 2. Infiltrating the Mansion
-The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
-
-The NPCs in the mansion behave as follows:
-
-* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* Victor Vallakovich can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
-* Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
-* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
-
-> [!abstract]+ **Banishment from Vallaki**
-> If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken west of Vallaki, on the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
+> _**Motivations.**_ Luvash veut s'assurer que sa fille, Arabelle, est en sécurité et aimée, et que les familles du campement Vistani puissent prospérer.
 > 
-> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in <span class="citation">N3m. Locked Closet (p. 107)</span>, near the chained Udo Lukovich.
-## E3b. Searching the Library
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3l.</em></span>
+> _**Inspirations.**_ En jouant Luvash, inspirez-vous de Boromir (_Le Seigneur des Anneaux_), Robert Baratheon (_Le Trône de Fer_), Bob Parr (_Les Indestructibles_) et Wolverine (_X-Men_).
+> 
+> **Informations sur le personnage** _**Personnalité.**_ Pour le monde, Luvash est un bagarreur bourru et têtu à l'esprit impatient et au cœur d'or. Pour ceux en qui il a confiance, Luvash est un père farouchement dévoué avec une compassion douce et tendre — mais presque submergé par l'anxiété pour la sécurité de sa fille.
+> 
+> _**Moral.**_ Dans un combat, Luvash dégainerait sa lame pour protéger les siens sans une seconde d'hésitation, mais la rengainerait rapidement si cela s'avérait nécessaire pour garder Arabelle en sécurité.
+> 
+> _**Relations.**_ Luvash est le frère aîné d'Arrigal, l'un des espions de Strahd. (Luvash ne sait pas qu'Arrigal est un espion de Strahd.) Luvash est également le père d'Arabelle, dont la mère était l'une des descendantes de Dame Eva, et — avec Arrigal — l'un des deux chefs du camp Vistani à l'extérieur de Vallaki.
 
-If the players gain access to <span class="citation">N3l. Library (p. 107)</span>, they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
+> [!profile]+ **Profil : Arrigal**
+> 
+> **Informations d'interprétation** _**Résonance.**_ Arrigal devrait faire ressentir aux joueurs de l'irritation face à sa légère condescendance, de l'inquiétude face à sa curiosité intense et à son vernis de courtoisie enjouée, et — lorsqu'ils en apprendront la nouvelle — à la fois du dégoût et de la sympathie pour sa décision de servir Strahd.
+> 
+> _**Émotions.**_ Arrigal ressent le plus souvent de la curiosité, de la méfiance, de la frustration, du ressentiment, de la décontraction ou de l'amusement.
+> 
+> _**Motivations.**_ Arrigal veut protéger sa famille et assurer un avenir radieux aux Vistani de la Barovie, libérés des rancœurs des Baroviens à l'esprit étroit — un objectif qu'il entend accomplir en servant Strahd.
+> 
+> _**Inspirations.**_ En jouant Arrigal, inspirez-vous de Loki (_Thor_), Littlefinger (_Le Trône de Fer_) et Hannibal Lecter (_Le Silence des Agneaux_).
+> 
+> **Informations sur le personnage** _**Personnalité.**_ Pour le monde, Arrigal est l'exécuteur et le conseiller de Luvash : un homme prudent, jovial et curieux qui préfère rester en retrait des problèmes des autres. Pour ceux en qui il a confiance, Arrigal est un oncle dévoué, un ardent défenseur des Vistani, et un duelliste doté d'une multitude de compétences mortelles. Seul Arrigal sait qu'il sert fidèlement Strahd von Zarovich en tant qu'espion — et qu'il irait à des extrêmes considérables pour servir la volonté du vampire en échange de la prospérité de sa famille et de son peuple.
+> 
+> _**Moral.**_ Dans un combat, Arrigal agirait avec une ruse impitoyable, battant en retraite si nécessaire avant de frapper depuis les ombres, utilisant la tromperie, la manipulation ou des coups bas pour s'assurer un avantage.
+> 
+> _**Relations.**_ Arrigal est le frère cadet de Luvash et l'oncle d'Arabelle. Il est également un espion de Strahd et fait régulièrement des rapports à Anastrasya, l'une des épouses vampiriques de Strahd.
 
-In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
+Luvash peut partager les informations suivantes avec les joueurs :
 
-Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
-![[Victor Vallakovich.png]]
-<span class="credit">"Victor Vallakovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+Un jour avant l'arrivée des joueurs à Vallaki, le neveu de Luvash, Alexei, fut chargé de surveiller Arabelle qui jouait dans les bois voisins pendant que Luvash arbitrait un différend entre deux familles Vistani. Au lieu de surveiller Arabelle, Alexei s'enivra de vin. À son réveil, Arabelle avait disparu. Alexei affirme que Yan, un membre de longue date du campement, lui avait donné le vin et avait disparu à son réveil. Luvash mena les recherches pour retrouver Arabelle, ralliant plus d'une douzaine de Vistani et presque autant d'éclaireurs elfes du crépuscule des masures au bas de la colline. Luvash lui-même dut retourner au campement après que sa jambe droite fut prise dans un piège à loups, le laissant trop blessé pour marcher. Les équipes de recherche n'ont pas encore retrouvé Arabelle. Cependant, un elfe du crépuscule nommé Savid a trouvé le corps décapité de Yan gisant dans l'herbe ensanglantée près de la rivière Luna, entouré de signes de lutte. Savid a également trouvé un étrange anneau chevalière dans l'herbe, qui semble avoir été laissé tomber durant la lutte. Luvash l'a remis à Kasimir, le chef et premier érudit des elfes du crépuscule, pour identification, mais n'a reçu aucune nouvelle ou information utile.
 
-> [!profile]+ **Profile: Victor Vallakovich**
->
-> **Roleplaying Information**
-> ***Resonance.*** Victor should make the players feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
->
-> ***Emotions.*** Victor most often feels curious, frustrated, suspicious, excited, bored, anxious, desperate, or determined.
->
-> ***Motivations.*** Victor wants to restore Stella’s soul to her body and escape Barovia.
->
-> ***Inspirations.*** When playing Victor, channel Jonathan Byers (*Stranger Things*), Prince Zuko (*Avatar: The Last Airbender*), Raven (*Teen Titans*), and Perrin Aybara (*Wheel of Time*).
->
-> **Character Information**
-> ***Persona.*** To the world, Victor is a quiet, moody, and isolated young man with an awkward manner and a total lack of social graces. To those he trusts, Victor is a devoted and compassionate friend, with a spark of brilliance and the stubbornness of a mule. Only Victor knows that he secretly fears losing Stella’s friendship—both due to the harm caused by his *teleportation circle* and due to the time she’s spent with Erasmus van Richten in the Ethereal Plane.
->
-> ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family from death. (Although often irritable, Victor won't lash out magically if offended or insulted.)
->
-> ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+Luvash pense que le symbole sur l'anneau chevalière pourrait le mener à l'emplacement d'Arabelle. Bien que Kasimir n'ait pas réussi à le déchiffrer, le Baron Vargas Vallakovich de Vallaki est réputé posséder une impressionnante bibliothèque de livres, qui pourrait contenir la clé pour identifier l'anneau. Cependant, les Vistani et les elfes du crépuscule ont l'interdiction d'entrer en ville.
 
-Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
+Luvash demande aux joueurs de récupérer l'anneau auprès de Kasimir, puis de rechercher son symbole dans la bibliothèque du Baron Vallakovich. Si les joueurs lui reviennent avec des informations exploitables sur l'emplacement d'Arabelle — ou, mieux encore, Arabelle elle-même — Luvash promet de leur offrir une précieuse récompense. (Si on le presse, Luvash peut promettre aux joueurs une somme de 500 po — ou un assortiment de trésors d'une valeur équivalente ou supérieure.)
 
-If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of Arabelle’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
+Si les joueurs acceptent la mission de Luvash, il les dirige vers **E2b. Masures des Elfes du Crépuscule** pour rencontrer Kasimir.
 
-If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to **N3t. Victor’s Workroom** to speak further. He won’t share any information outside of his workroom.
+> [!abstract]+ **Pister Arabelle** Si les joueurs proposent de pister Arabelle depuis l'endroit où elle a disparu, Luvash peut les diriger vers un point près de la rivière Luna, à environ un mille au sud du <span class="citation">P. Carrefour de la Rivière Luna (p. 40)</span>. Pendant que les joueurs s'y rendent, ils passent par [[#E5a. Pont de la Rivière Luna]] et [[#E5b. Carrefour de la Rivière Luna]].
+> 
+> Un joueur qui fouille la zone où Arabelle a disparu et réussit un test de Sagesse (Survie) DD 15 peut identifier trois séries d'empreintes de taille adulte dans l'herbe boueuse à proximité. L'une des séries vient du nord et se termine dans l'herbe ; la deuxième série vient du nord, puis continue vers le sud-ouest et se termine au pied d'un tronc d'arbre à neuf mètres de là ; et la troisième série vient des bois à l'ouest et continue vers la rive de la rivière, où elle se termine. Aucune trace ne continue de l'autre côté de la rivière.
+> 
+> Un joueur qui inspecte les empreintes et réussit un test d'Intelligence (Investigation) DD 15 peut discerner, d'après la disposition des mouvements et les taches de sang sur l'herbe, que le premier et le troisième individu se sont brièvement battus, et que le premier est mort. Le deuxième individu a ensuite fui, disparaissant dans la canopée des arbres. Le troisième individu, portant quelque chose de lourd — peut-être le poids d'un enfant — a ensuite pataugé dans la rivière.
+> 
+> Comme la rivière a effacé toute trace, la piste du troisième individu ne peut pas être suivie plus loin. (Chercher sur toute la longueur de la rivière Luna le point de sortie précis du troisième individu est une entreprise vouée à l'échec, et une tâche impossible.)
 
-> [!lore]+ **Ethereal Entities**
->
-> _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations. Players who ask Victor to allow them to read the book, or who otherwise obtain it, can learn the following:
->
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
->
-> - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
-> - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
->
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
->
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
->
-> The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
+## E2b. Masures des Elfes du Crépuscule
+
+Les masures des elfes du crépuscule sont telles que décrites dans <span class="citation">N9b. Masures des Elfes du Crépuscule (p. 121)</span>. Les elfes du crépuscule eux-mêmes sont tels que décrits dans <span class="citation">Interpréter les Vistani et les Elfes (p. 119)</span>. Si les joueurs s'approchent de l'un des gardes et se renseignent sur les Vistani, le garde les dirige vers l'anneau de chariots au sommet de la colline.
+
+Si les joueurs se renseignent sur la mission de Luvash, le garde les dirige vers la masure de Kasimir. Le garde fait cependant remarquer que Kasimir est récemment revenu d'un long et éprouvant voyage et que les joueurs ne doivent pas le déranger au-delà de ce qui est raisonnablement nécessaire.
+
+## E2c. La Masure de Kasimir
+
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N9a.</em></span>
+
+La masure de Kasimir est en grande partie telle que décrite dans <span class="citation">N9a. La Masure de Kasimir (p. 121)</span>. Si les joueurs y entrent, lisez :
+
+<div class="description"> <p>Vous pénétrez dans un petit vestibule douillet, quelques degrés plus chaud que les brumes fraîches du dehors. Les murs de cette petite pièce sont décorés d'esquisses et de portraits accrochés représentant des elfes à la peau sombre à l'air fier et sage, des flèches perchées dans les arbres taillées dans du bois sombre, et des représentations artistiques de constellations et de corps célestes. Deux rideaux de tissu brun foncé dissimulent l'entrée d'une autre chambre au-delà.</p> <p>Au-delà des rideaux se trouve une chambre plus grande, éclairée et chauffée par une cheminée au nord. Un vieux tapis vert fait face au feu, juste à côté d'une vieille table en bois flanquée de plusieurs chaises. Le mur gauche de cette pièce confortable est garni d'une douzaine de casiers contenant des livres reliés en cuir et de petites statuettes en bois de personnages elfiques, tandis que le mur de droite porte une tapisserie passée représentant une forêt luxuriante et magnifique sous un soleil de midi.</p> </div>
+
+Les joueurs peuvent trouver Kasimir assis sur le tapis vert face au feu, en méditation. Il est tel que décrit dans <span class="citation">Kasimir Velikov (p. 232)</span>, mais a récemment subi un œil au beurre noir et plusieurs coupures sur la joue.
+
+![[Kasimir Velikov 1.png]] <span class="credit">« Kasimir Velikov » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
+> [!profile]+ **Profil : Kasimir Velikov**
+> 
+> **Informations d'interprétation** _**Résonance.**_ Kasimir devrait faire ressentir aux joueurs de la gratitude pour sa compétence et son intérêt sincère à les aider, une légère irritation face à sa condescendance subtile, une légère méfiance face à ses réticences, et de la sympathie pour sa tristesse face au sort de son peuple.
+> 
+> _**Émotions.**_ Kasimir ressent le plus souvent de la curiosité, de la frustration, de la méfiance, de l'excitation, de la mélancolie, de la nostalgie, de la gravité ou des regrets.
+> 
+> _**Motivations.**_ Kasimir veut assurer la sécurité des elfes du crépuscule et ressusciter sa sœur, Patrina, une fois qu'il l'aura libérée de la sombre influence de Strahd et qu'il aura vu Strahd détruit.
+> 
+> _**Inspirations.**_ En jouant Kasimir, inspirez-vous de Stephen Strange (_Docteur Strange_), Sherlock Holmes (_Sherlock_), Spock (_Star Trek_) et du Douzième Docteur (_Doctor Who_).
+> 
+> **Informations sur le personnage** _**Personnalité.**_ Pour le monde, Kasimir est un érudit calme et renfermé, animé d'une puissante curiosité et d'un dévouement farouche envers son peuple. Pour ceux en qui il a confiance, Kasimir est un homme perdu et brisé, rongé par la culpabilité pour son rôle dans la mort de Patrina et résigné à un sombre désespoir quant à l'avenir des elfes du crépuscule. Seul Kasimir connaît les extrêmes auxquels il est prêt à aller pour ressusciter sa sœur — et le prix qu'il est prêt à payer.
+> 
+> _**Moral.**_ Dans un combat, Kasimir tenterait de négocier la paix, mais n'hésiterait pas à déchaîner ses sorts les plus puissants — ou à utiliser sa magie pour s'échapper — si une solution diplomatique s'avérait intenable.
+> 
+> _**Relations.**_ Kasimir est le chef du campement des elfes du crépuscule et le frère cadet de la défunte Patrina Velikovna, une **banshee** qui réside dans les catacombes du Château Ravenloft. Kasimir est également le cousin de Rahadin, le chambellan de Strahd, et le neveu du défunt prince des elfes du crépuscule, Erevan Löwenhart. (Kasimir n'est pas un parent direct par le sang d'Erevan, qui avait épousé la tante de Kasimir, Lorelei.)
+
+> [!info]+ **Ce que Kasimir Sait** Si on l'interroge sur les différentes factions et lieux à travers la Barovie, Kasimir peut fournir les informations suivantes :
+> 
+> - _**Les Gens de la Forêt.**_ « Leurs ancêtres ont découvert cette vallée pour la première fois il y a des milliers d'années. Ce sont cependant des gens reclus, qui servent aujourd'hui le Diable et ses serviteurs. »
+> - _**Argynvostholt.**_ Kasimir partage les informations dans <span class="citation">Lore de Vallaki (p. 96)</span>.
+> - _**Le Temple d'Ambre.**_ Kasimir marque une pause pensive, puis partage que l'Ordre du Dragon d'Argent était autrefois réputé garder « des secrets cachés dans l'ambre », et que leurs revenants et leurs esprits hantent encore Argynvostholt à ce jour.
+> - _**Le Repaire des Loups-Garous.**_ Kasimir partage que la meute de loups-garous a toujours été assoiffée de sang et brutale, mais est devenue bien plus réservée — voire pacifique — une décennie après l'entrée en hibernation de Strahd. « Je présume que c'était un changement de direction », note-t-il, « suite à l'absence de pression du château. Avec le réveil de Strahd, cependant, leur agressivité a refait surface. » (Kasimir ne sait pas où se trouve leur repaire, mais sait que leurs activités se sont historiquement concentrées sur la moitié occidentale de la vallée.)
+
+Sa main droite et son avant-bras sont d'un blanc bleuâtre pâle, avec une grande partie de la peau gonflée et couverte d'ampoules. (Un test de Sagesse (Médecine) DD 12 réussi identifie les symptômes d'une gelure.)
+
+Kasimir accueille chaleureusement les joueurs, bien qu'avec une évidente gêne. Si les joueurs demandent l'anneau chevalière, il le sort de sa cape et leur souhaite bonne chance, notant qu'il n'a pas pu l'identifier lui-même — ce qui est étrange, pense-t-il, étant donné sa connaissance de l'héraldique pré-barovienne et sa longue histoire dans la vallée. (Il ne sait pas si la bibliothèque du Baron pourrait contenir plus d'informations, mais pense qu'il vaut la peine de suivre cette piste.)
+
+![[Khazan's Ring.png]] <span class="credit">« L'Anneau de Khazan » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
+Le symbole sur l'anneau chevalière ressemble à la série de lignes connectées représentée sur <span class="citation">V2. Porte de la Tour (p. 169)</span>, mais pivotée dans le sens antihoraire de telle sorte que la forme est verticalement symétrique. Une minuscule rune arcanique a été gravée dans le métal au-dessus de chacune des deux extrémités non connectées de la série de lignes.
+
+Kasimir note que les runes sont les symboles des écoles de magie d'évocation (gauche) et de nécromancie (droite), respectivement, mais avoue que l'anneau n'a montré aucune réaction à aucun type de magie.
+
+Si les joueurs interrogent Kasimir sur ses blessures, il prétend qu'il randonnnait sur le Mont Ghakis, mais qu'il a chuté lorsque le promontoire gelé sur lequel il marchait s'est effondré sous son poids. Si les joueurs lui demandent pourquoi il visitait le Mont Ghakis, il révèle seulement qu'il cherchait quelque chose d'importance personnelle. (Si les joueurs insistent davantage, Kasimir leur demande poliment d'éviter d'empiéter trop profondément dans ses affaires privées.)
+
+Si les joueurs demandent à Kasimir l'histoire des elfes du crépuscule, Kasimir partage le récit suivant :
+
+<div class="description"> <p>Même maintenant, près de cinq siècles plus tard, les souvenirs sont nets et précis dans mon esprit, comme des éclats de verre brisé. J'avais à peine quatre-vingts ans quand mon peuple perdit sa liberté — quand la tyrannie du clan von Zarovich s'éleva comme une ombre sur le pays.</p> <p>Ce n'est pas Strahd qui brisa la paix, mais son père, le Roi Barov von Zarovich II. En ces jours-là, notre peuple demeurait à Othrondil, la Forêt du Crépuscule. Un conseil de princes nous gouvernait, mené par Erevan Löwenhart, mon oncle et un maître dans l'art du chant de lame. Lorsque les yeux du Roi Barov se posèrent sur nos terres, il exigea notre allégeance — notre tribut aux frontières de l'ancienne Zarovie, le royaume que ses ancêtres avaient jadis gouverné. Erevan, qui pratiquait le style du lion et portait l'emblème du lion, n'était cependant jamais du genre à s'incliner, et refusa. Son acte de défi alluma les feux de la guerre.</p> <p>La conquête de Barov fut rapide et brutale. Ses forces, rejointes par Rahadin, mon cousin, et un traître à notre peuple, ravagèrent notre royaume. J'étais mage et scribe à la cour d'Erevan — j'ai vu Rahadin briser la lame d'Erevan et exécuter sa famille, marquant la fin de la lignée royale. Mon peuple fut subjugué ; ceux qui résistèrent furent traqués comme des lapins.</p> <p>Barov nous gouverna d'une main de fer — et lorsqu'il mourut et que son fils, Strahd, prit le pouvoir, nous nous soulevâmes en rébellion, menant la charge pour la liberté. Mais Strahd était encore plus rusé et cruel que son père. Il écrasa notre révolte en quelques jours, et massacra notre peuple dans un génocide qui laissa moins d'une centaine de survivants. Il nous laissa, les survivants, à la merci des Vistani, qui nous prirent dans leurs caravanes et nous conduisirent vers un sanctuaire dans cette vallée.</p> <p>La soif de conquête de Strahd était cependant sans fin. En moins d'un an, les derniers de ses ennemis étaient tombés, et il avait revendiqué la vallée pour lui-même, la nommant « Barovie ». Nous nous retrouvâmes piégés, emprisonnés au cœur du nouvel empire de notre conquérant. À ce stade, cependant, nous nous y étions construit un foyer, et choisîmes de rester — espérant, au fond de nos cœurs, que la bonté des Vistani nous garderait en sécurité. Et c'est ainsi que nous sommes restés depuis lors.</p> </div>
+
+# E3. Manoir du Bourgmestre
+
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N3.</em></span>
+
+Le manoir du bourgmestre est en grande partie tel que décrit dans <span class="citation">N3. Manoir du Bourgmestre (p. 103)</span>. Cependant, le miroir magique de <span class="citation">N3p. Robe de Mariée et Miroir Spirituel (p. 108)</span> a été modifié et déplacé vers <span class="citation">N3t. Atelier de Victor (p. 109)</span>. Voir [[#E3c. Parler avec Victor]] ci-dessous, ou [[Arc H - The Lost Soul]] pour plus d'informations sur le miroir.
+
+Si les joueurs visitent le manoir du bourgmestre ouvertement, ils sont accueillis par Clavdia, la femme de chambre du Baron, et conduits dans le bureau tel que décrit dans <span class="citation">N3. Manoir du Bourgmestre (p. 103)</span> et <span class="citation">N3e. Bureau (p. 106)</span>. Le Baron arrive pour leur parler quelques minutes plus tard, accompagné de ses deux **mastiffs** nommés Croc et Griffe, tel que décrit dans <span class="citation">N3l. Bibliothèque (p. 107)</span>.
+
+## E3a. Entrer dans le Manoir
+
+Si Ireena Kolyana a déjà visité le manoir seule et obtenu une audience avec le Baron concernant les réfugiés baroviens, [[Non-Player Characters#Baron Vargas Vallakovich|le Baron]] est heureux de lui accorder, à elle et à ses compagnons, l'accès à sa bibliothèque. Sinon, les joueurs peuvent tenter de persuader le Baron de leur accorder l'entrée, ou essayer d'y accéder par subterfuge si tout le reste échoue.
+
+Si les joueurs visitent la bibliothèque, passez à [[#E3b. Fouiller la Bibliothèque]] ci-dessous.
+
+### 1. Persuader le Baron
+
+Lors de leur première rencontre avec les joueurs, le Baron s'enquiert de leur enthousiasme pour le prochain Festival du Soleil Flamboyant. Après avoir désigné les fagots de brindilles empilés dans le grand hall d'entrée du manoir, il se vante de son plan de faire des offrandes brûlées au Seigneur du Matin dans un immense soleil d'osier — viandes séchées, encens, bijoux, et ainsi de suite. « Les cieux verront notre joie et notre richesse et nous seront favorables », crie-t-il. « Par notre bonne humeur, nous nous rapprocherons toujours plus de notre liberté face à cette obscurité funeste. »
+
+Si les joueurs demandent ensuite à [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] l'accès à la bibliothèque sans l'aide d'Ireena, il exige de connaître leur origine, leur but à Vallaki, et leurs intentions pour l'utilisation de sa bibliothèque.
+
+Bien qu'il ne soit pas généralement enclin à accéder à leur demande, si les joueurs indiquent qu'ils sont des aventuriers, des mages, des clercs, des érudits, ou autrement à la hauteur de la tâche, Vargas est prêt à leur permettre d'entrer dans la bibliothèque s'ils acceptent de résoudre un problème auquel son foyer est confronté. Il peut leur partager les informations suivantes :
+
+Depuis deux mois, un esprit hante le manoir des Vallakovich. Des domestiques ont vu son reflet dans des miroirs ou des fenêtres sombres, et ont rapporté des courants d'air froid, des sons étranges, et des objets qui se déplacent d'eux-mêmes. Le majordome du manoir et la dame de compagnie de la baronne ont déjà quitté l'emploi du Baron, trop effrayés par le fantôme pour continuer à travailler dans la maison. L'épouse du Baron, la Baronne Lydia Petrovna, organise des déjeuners quotidiens pour un groupe de femmes de Vallaki, que Vargas utilise pour préparer des costumes et des décorations pour ses festivals hebdomadaires. Vargas est désespéré de s'assurer que les femmes restent ignorantes de l'existence de l'esprit. La cuisinière du Baron, une femme robuste nommée Tereska, a vu l'esprit le plus récemment, et a failli quitter son emploi avant que le Baron ne la convainque de rester en (à contrecœur) augmentant son salaire.
+
+Le Baron n'a pas d'objection à laisser les joueurs utiliser la bibliothèque avant qu'ils n'aient résolu l'affaire, mais ne leur accordera l'accès que s'ils acceptent de s'en charger.
+
+Le Baron ne peut pas être convaincu par des appels à la sécurité d'Arabelle, insistant qu'il se soucie peu du sort d'un « gamin Vistani ».
+
+Si les joueurs souhaitent visiter la bibliothèque, le baron appelle Clavdia, la femme de chambre, pour les escorter à la bibliothèque avant de partir. (Passez à [[#E3b. Fouiller la Bibliothèque]].) Si les joueurs souhaitent interroger Tereska, le baron demande à Clavdia de les escorter à la cuisine à la place. Dans les deux cas, au moment où le Baron part, il leur demande d'éviter de parler de l'esprit avec quiconque vivant en dehors du foyer.
+
+La cuisine est en grande partie telle que décrite dans <span class="citation">N3g. Cuisine (p. 106)</span>. La cuisinière, Tereska, est une femme aux larges épaules et à l'allure rustique, avec une attitude dure et directe qui porte son cœur sur la main. Elle est réticente à parler de l'esprit, mais peut partager les informations suivantes si on lui pose la question :
+
+L'esprit a surtout été vu au deuxième étage, bien que des bruits étranges aient été entendus provenant du grenier la nuit. Tereska a vécu une hantise particulièrement mauvaise en allant chercher une vieille marmite dans le grenier la semaine dernière — une présence inquiétante, accompagnée d'un courant d'air froid et du son indéniable d'une respiration — ce qui l'a presque poussée à quitter son emploi. La dame de compagnie de la Baronne, une femme discrète nommée Valentina, a rapporté avoir vu l'esprit dans le miroir de la Baronne à plusieurs reprises. La Baronne a caché le miroir dans le grenier peu après. Valentina a décrit l'apparence de l'esprit comme la silhouette déformée d'une jeune femme. Tous les domestiques s'accordent à dire que ses hantises portent universellement un sentiment de tristesse, de solitude et de nostalgie. Peu de membres du foyer entrent encore dans le grenier, bien que le fils du Baron, Victor Vallakovich, soit connu pour y disparaître pendant des heures, voire des jours à la fois. Quand il le fait, Tereska laisse généralement ses repas sur une table près de l'entrée du grenier et frappe à la trappe pour l'alerter.
+
+Si les joueurs posent des questions sur Victor, Tereska note qu'il mange trop peu et semble étrangement isolé et brusque pour un jeune homme de son âge, surtout depuis l'étrange maladie qui a frappé « cette fille Wachter » il y a un peu plus de deux mois. (Tereska ne se souvient pas de son nom, mais sait que la fille était la fille de Dame Fiona Wachter, et qu'elle et Victor s'entendaient bien.) Tereska refuse d'élaborer, insistant sur le fait que les affaires de la famille du Baron ne la regardent pas.
+
+Si les joueurs expriment l'intérêt d'enquêter sur le grenier, Tereska leur fournit des indications pour se rendre à l'entrée dans <span class="citation">N3o. Chambre Principale (p. 108)</span>. Elle prépare également une petite assiette de pain et de fromage, qu'elle leur demande d'apporter à Victor. Passez à [[#E3c. Parler avec Victor]] ci-dessous.
+
+### 2. S'infiltrer dans le Manoir
+
+Les joueurs peuvent choisir de s'infiltrer dans le manoir plutôt que d'obtenir la permission du Baron Vallakovich. S'ils sont découverts, cependant, un ou plusieurs PNJ peuvent donner l'alarme en criant à l'aide. Si l'alarme est donnée, douze **gardes** arrivent au manoir deux minutes plus tard, suivis d'Izek Strazni une minute après.
+
+Les PNJ du manoir se comportent comme suit :
+
+[[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] se trouve généralement dans <span class="citation">N3l. Bibliothèque (p. 107)</span> pendant la journée, et dans <span class="citation">N3o. Chambre Principale (p. 108)</span> la nuit. Il est accompagné de ses deux **mastiffs**, Croc et Griffe, en permanence. S'il trouve les joueurs en train de s'introduire par effraction, il lâche Croc et Griffe sur eux, mais donne l'alarme si les chiens sont vaincus. La Baronne Lydia Petrovna se trouve généralement dans <span class="citation">N3c. Salle à Manger (p. 106)</span> pendant la journée et dans <span class="citation">N3o. Chambre Principale (p. 108)</span> la nuit. Si elle trouve les joueurs en train de s'introduire par effraction pendant la journée, elle suppose qu'ils sont les invités de son mari, Vargas, et les accueille en conséquence ; sinon, elle crie, puis s'évanouit. Victor Vallakovich se trouve généralement dans <span class="citation">N3t. Atelier de Victor (p. 109)</span> aussi bien le jour que la nuit. S'il trouve les joueurs en train de s'introduire par effraction, il les accueille avec méfiance et exige de connaître leurs noms et leur but. (Il ne donnera pas l'alarme si sa curiosité est satisfaite.) Tereska, la cuisinière, se trouve généralement dans <span class="citation">N3g. Cuisine (p. 106)</span> pendant la journée, et dans <span class="citation">N3f. Quartiers des Domestiques (p. 106)</span> la nuit. Si elle trouve les joueurs en train de s'introduire par effraction, elle leur donne la possibilité de partir, mais donne l'alarme s'ils refusent. Clavdia, la femme de chambre, se trouve généralement au deuxième étage le matin, au premier étage l'après-midi, et dans <span class="citation">N3f. Quartiers des Domestiques (p. 106)</span> la nuit. Si elle trouve les joueurs en train de s'introduire par effraction, elle donne immédiatement l'alarme.
+
+> [!abstract]+ **Bannissement de Vallaki** Si Izek et les gardes affrontent les joueurs et les vainquent en combat, ils confisquent les armes des joueurs et les expulsent de la ville, les laissant en pâture aux loups des Bois Svalich. Les joueurs se réveillent à l'ouest de Vallaki, sur la Vieille Route Svalich, dépouillés de leur armure et de toutes les armes, équipements ou objets de valeur non dissimulés.
+> 
+> Pour récupérer leurs affaires, les joueurs doivent d'abord se faufiler en retour dans Vallaki, en évitant les douze **gardes** qui patrouillent les murs et les portes de la ville. Les joueurs peuvent trouver leurs affaires entreposées dans <span class="citation">N3m. Placard Fermé à Clé (p. 107)</span>, près de l'enchaîné Udo Lukovich.
+
+## E3b. Fouiller la Bibliothèque
+
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N3l.</em></span>
+
+Si les joueurs accèdent à <span class="citation">N3l. Bibliothèque (p. 107)</span>, ils peuvent tenter de fouiller les rayonnages pour trouver des informations sur l'anneau chevalière en platine. Avec une heure complète passée à chercher, les joueurs peuvent confirmer qu'aucun livre ne contient d'informations sur l'anneau.
+
+Au cours de leurs recherches, l'un des joueurs identifie un nom familier dans un tome généalogique archivant les naissances et les décès des familles de Vallaki : Ireena Strazni, la sœur cadette d'Izek Strazni et la fille de Grygori et Fatima Strazni. Selon les registres, cependant, Ireena Strazni est morte il y a plus de dix-huit ans à l'âge de quatre ans, Grygori et Fatima étant morts peu après. Les décès de Grygori et Fatima sont marqués _Suicide par pendaison_, tandis que la cause du décès d'Ireena est marquée _Inconnue (présumée dévorée par des loups)._
+
+Peu après que les joueurs découvrent ces registres, ils sont cependant interrompus par l'arrivée de Victor Vallakovich, qui est venu à la bibliothèque en quête d'un livre particulier : _Entités Éthérées : Habitants du Royaume Invisible,_ écrit par l'archimage Mordenkainen.
+
+![[Victor Vallakovich.png]] <span class="credit">« Victor Vallakovich » par Caleb Cleveland. Soutenez-le sur <a href="https://patreon.com/calebisdrawing/">Patreon !</a></span>
+
+> [!profile]+ **Profil : Victor Vallakovich**
+> 
+> **Informations d'interprétation** _**Résonance.**_ Victor devrait faire ressentir aux joueurs de l'agacement face à sa méfiance et sa condescendance, de la sympathie pour son anxiété, sa frustration et son désespoir, et de l'attachement pour sa détermination obstinée à voir Stella guérie.
+> 
+> _**Émotions.**_ Victor ressent le plus souvent de la curiosité, de la frustration, de la méfiance, de l'excitation, de l'ennui, de l'anxiété, du désespoir ou de la détermination.
+> 
+> _**Motivations.**_ Victor veut restaurer l'âme de Stella dans son corps et s'échapper de la Barovie.
+> 
+> _**Inspirations.**_ En jouant Victor, inspirez-vous de Jonathan Byers (_Stranger Things_), du Prince Zuko (_Avatar : Le Dernier Maître de l'Air_), de Raven (_Teen Titans_) et de Perrin Aybara (_La Roue du Temps_).
+> 
+> **Informations sur le personnage** _**Personnalité.**_ Pour le monde, Victor est un jeune homme calme, morose et isolé avec des manières maladroites et une absence totale de grâces sociales. Pour ceux en qui il a confiance, Victor est un ami dévoué et compatissant, avec une étincelle de génie et l'entêtement d'une mule. Seul Victor sait qu'il craint secrètement de perdre l'amitié de Stella — à la fois en raison du tort causé par son _cercle de téléportation_ et du temps qu'elle a passé avec Erasmus van Richten dans le Plan Éthéré.
+> 
+> _**Moral.**_ Dans un combat, Victor tenterait de fuir, mais aurait recours à ses sorts les plus dangereux avec un abandon téméraire et amateur s'il était acculé ou s'il défendait ses amis ou sa famille face à la mort. (Bien que souvent irritable, Victor ne réagira pas magiquement s'il est offensé ou insulté.)
+> 
+> _**Relations.**_ Victor est le fils unique du Baron Vargas Vallakovich (qu'il n'apprécie pas) et de la Baronne Lydia Petrovna (à qui il tient, mais qu'il trouve irritante). Il est un ami proche de Stella Wachter, et une connaissance amicale (bien que méfiante) du fantôme d'Erasmus van Richten. Victor méprise et craint Izek Strazni, qui a tué le chat d'enfance de Victor, Murka, en le propulsant à travers une pièce d'un coup de pied lorsqu'il a erré sur son chemin il y a deux ans. (Victor a depuis réanimé le squelette de Murka grâce à l'utilisation de son sort _animation des morts_.)
+
+Victor, qui est en grande partie tel que décrit dans <span class="citation">N3t. Atelier de Victor (p. 109)</span>, porte son grimoire avec lui. Les joueurs peuvent facilement voir que la couverture du livre affiche le même symbole que l'anneau chevalière en platine.
+
+Si les joueurs interrogent Victor sur son grimoire, il exige de connaître leurs noms et leur but. Les joueurs peuvent le persuader de les aider en lui racontant l'histoire de la disparition d'Arabelle ou en réussissant un test de Charisme (Persuasion) DD 15.
+
+Si Victor accepte d'aider les joueurs en partageant des informations sur son grimoire, il récupère d'abord _Entités Éthérées_ sur l'un des rayonnages, puis invite les joueurs à l'étage dans **N3t. Atelier de Victor** pour discuter davantage. Il ne partagera aucune information en dehors de son atelier.
+
+> [!lore]+ **Entités Éthérées**
+> 
+> _Entités Éthérées : Habitants du Royaume Invisible_ de Mordenkainen est un mince livre relié avec une couverture en cuir teinte d'un bleu profond, minuit. Son titre et le nom de son auteur sont estampés en lettres d'argent sur le dos et la couverture, et les coins du livre sont ornés de petites fioritures d'argent ressemblant à des volutes éthérées. Ses pages sont remplies de textes soigneusement rédigés et d'illustrations magnifiquement détaillées. Les joueurs qui demandent à Victor de les laisser lire le livre, ou qui l'obtiennent d'une autre manière, peuvent apprendre ce qui suit :
+> 
+> Le livre est un traité sur le Plan Éthéré et les créatures qui y habitent ou le visitent. Il contient toutes les informations fournies dans **Plan Éthéré** (<span class="citation">Guide du Maître du Donjon, p. 48</span>), ainsi qu'un bestiaire divisé en trois sections :
+> 
+> - _**Étheronautes : Natifs du Plan Éthéré Profond**_, contenant des informations sur les créatures qui vivent uniquement dans le Plan Éthéré Profond, telles que les mythiques brumes maudites, les ombres éthérées et les scintillantes.
+> - _**Peuple Fantôme : Voyageurs du Plan Éthéré Frontalier**_, contenant des informations sur les créatures incorporelles qui habitent le Plan Éthéré Frontalier et traversent souvent le Plan Matériel, telles que les **fantômes** (_Manuel des Monstres_, p. 147) et les **guerriers fantômes** (_Malédiction de Strahd_, p. 235).
+> - _**Marcheurs du Voile : Visiteurs du Plan Éthéré**_, contenant des informations sur les créatures physiques qui peuvent traverser dans le Plan Éthéré, telles que les **guenaudes nocturnes** (_Manuel des Monstres_, p. 178), les **cauchemars** (_Manuel des Monstres_, p. 235) et les **araignées de phase** (_Manuel des Monstres_, p. 334). (Voir **Matriarches de la Malveillance** ci-dessous pour le chapitre sur les guenaudes nocturnes.)
+> 
+> La sous-section traitant des **araignées de phase** comprend une courte note de bas de page sur l'immunité que possèdent la plupart des morts-vivants incorporels aux dégâts élémentaires, naturels et d'armes non magiques sur le Plan Matériel, ainsi que les moyens naturels que les araignées de phase ont développés pour contrecarrer ces immunités grâce à l'utilisation de leurs crochets et de leur venin. Elle note qu'un lanceur de sorts peut infliger des dégâts normalement à un esprit incorporel en utilisant le crochet d'une araignée de phase comme composante matérielle supplémentaire pour lancer ses sorts, tandis qu'un combattant martial peut infliger des dégâts à un esprit incorporel en enduisant une arme ou jusqu'à trois munitions avec du venin d'araignée de phase ou de l'eau bénite.
+> 
+> La sous-section traitant des **guenaudes nocturnes** comprend une courte note de bas de page sur un rituel qui utilise la _**pierre de cœur**_ d'une guenaude nocturne et les énergies d'une ligne tellurique pour reproduire les effets du sort _éthéréalité_ pour jusqu'à dix individus pendant une heure lors de la nuit de la pleine lune.
+> 
+> Le chapitre concernant les **guenaudes nocturnes** est intitulé « Guenaudes Nocturnes : Matriarches de la Malveillance ». Il se lit comme suit :
 > 
 > <hr>
->
-> Sly and subversive, night hags are the epitome of wickedness. They represent all that is evil and cruel in the world and want nothing more than to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness.
->
-> Once, night hags were creatures of the Feywild, a realm of enchantment and beauty. However, their foulness saw them exiled to the bleak realm of Hades long ago, where they degenerated into fiends. The foul taint of Hades twisted their once-fey nature, and the night hags have long since spread their malevolence across the Lower Planes.
->
-> Though night hags resemble withered crones, there is nothing mortal about them. Their withered faces are framed by long, frayed hair and curled ram's horns; horrid moles and warts dot their blotchy pale-blue skin; and their long, skinny fingers are tipped by claws that can slice open flesh with a touch.
->
-> All hags possess magical powers, including the ability to alter their forms or curse their foes. A hag also bears some resistance to magic and mortal weapons alike, though the touch of silver wounds her like any other.
->
-> Arrogant to a fault, hags believe themselves to be the most cunning of creatures—and very often are. They are open to dealing with mortals, and will always keep their word—but a bargain with a hag is always dangerous. Hags enjoy watching mortals bring about their own downfall through these bargains, which often involve compromising their principles or giving up something dear.
->
-> A night hag's ultimate prize, however, is the soul of a corrupted mortal. While her victim sleeps, the night hag passes into the Ethereal Plane through the aid of her twisted onyx heartstone—an artifact that allows her to become Ethereal at the speed of thought. There, she invades her victim's very dreams, filling their head with doubts and fears in the hope of tricking it into performing evil acts in the waking world.
->
-> Night after night, she continues her visitations until the victim finally expires in its sleep—at which point she traps its corrupted soul in her soul bag as a dark trophy of her success. The blacker the stains upon the soul, the greater the night hag's bounty.
->
-> Like all hags, night hags propagate by snatching and devouring human infants. A week later, the hag gives birth to a daughter who appears human until her thirteenth birthday—at which point the child transforms into the spitting image of her hag mother.
->
-> Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
->
-> To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
-## E3c. Speaking with Victor
-<span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
-
-Victor’s workroom is largely as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span>, except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
-
-> [!Warning]+ Counterspell 2024
 > 
-> This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
-
-
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from <span class="citation">N3p. Bridal Gown and Spirit Mirror (p. 108)</span> against the wall beside the rug.
-
-The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of Stella Wachter.)
-
-> [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in <span class="citation">N3t. Victor’s Workroom (p. 109)</span> if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
->
-> Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
-
-> [!info]+ **The Tome of Strahd**
-> A previous version of this guide placed the *Tome of Strahd* within Victor's workroom. If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *mage hand* to retrieve it, revealing his position.
-
-If persuaded to aid the players in finding Arabelle, Victor can share the following information:
-
-* Three years ago, he found an old spellbook in his father’s library. He’s used it to study magic ever since.
-* The original owner of the spellbook was a mage named Khazan. The symbol on the cover of the spellbook was his personal sigil.
-* Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
-
-If the players agree to investigate Khazan’s tower and give Victor any artifacts they find, he tells them where the tower can be found: a gravel causeway on Lake Baratok, to the west. 
-
-> [!info]+ **What Victor Knows**
-> If asked about the different factions and locations throughout Barovia, Victor can provide the following information:
-> * ***The Amber Temple.*** Victor flips through his spellbook, then shares that, according to its pages, Khazan once sought out the secrets of power at a temple "forged of amber." "According to his notes, it was previously guarded by an order of knights in the service of a dragon," he adds curiously. "But when Strahd conquered the valley, he slaughtered them all."
-
-Victor isn’t sure how to get to Lake Baratok from Vallaki. However, he does know someone who will: Szoldar Szoldarovich, one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, Vargas forced him to accompany Szoldar on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
-
-If the players are interested in speaking with Szoldar, Victor directs them to a ramshackle hut at the mouth of the Luna River to the west, which Szoldar and his partner, Yevgeni Krushkin, have turned into a dressing shack for skinning, gutting, and butchering their kills. To get there, the players should travel north, past Vallaki’s Zarovich Gate, and then travel west along the shores of Lake Zarovich.
-
-Victor can tell the players that, while Szoldar and Yevgeni spend most mornings checking their traps for captured game, they usually return to the dressing shack by early afternoon to clean their weapons, reset their traps, and whittle and fletch fresh arrows.
-
-> [!abstract]+ **The Haunting**
-> If the players ask Victor about the haunting of the burgomaster's mansion, he reluctantly "reveals" that his magic is responsible, claiming that he's experimented with magic to produce an assortment of odd effects, including cold temperatures, objects that move without being touched, and strange glowing lights. He also claims that many of the strange noises likely came from Murka, his skeleton **cat**. 
->  
-> Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 10 Wisdom (Insight) check reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
+> Rusées et subversives, les guenaudes nocturnes sont l'incarnation de la méchanceté. Elles représentent tout ce qui est mauvais et cruel dans le monde et ne souhaitent rien de plus que de voir les vertueux sombrer dans la vilenie : l'amour transformé en obsession, la bonté transformée en haine, le dévouement en indifférence, et la générosité en égoïsme.
 > 
-> If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that the Baron might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
+> Autrefois, les guenaudes nocturnes étaient des créatures du Féeroyaume, un royaume d'enchantement et de beauté. Cependant, leur noirceur les vit exilées dans le sombre royaume d'Hadès il y a longtemps, où elles dégénérèrent en fiélons. La souillure nauséabonde d'Hadès tordit leur nature autrefois féerique, et les guenaudes nocturnes ont depuis longtemps répandu leur malveillance à travers les Plans Inférieurs.
 > 
-> Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[Arc H - The Lost Soul]] for more information.
+> Bien que les guenaudes nocturnes ressemblent à des vieilles femmes desséchées, il n'y a rien de mortel en elles. Leurs visages ridés sont encadrés par de longs cheveux effilochés et des cornes de bélier recourbées ; d'horribles grains de beauté et des verrues parsèment leur peau bleu pâle et boursouflée ; et leurs longs doigts osseux sont terminés par des griffes qui peuvent lacérer la chair d'un simple toucher.
+> 
+> Toutes les guenaudes possèdent des pouvoirs magiques, notamment la capacité de modifier leur apparence ou de maudire leurs ennemis. Une guenaude bénéficie également d'une certaine résistance à la magie et aux armes mortelles, bien que le contact de l'argent la blesse comme n'importe qui d'autre.
+> 
+> Arrogantes au point de défaut, les guenaudes se croient les créatures les plus rusées qui soient — et le sont très souvent. Elles sont ouvertes aux tractations avec les mortels, et tiendront toujours leur parole — mais un marché avec une guenaude est toujours dangereux. Les guenaudes aiment voir les mortels causer leur propre perte à travers ces marchés, qui impliquent souvent de compromettre leurs principes ou d'abandonner quelque chose de cher.
+> 
+> Le plus grand prix d'une guenaude nocturne est cependant l'âme d'un mortel corrompu. Pendant que sa victime dort, la guenaude nocturne passe dans le Plan Éthéré grâce à sa pierre de cœur d'onyx tordue — un artefact qui lui permet de devenir éthérée à la vitesse de la pensée. Là, elle envahit les rêves mêmes de sa victime, remplissant son esprit de doutes et de peurs dans l'espoir de la pousser à commettre des actes mauvais dans le monde éveillé.
+> 
+> Nuit après nuit, elle continue ses visites jusqu'à ce que la victime expire finalement dans son sommeil — auquel cas elle piège son âme corrompue dans son sac à âmes comme un sombre trophée de son succès. Plus les taches sur l'âme sont noires, plus la récompense de la guenaude nocturne est grande.
+> 
+> Comme toutes les guenaudes, les guenaudes nocturnes se reproduisent en s'emparant et en dévorant des nourrissons humains. Une semaine plus tard, la guenaude donne naissance à une fille qui semble humaine jusqu'à son treizième anniversaire — date à laquelle l'enfant se transforme en parfaite réplique de sa mère guenaude.
+> 
+> Certaines guenaudes élèvent les filles qu'elles engendrent, créant des covens qui amplifient leur pouvoir. Les membres d'un coven acquièrent un ensemble de capacités surnaturelles, notamment le pouvoir de contrôler les éléments et — une fois par jour — de dissiper la magie étrangère aux environs de leurs repaires. Comme pour toute magie de guenaude, cependant, ce pouvoir a un prix — car une blessure subie par une seule guenaude d'un coven est subie par toutes.
+> 
+> Pour combattre leurs natures intrinsèquement égoïstes, les guenaudes d'un coven doivent conclure un contrat écrit avec les autres, signé du vrai nom de chaque guenaude. Les guenaudes d'un coven gardent jalousement leur contrat, le scellant souvent au cœur de leur repaire, veillant toujours à ce que leurs noms ne tombent pas entre des mains ennemies.
 
-> [!lore]+ **Khazan’s Staff**
->
-> While reading Khazan’s spellbook, Victor learned that Khazan was the owner of a powerful wizard’s staff, which Victor believes may still be somewhere in his tower.
->
-> According to the spellbook, a magical binding allowed Khazan to summon it by merely speaking his own name. With the aid of Khazan’s staff, Victor believes he may be able to rescue Stella’s soul from the Ethereal Plane and restore it to her body.
->
-> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in <span class="citation">Crypt 15 (p. 88)</span> in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
+## E3c. Parler avec Victor
 
-# E4. Lake Zarovich
-<span class="citation"><em>This scene takes place in Chapter 2: Area L.</em></span>
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N3t.</em></span>
 
-Lake Zarovich is largely as described in <span class="citation">L. Lake Zarovich (p. 38)</span>. However, Bluto is not present.
+L'atelier de Victor est en grande partie tel que décrit dans <span class="citation">N3t. Atelier de Victor (p. 109)</span>, sauf que le _glyphe de protection_ sur la porte, plutôt que d'infliger des dégâts de foudre, lance _peur_ dans un cône de 9 mètres à partir de la porte lorsqu'il est activé. De plus, le grimoire de Victor contient les sorts _envoi de message_ et _peur_ et ne contient pas _délivrance des malédictions._
 
-As the players journey west toward Szoldar’s shack, read:
+> [!Warning]+ Contresort 2024
+> 
+> Ce guide a été rédigé pour l'utilisation des sorts de 2014. Si vous utilisez les sorts de 2024, ajoutez un sort appelé _abjurer un sort_ au grimoire de Victor. Le sort fonctionne comme un _contresort_ de niveau 5 suivant les règles de 2014 (Règles de Base, p. 228) pour le combat dans [[Arc H - The Lost Soul#Battle with the Hags|Arc H - L'Âme Perdue]].
 
-<div class="description">
-<p>The path ahead is uneven, littered with pebbles and overgrown in parts by moss and wild grass. To the left, the trees of the Svalich Wood stand tall and foreboding; to the right, a chill breeze sweeps in from the lake, tinged with a faint, brackish scent and the damp earthiness of old silt. Other than the mournful croak of a distant raven, the only sound that breaks the eerie silence is the squelching of mud beneath your feet and the quiet lapping of the waves against the shore.</p>
-<p>It's not long, however, before the air is tinged with the faint scents of fur and a familiar, metallic tang. Ahead, you can hear the sound of rushing water, and see a place where the dark waters of the lake flow swiftly into a river that disappears southward into the dark woods.</p>
-<p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away, an old stone stele stands atop a circular foundation tightly packed with moss-covered stones.</p>
+De plus, Victor n'a qu'un seul **chat** squelette, qui est les restes animés de son chat d'enfance, Murka. Le cercle de téléportation de Victor est parfaitement construit, il n'y a pas d'os sur l'étagère de Victor, et Victor a appuyé le miroir en pied de <span class="citation">N3p. Robe de Mariée et Miroir Spirituel (p. 108)</span> contre le mur à côté du tapis.
+
+Le miroir est un _miroir spirituel_, un objet magique qui reflète à la fois le Plan Matériel et les créatures dans le Plan Éthéré Frontalier. En entrant dans la pièce, un joueur qui regarde dans le miroir voit une silhouette de jeune femme qui disparaît rapidement. (C'est l'esprit de Stella Wachter.)
+
+> [!abstract]+ **Rencontrer Victor** Si les joueurs n'ont pas encore rencontré [[Non-Player Characters#Victor Vallakovich|Victor]], il lance _invisibilité supérieure_ tel que décrit dans <span class="citation">N3t. Atelier de Victor (p. 109)</span> s'il est alerté de leur arrivée, mais renverse maladroitement une pile de parchemins en se précipitant pour se cacher au moment où les joueurs entrent dans la pièce. Un joueur qui inspecte les parchemins voit qu'ils sont couverts de diagrammes élaborés de cercles de téléportation.
+> 
+> Peu après l'entrée des joueurs dans la pièce, ils peuvent entendre le son d'un éternuement provenant du coin où Victor se cache. Victor se révèle alors — y compris son grimoire et le symbole reconnaissable qui y figure — et procède à parler avec les joueurs tel que décrit dans [[#E3b. Fouiller la Bibliothèque]] ci-dessus.
+
+> [!info]+ **Le Tome de Strahd** Une version précédente de ce guide plaçait le _Tome de Strahd_ dans l'atelier de Victor. Si le _Tome de Strahd_ se trouve dans l'atelier de Victor, il peut être trouvé sur le bureau de Victor parmi ses autres papiers. Si les joueurs tentent de ramasser le _Tome de Strahd_, Victor lance immédiatement _main du mage_ pour le récupérer, révélant ainsi sa position.
+
+Si persuadé d'aider les joueurs à trouver Arabelle, Victor peut partager les informations suivantes :
+
+Il y a trois ans, il a trouvé un vieux grimoire dans la bibliothèque de son père. Il l'a utilisé pour étudier la magie depuis lors. Le propriétaire original du grimoire était un mage nommé Khazan. Le symbole sur la couverture du grimoire était son symbole personnel. Il y a longtemps, Khazan construisit une tour de mage, qu'il imprégna d'enchantements puissants, notamment un champ protecteur qui empêchait tout autre lanceur de sorts d'utiliser la magie à sa portée.
+
+Si les joueurs acceptent d'enquêter sur la tour de Khazan et de donner à Victor tous les artefacts qu'ils trouvent, il leur dit où se trouve la tour : une chaussée de gravier sur le lac Baratok, à l'ouest.
+
+> [!info]+ **Ce que Victor Sait** Si on l'interroge sur les différentes factions et lieux à travers la Barovie, Victor peut fournir les informations suivantes :
+> 
+> - _**Le Temple d'Ambre.**_ Victor feuillette son grimoire, puis partage que, selon ses pages, Khazan rechercha autrefois les secrets du pouvoir dans un temple « forgé d'ambre ». « Selon ses notes, il était auparavant gardé par un ordre de chevaliers au service d'un dragon », ajoute-t-il avec curiosité. « Mais lorsque Strahd conquit la vallée, il les massacra tous. »
+
+Victor ne sait pas comment se rendre au lac Baratok depuis Vallaki. Il connaît cependant quelqu'un qui le saura : Szoldar Szoldarovich, l'un des chasseurs les plus habiles de la ville. (L'année dernière, dans un effort pour encourager Victor à développer des passe-temps et des traits plus masculins, Vargas l'a forcé à accompagner Szoldar lors d'une partie de chasse dans les bois près des murs de Vallaki. Victor détesta l'expérience, mais en ressortit avec un profond respect pour la connaissance que Szoldar avait de la nature barovienne.)
+
+Si les joueurs souhaitent parler avec Szoldar, Victor les dirige vers une cabane délabrée à l'embouchure de la rivière Luna à l'ouest, que Szoldar et son partenaire, Yevgeni Krushkin, ont transformée en abattoir pour dépouiller, vider et découper leurs prises. Pour s'y rendre, les joueurs doivent voyager vers le nord, au-delà de la Porte Zarovich de Vallaki, puis se diriger vers l'ouest le long des rives du lac Zarovich.
+
+Victor peut informer les joueurs que, bien que Szoldar et Yevgeni passent la plupart de leurs matinées à vérifier leurs pièges pour le gibier capturé, ils rentrent généralement à l'abattoir en début d'après-midi pour nettoyer leurs armes, réinitialiser leurs pièges, et tailler et empanner de nouvelles flèches.
+
+> [!abstract]+ **La Hantise** Si les joueurs interrogent Victor sur la hantise du manoir du bourgmestre, il « révèle » à contrecœur que sa magie en est responsable, prétendant avoir expérimenté la magie pour produire une série d'effets étranges, notamment des températures froides, des objets qui se déplacent sans être touchés, et d'étranges lumières brillantes. Il prétend également que beaucoup des bruits étranges provenaient probablement de Murka, son **chat** squelette.
+> 
+> Victor dit aux joueurs en toute vérité qu'il a essayé de garder sa magie secrète de son père, craignant qu'il n'approuve pas. Cependant, ses affirmations que sa magie est à l'origine des « hantises » est un mensonge, et un test de Sagesse (Perspicacité) DD 10 révèle qu'il hésite en racontant son histoire, ses yeux se dirigeant brièvement vers le miroir appuyé contre le mur.
+> 
+> S'il est pris en flagrant délit de mensonge évident, Victor avoue que les bruits sont probablement causés par un esprit qui hante la maison, mais supplie les joueurs de n'en parler à personne, craignant que le Baron ne juge bon de l'exorciser. Victor promet de s'assurer que l'esprit se tienne tranquille, insistant qu'elle ne savait probablement pas qu'elle dérangeait quiconque. (Victor refuse de présenter l'esprit si on le lui demande, prétendant qu'elle est timide.)
+> 
+> Victor ne révèle pas la véritable identité de l'esprit (Stella Wachter) ni ses origines. Voir [[Arc H - The Lost Soul]] pour plus d'informations.
+
+> [!lore]+ **Le Bâton de Khazan**
+> 
+> En lisant le grimoire de Khazan, Victor apprit que Khazan était le propriétaire d'un puissant bâton de mage, que Victor pense être encore quelque part dans sa tour.
+> 
+> Selon le grimoire, une liaison magique permettait à Khazan de l'invoquer en prononçant simplement son propre nom. Avec l'aide du bâton de Khazan, Victor pense qu'il pourrait être capable de sauver l'âme de Stella du Plan Éthéré et de la restaurer dans son corps.
+> 
+> Victor se trompe cependant. Contrairement au grimoire de l'archimage, Strahd a récupéré le bâton de Khazan sur les restes de son corps. Il est maintenant dissimulé dans <span class="citation">Crypte 15 (p. 88)</span> dans le Château Ravenloft. Voir [[Arc P - Ravenloft Heist]] pour plus d'informations sur le bâton de Khazan.
+
+# E4. Lac Zarovich
+<span class=”citation”><em>Cette scène se déroule au Chapitre 2 : Zone L.</em></span>
+
+Le lac Zarovich est en grande partie tel que décrit dans <span class=”citation”>L. Lac Zarovich (p. 38)</span>. Cependant, Bluto n’est pas présent.
+
+Tandis que les joueurs progressent vers l’ouest en direction de la cabane de Szoldar, lisez :
+
+<div class=”description”>
+<p>Le chemin devant vous est accidenté, jonché de cailloux et envahi par endroits de mousse et d’herbes sauvages. À gauche, les arbres des Bois Svalich se dressent, grands et menaçants ; à droite, une brise froide souffle depuis le lac, teintée d’une légère odeur de sel et de l’humidité terreuse des vieux limons. Hormis le croassement mélancolique d’un corbeau lointain, le seul son qui brise l’étrange silence est le clapotis de la boue sous vos pieds et le léger clapotis des vagues contre la rive.</p>
+<p>Bientôt, cependant, l’air se teinte des faibles odeurs de fourrure et d’un relent métallique familier. Devant vous, vous pouvez entendre le bruit d’eaux tumultueuses, et apercevoir l’endroit où les eaux sombres du lac se déversent rapidement dans une rivière qui disparaît vers le sud dans les bois obscurs.</p>
+<p>Une petite cabane grossièrement construite se tient nichée près du bord de l’eau, ses poutres usées et abîmées par les années. Non loin de là, une vieille stèle de pierre se dresse au sommet d’une fondation circulaire serrée de pierres couvertes de mousse.</p>
 </div>
 
-If the players arrive between the hours of noon and dusk, Szoldar and Yevgeni can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
+Si les joueurs arrivent entre midi et le crépuscule, Szoldar et Yevgeni peuvent être trouvés à l’intérieur. Szoldar nettoie le sang d’un vieux piège de chasse rouillé, tandis que Yevgeni est à mi-chemin d’écorcher un grand loup mort.
 
-When Szoldar and Yevgeni are away, the door to the shack is locked with a padlock. (Both wolf hunters carry a key.) If either wolf hunter is inside, the door is unlocked and hangs ajar.
+Lorsque Szoldar et Yevgeni sont absents, la porte de la cabane est verrouillée avec un cadenas. (Les deux chasseurs de loups portent chacun une clé.) Si l’un ou l’autre des chasseurs est à l’intérieur, la porte est déverrouillée et entrouverte.
 
-If the players choose to investigate the slab, they find that it bears a carving of a butterfly, the grooves lined with lichen and moss. (The slab is an ancient monument to the Dreamer, the divine sister of the Ladies Three. Szoldar and Yevgeni don't know what the carving means.)
+Si les joueurs choisissent d’examiner la stèle, ils découvrent qu’elle porte une sculpture de papillon, les rainures tapissées de lichen et de mousse. (La stèle est un antique monument à la Rêveuse, la sœur divine des Trois Dames. Szoldar et Yevgeni ne savent pas ce que signifie cette sculpture.)
 
-If the players enter the shack, read:
+Si les joueurs entrent dans la cabane, lisez :
 
-<div class="description">
-<p>The walls of this cramped shack are stained dark with age and use. Knives, cleavers, traps, and chains hang from the walls, each one well-cleaned and oiled. Animal pelts hang from the rafters, their empty eyes seeming to watch you as you pass.</p>
+<div class=”description”>
+<p>Les murs de cette cabane exiguë sont tachés de noir par les années et l’usage. Des couteaux, des coupoirs, des pièges et des chaînes pendent aux murs, chacun bien nettoyé et huilé. Des peaux d’animaux pendent aux chevrons, leurs yeux vides semblant vous observer à votre passage.</p>
 </div>
 
-As described in <span class="citation">N2c. Taproom (p. 100)</span>, Szoldar and Yevgeni are glad to serve as guides if paid, or to provide directions to Lake Baratok in exchange for a promise of free drinks when the players return. If they join the party, the two men are as described in <span class="citation">N2c. Taproom (p. 100)</span>, but each bring three silvered arrows for the trip.
+Comme décrit dans <span class=”citation”>N2c. Salle Commune (p. 100)</span>, Szoldar et Yevgeni sont heureux de servir de guides contre rémunération, ou de fournir des indications pour se rendre au lac Baratok en échange de la promesse de boissons offertes au retour des joueurs. S’ils rejoignent le groupe, les deux hommes sont tels que décrits dans <span class=”citation”>N2c. Salle Commune (p. 100)</span>, mais apportent chacun trois flèches argentées pour le voyage.
 
-If the players choose to set off on their own, Szoldar gives the following directions:
+Si les joueurs choisissent de partir seuls, Szoldar leur donne les indications suivantes :
 
-* Exit Vallaki from the western Sunset Gate, then cross the bridge that fords the Luna River.
-* Take the northern branch of the Luna River crossroads, which is marked “Lake Baratok” on a nearby signpost.
-* Continue down the path as it bends through the woods, before ultimately arriving at the lake.
+* Quitter Vallaki par la Porte du Couchant à l’ouest, puis traverser le pont qui enjambe la rivière Luna.
+* Prendre la branche nord du carrefour de la rivière Luna, indiquée « Lac Baratok » sur un poteau indicateur à proximité.
+* Continuer sur le chemin qui serpente à travers les bois, avant d’arriver finalement au lac.
 
-Szoldar also warns the players to be cautious of werewolves on the Svalich Road and northern path. The woods to the west of Vallaki—and especially the woods around Lake Baratok—are the preferred hunting grounds of a local werewolf pack.
+Szoldar avertit également les joueurs de se méfier des loups-garous sur la Route Svalich et le chemin nord. Les bois à l’ouest de Vallaki — et en particulier les bois autour du lac Baratok — sont les territoires de chasse privilégiés d’une meute de loups-garous locale.
 
-The werewolves' recent flurry of activity has made Szoldar suspect that the pack has come under the leadership of a new, more reckless alpha. He doesn’t know where the werewolves’ den is, but he cautions the players to keep an eye out for anything strange or unusual.
-# E5. The Svalich Road
-As the players exit Szoldar’s shack, any characters with a passive Wisdom (Perception) score of 19 or higher notice a silhouette watching them from the southern treeline. If the players approach, look toward, or otherwise attempt to interact with the silhouette, it vanishes. 
+La récente recrudescence d’activité des loups-garous a amené Szoldar à soupçonner que la meute est passée sous le commandement d’un nouveau chef alpha, plus téméraire. Il ne sait pas où se trouve le repaire des loups-garous, mais il conseille aux joueurs de rester attentifs à tout ce qui semble étrange ou inhabituel.
+# E5. La Route Svalich
+En sortant de la cabane de Szoldar, tout personnage ayant un score passif de Sagesse (Perception) de 19 ou plus remarque une silhouette qui les observe depuis la lisière des arbres au sud. Si les joueurs s’approchent, regardent dans sa direction ou tentent d’interagir avec elle de quelque manière que ce soit, elle disparaît.
 
-The silhouette is Arrigal, who has decided to spy on the players on Strahd’s behalf and to ensure that Arabelle is safely returned should the players find her. Though he remains out of sight for the remainder of the journey, Arrigal continues to track the players from afar.
-## E5a. Luna River Bridge
-The journey from Vallaki to the Luna River Crossroads is one mile long and takes twenty minutes. As the players cross the bridge over the Luna River, read the following:
+La silhouette est Arrigal, qui a décidé d’espionner les joueurs au nom de Strahd et de s’assurer qu’Arabelle soit ramenée en sécurité si les joueurs la trouvent. Bien qu’il reste hors de vue pour le reste du voyage, Arrigal continue de pister les joueurs de loin.
+## E5a. Pont de la Rivière Luna
+Le trajet de Vallaki jusqu’au carrefour de la rivière Luna fait un kilomètre et demi et dure vingt minutes. Tandis que les joueurs traversent le pont sur la rivière Luna, lisez ce qui suit :
 
-<div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
-<p>Halfway across the bridge, you notice something odd: a small scrap of white material fluttering on the surface of the far side of the river, caught on a tree root a dozen yards downstream.</p>
+<div class=”description”>
+<p>Le chemin se rétrécit, flanqué d’arbres denses et imposants. Devant vous, vous apercevez un vieux pont en bois qui se dessine, ses planches usées par le temps enjambant la rivière tumultueuse en contrebas. En approchant, vous pouvez voir la rivière sombre dévaler sur les pierres lisses du lit, bordée de chaque côté de buissons et d’arbres noueux.</p>
+<p>En posant le pied sur le pont, vos bottes résonnent contre le vieux bois humide. Au nord, vous voyez la rivière méandrer en amont autour de la lisière des arbres avant de disparaître au détour d’un coude. Au sud, la rivière serpente comme un ruban entre ses berges, puis disparaît progressivement dans la brume.</p>
+<p>À mi-chemin sur le pont, vous remarquez quelque chose d’étrange : un petit morceau de tissu blanc qui flotte à la surface du côté opposé de la rivière, accroché à une racine d’arbre à une dizaine de mètres en aval.</p>
 </div>
 
-If the players retrieve the scrap of material, they find it to be a small, soaked white handkerchief, monogrammed with the embroidered red initials “R.V.R.” (Arabelle left this clue while travelling to Vallaki with Van Richten.)
-## E5b. Luna River Crossroads
-<span class="citation"><em>This scene takes place in Chapter 2: Area P.</em></span>
+Si les joueurs récupèrent le morceau de tissu, ils découvrent qu’il s’agit d’un petit mouchoir blanc trempé, monogrammé des initiales brodées en rouge « R.V.R. » (Arabelle a laissé cet indice en voyageant vers Vallaki avec Van Richten.)
+## E5b. Carrefour de la Rivière Luna
+<span class=”citation”><em>Cette scène se déroule au Chapitre 2 : Zone P.</em></span>
 
-The Luna River Crossroads are largely as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. 
+Le carrefour de la rivière Luna est en grande partie tel que décrit dans <span class=”citation”>P. Carrefour de la Rivière Luna (p. 40)</span>.
 
-If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Modify the area description as follows:
+Si c’est la première fois que les joueurs visitent le carrefour de la rivière Luna, quatre **petits fléaux des brindilles** et deux **épouvantails** sont embusqués ici. Modifiez la description de la zone comme suit :
 
-<div class="description">
-<p>The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast.</p>
-<p>Scattered across the intersection are four small dead saplings, their branches and trunks blackened and gnarled. Some lean at slight angles, while others stand stubbornly upright, their twig-like structures idle and quiet in the windless air.</p>
-<p>Nearby, a pair of scarecrows appear to have been mounted along two separate trees, bodies hewn of rough straw and weathered cloth clinging to twisted, low-hanging branches. Their painted sackcloth eyes seem almost mocking, and black raven's feathers poke from their stuffed guts.</p>
-<p>The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.</p>
+<div class=”description”>
+<p>La route aboutit à une intersection en X, avec des embranchements vers le nord-ouest, le nord-est, le sud-ouest et le sud-est.</p>
+<p>Éparpillés à travers l’intersection se trouvent quatre petits arbrisseaux morts, leurs branches et troncs noircis et noueux. Certains penchent légèrement, tandis que d’autres se dressent obstinément à la verticale, leurs structures de brindilles immobiles et silencieuses dans l’air sans vent.</p>
+<p>À proximité, deux épouvantails semblent avoir été fixés le long de deux arbres distincts, leurs corps taillés de paille grossière et de tissu usé s’accrochant aux branches tordues et basses. Leurs yeux peints sur toile de jute semblent presque moqueurs, et des plumes noires de corbeau dépassent de leurs entrailles rembourrées.</p>
+<p>La moitié inférieure d’un poteau indicateur en bois brisé s’incline vers le haut à un angle, près de l’angle est de l’intersection. La moitié supérieure du panneau, comportant des bras pointant dans quatre directions, gît dans les herbes à proximité.</p>
 </div>
 
-If Szoldar is accompanying the players, he warns them that the saplings and scarecrows are new additions to the crossroads, and that recent rumors have reported sightings of scarecrows moving of their own volition through the woods.
+Si Szoldar accompagne les joueurs, il les avertit que les arbrisseaux et les épouvantails sont de nouvelles additions au carrefour, et que de récentes rumeurs ont signalé des observations d’épouvantails se déplaçant de leur propre gré à travers les bois.
 
-If the players approach the snapped signpost or move to leave the intersection, the blights and scarecrows attack.
+Si les joueurs s’approchent du poteau brisé ou tentent de quitter l’intersection, les fléaux et les épouvantails attaquent.
 
-> [!combat]- **Combat - The Blights**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 4
-> **Allies:** Szoldar Szoldarovich (CR 1/2)
-> **Expected HP Consumption:** 18%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combat - Les Fléaux**
+> **Niveau de Combat** : Éprouvant
+> **Niveau de Personnage Attendu** : 4
+> **Alliés :** Szoldar Szoldarovich (CR 1/2)
+> **Consommation de PV Attendue :** 18%
+>
+> ### **Ennemis :**
+>
+> | |3 Joueurs | 4 Joueurs | 5 Joueurs | 6 Joueurs |
 > |-|-|-|-|-|
-> | Scarecrows | 1 | 2 | 2 | 3 |
-> | Twig Blights | 4 | 2 | 4 | 4 |
+> | Épouvantails | 1 | 2 | 2 | 3 |
+> | Fléaux des Brindilles | 4 | 2 | 4 | 4 |
 
-# E6. Lake Baratok
-The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
+# E6. Lac Baratok
+Le trajet du carrefour de la rivière Luna jusqu’au lac Baratok via le chemin nord-ouest fait un peu plus de trois kilomètres et dure quarante-cinq minutes.
 
-Lake Baratok is as described in <span class="citation">Approaching the Tower (p. 167)</span>. The tower itself is largely as described in <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>.
-## E6a. Ezmerelda’s Wagon
-<span class="citation"><em>This scene takes place in Chapter 11: Area V1.</em></span>
+Le lac Baratok est tel que décrit dans <span class=”citation”>Approcher la Tour (p. 167)</span>. La tour elle-même est en grande partie telle que décrite dans <span class=”citation”>Chapitre 11 : La Tour de Van Richten (p. 167)</span>.
+## E6a. Le Chariot d’Ezmerelda
+<span class=”citation”><em>Cette scène se déroule au Chapitre 11 : Zone V1.</em></span>
 
-### Outside the Wagon
-Ezmerelda’s wagon is largely as described in <span class="citation">V1. Ezmerelda's Magic Wagon (p. 168)</span>. However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
+### À l’Extérieur du Chariot
+Le chariot d’Ezmerelda est en grande partie tel que décrit dans <span class=”citation”>V1. Le Chariot Magique d’Ezmerelda (p. 168)</span>. Cependant, la porte est verrouillée avec un cadenas, et peut être ouverte avec un test réussi de Dextérité (Outils de Voleur) DD 20 ou un test réussi de Force DD 20.
 
-In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
+De plus, plutôt qu’un seul panneau en bois, un trio de panneaux en bois a été disposé en diagonale désordonnée sur la porte arrière. Les panneaux indiquent, dans l’ordre : « Défense d’entrer ! », « Domicile et propriété d’Ezmerelda d’Avenir », et « Les intrus seront immédiatement incinérés. » Sous l’avertissement du troisième panneau, quelqu’un a dessiné un petit visage renfrogné aux yeux barrés d’une croix, entouré d’une flamme stylisée.
 
-A player who approaches the wagon detects a faint scent of sulfur, and notices that the grass around it appears to have been tramped down by many feet. A player who makes a successful DC 14 Wisdom (Survival) check learns that the tracks were left by a pack of wolves the previous night, which evidently inspected the wagon before leaving it alone. (If he is with the players, Szoldar points this out after a brief investigation, and advises them against interfering with the wagon.) The player also learns that the wagon has been parked here for no more than forty-eight hours.
+Un joueur qui s’approche du chariot détecte une légère odeur de soufre, et remarque que l’herbe autour de lui semble avoir été piétinée par de nombreux pieds. Un joueur qui réussit un test de Sagesse (Survie) DD 14 apprend que les traces ont été laissées par une meute de loups la nuit précédente, qui a manifestement inspecté le chariot avant de le laisser tranquille. (S’il est avec les joueurs, Szoldar signale cela après une brève investigation, et leur déconseille d’interférer avec le chariot.) Le joueur apprend également que le chariot est stationné ici depuis quarante-huit heures au plus.
 
-> [!warning]+ **A Chance to React**
+> [!warning]+ **Une Chance de Réagir**
 >
-> As noted in **The Order of Combat** (<span class="citation">Player's Handbook, p. 189</span>), combat is a "clash between two sides." A participant in combat need not seek to harm one another—merely obstruct another participant from taking some sort of action or achieving some sort of goal.
+> Comme indiqué dans **L’Ordre du Combat** (<span class=”citation”>Manuel du Joueur, p. 189</span>), le combat est une « confrontation entre deux camps ». Un participant au combat n’a pas besoin de chercher à blesser l’autre — simplement à empêcher un autre participant d’entreprendre une action ou d’atteindre un objectif.
 >
-> As such, when one player states their intent to take an action that another player might seek to oppose—such as opening the door to Ezmerelda’s wagon—ask other nearby players if they’d like to intervene to prevent that action. (For example, a player might wish to shove the first player away from the wagon, or grapple them and pull them forcefully away.)
+> Ainsi, lorsqu’un joueur déclare son intention d’entreprendre une action qu’un autre joueur pourrait chercher à contrecarrer — comme ouvrir la porte du chariot d’Ezmerelda — demandez aux autres joueurs à proximité s’ils souhaitent intervenir pour empêcher cette action. (Par exemple, un joueur pourrait vouloir repousser le premier joueur loin du chariot, ou le saisir et l’éloigner de force.)
 >
-> If so, have all involved players roll initiative. (The first player is, of course, free to change their mind and cease their original action at any time.)
+> Si c’est le cas, demandez à tous les joueurs impliqués de lancer l’initiative. (Le premier joueur est, bien entendu, libre de changer d’avis et d’abandonner son action initiale à tout moment.)
 
-**Inspecting the Wagon.** A player that inspects Ezmerelda’s wagon also learns that it was not the only one that has parked here recently. A second set of wagon tracks lies nearby, leading from the eastern woods to a spot nearby Ezmerelda’s wagon, then south along the path away from the lake. A player who follows the tracks south finds that they reach the Old Svalich Road then turn east, toward Vallaki. A player who makes a successful DC 14 Wisdom (Survival) check can ascertain that the second set of tracks was made the same day the players first arrived in Vallaki.
+**Inspecter le Chariot.** Un joueur qui inspecte le chariot d’Ezmerelda apprend également qu’il n’est pas le seul à s’être garé ici récemment. Un deuxième ensemble de traces de chariot se trouve à proximité, menant depuis les bois à l’est jusqu’à un endroit près du chariot d’Ezmerelda, puis vers le sud le long du chemin s’éloignant du lac. Un joueur qui suit les traces vers le sud trouve qu’elles rejoignent la Vieille Route Svalich puis bifurquent vers l’est, en direction de Vallaki. Un joueur qui réussit un test de Sagesse (Survie) DD 14 peut déterminer que le deuxième ensemble de traces a été fait le même jour où les joueurs sont arrivés pour la première fois à Vallaki.
 
-A player who makes a successful DC 10 Wisdom (Survival) check can follow the second set of tracks into the woods, where they end in a dark, sheltered hollow. Much of the forest floor around the hollow is stained with bright yellow and white paint. A successful DC 14 Intelligence (Investigation) check reveals that the paint was left fairly recently—approximately one day before the players first arrived in Vallaki. 
+Un joueur qui réussit un test de Sagesse (Survie) DD 10 peut suivre le deuxième ensemble de traces dans les bois, où elles se terminent dans un creux sombre et abrité. Une grande partie du sol de la forêt autour du creux est tachée de peinture jaune vif et blanche. Un test réussi d’Intelligence (Investigation) DD 14 révèle que la peinture a été laissée assez récemment — environ un jour avant que les joueurs n’arrivent pour la première fois à Vallaki.
 
-If the player has previously seen Rictavio’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
-### Inside the Wagon
-**Double-Barreled Traps.** The vials of alchemists fire have been removed from the wagon's interior. Instead, if a player opens the door after breaking or picking the lock, two heavy crossbow traps mounted at the far side of the cabin fire, targeting the player immediately in front of the door:
+Si le joueur a déjà vu le chariot de Rictavio dans l’Entrepôt Arasek, il reconnaît la peinture comme étant de la même teinte jaune que le panneau sur le chariot.
+### À l’Intérieur du Chariot
+**Pièges à Double Détente.** Les fioles de feu alchimique ont été retirées de l’intérieur du chariot. À la place, si un joueur ouvre la porte après avoir forcé ou crocheté le cadenas, deux pièges d’arbalète lourde montés à l’extrémité opposée de la cabine se déclenchent, ciblant le joueur immédiatement devant la porte :
 
-* ***Silver Barbed Net***: *Ranged Weapon Attack:* +8 to hit. *Hit:* 5 (2d4) piercing damage and the target is restrained until it is freed. The target can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach on a success. A creature that attempts to do so must also succeed on a DC 15 Dexterity saving throw or take 5 (2d4) piercing damage in the process. Dealing 15 slashing damage to the net (AC 15) also frees the creature without harming it, ending the effect and destroying the net.
-* ***Bottle of Concentrated Alchemist's Fire***. *Ranged Weapon Attack:* +8 to hit. *Hit:* 21 (6d6) fire damage. On a hit, the target is also set ablaze and takes the damage again at the start of each of its turns until the fire is put out. A creature within reach of the blaze can take an action to smother the flames using a blanket or carpet, reducing the fire damage by 2d6. Three such actions are needed to fully put out the fire.
+* ***Filet Barbelé Argenté*** : *Attaque d’Arme à Distance :* +8 pour toucher. *Touché :* 5 (2d4) dégâts perforants et la cible est entravée jusqu’à ce qu’elle soit libérée. La cible peut utiliser son action pour effectuer un test de Force DD 15, se libérant elle-même ou une autre créature à sa portée en cas de réussite. Une créature qui tente de le faire doit également réussir un jet de sauvegarde de Dextérité DD 15 ou subir 5 (2d4) dégâts perforants supplémentaires. Infliger 15 dégâts tranchants au filet (CA 15) libère également la créature sans la blesser, mettant fin à l’effet et détruisant le filet.
+* ***Bouteille de Feu Alchimique Concentré*** : *Attaque d’Arme à Distance :* +8 pour toucher. *Touché :* 21 (6d6) dégâts de feu. En cas de touché, la cible est également enflammée et subit à nouveau ces dégâts au début de chacun de ses tours jusqu’à ce que le feu soit éteint. Une créature à portée des flammes peut utiliser une action pour étouffer les flammes avec une couverture ou un tapis, réduisant les dégâts de feu de 2d6. Trois actions de ce type sont nécessaires pour éteindre complètement le feu.
 
-**Ezmerelda's Belongings.** If the players successfully enter Ezmerelda’s wagon, it does not contain the burned page of Van Richten’s journal. In addition, the following items are contained in a false bottom of the wooden trunk, which requires a DC 15 Intelligence (Investigation) check to find:
+**Les Affaires d’Ezmerelda.** Si les joueurs entrent avec succès dans le chariot d’Ezmerelda, il ne contient pas la page brûlée du journal de Van Richten. De plus, les objets suivants sont contenus dans un double fond de la malle en bois, qui nécessite un test réussi d’Intelligence (Investigation) DD 15 pour être trouvé :
 
-* The climber's kit, disguise kit, healer's kit, and poisoner's kit
-* The wooden box containing the Tarokka cards
-* The sets of manacles
-* The wooden chest containing the holy symbol, holy water, perfume, antitoxin, rope, tinderbox, steel mirror, wooden stake, and spyglass
-* The spell scrolls
-* The map of Barovia (which shows only the roads and settlements of Barovia, and no longer shows all the locations marked on the adventure's map of Barovia)
+* Le kit d’escalade, le kit de déguisement, le kit de soins et le kit d’empoisonneur
+* La boîte en bois contenant les cartes Tarokka
+* Les jeux de menottes
+* Le coffre en bois contenant le symbole sacré, l’eau bénite, le parfum, l’antitoxine, la corde, le briquet, le miroir en acier, le pieu en bois et la longue-vue
+* Les parchemins de sorts
+* La carte de la Barovie (qui ne montre que les routes et les colonies de la Barovie, et n’indique plus tous les emplacements marqués sur la carte de l’aventure)
 
-If the players enter the wagon by means of the door instead of the trapdoor, Ezmerelda's chicken squawks angrily at them until they depart.
+Si les joueurs entrent dans le chariot par la porte plutôt que par la trappe, la poule d’Ezmerelda caquète avec colère contre eux jusqu’à ce qu’ils partent.
 
 > [!abstract]+ **Eggsmerelda**
-> If spoken to through the use of a *speak with animals* spell, the chicken introduces herself proudly as Eggsmerelda,^[Credit to Lyric42 for coining the name "Eggsmerelda."] the pet of the "legendary monster hunter" Ezmerelda d'Avenir, who Eggsmerelda vows will seek vengeance upon the players for breaking into her wagon.
-> 
-> If treated with kindness and provided with a proper apology, Eggsmerelda can share that she doesn't know where Ezmerelda is currently, and that Ezmerelda is currently "looking for something" in the woods, though she hopes that Ezmerelda will return soon. (Eggsmerelda, whose cage contains close and plentiful access to a bag of seeds and a bowl of water, is at no risk of going hungry or thirsty while Ezmerelda is away.)
-## E6b. The Tower
-### 1. The Tower Door
-<span class="citation"><em>This scene takes place in Chapter 11: Area V2.</em></span>
+> Si on lui parle grâce au sort *communication avec les animaux*, la poule se présente fièrement sous le nom d’Eggsmerelda,^[Crédit à Lyric42 pour avoir inventé le nom « Eggsmerelda ».] l’animal de compagnie de la « légendaire chasseuse de monstres » Ezmerelda d’Avenir, et jure de se venger des joueurs pour avoir fracturé son chariot.
+>
+> Si on la traite avec gentillesse et qu’on lui présente des excuses convenables, Eggsmerelda peut révéler qu’elle ne sait pas où se trouve Ezmerelda en ce moment, et qu’Ezmerelda « cherche quelque chose » dans les bois, mais qu’elle espère qu’Ezmerelda reviendra bientôt. (Eggsmerelda, dont la cage contient un accès aisé et abondant à un sac de graines et un bol d’eau, ne risque pas de mourir de faim ou de soif pendant l’absence d’Ezmerelda.)
+## E6b. La Tour
+### 1. La Porte de la Tour
+<span class="citation"><em>Cette scène se déroule au Chapitre 11 : Zone V2.</em></span>
 
-The tower door is largely as described in <span class="citation">V2. Tower Door (p. 169)</span>. However, modify the descriptive text as follows:
+La porte de la tour est en grande partie telle que décrite dans <span class="citation">V2. Porte de la Tour (p. 169)</span>. Cependant, modifiez le texte descriptif comme suit :
 
 <div class="description">
-<p>The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed, blank red seal. Carved into the lintel above the door is a word: Khazan.</p>
+<p>La porte de la tour est en fer, sans poignée ni gond visible. Au centre de la porte se trouve un grand sceau rouge en relief, apparemment vierge. Gravé dans le linteau au-dessus de la porte se trouve un mot : Khazan.</p>
 </div>
 
-The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in <span class="citation">V2. Tower Door (p. 169)</span>. If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
+Le sceau semble vierge. Cependant, si un personnage s'approche à moins d'un mètre et demi de la porte, huit boutons de la taille d'un poing émergent de sa surface cireuse aux mêmes positions que les silhouettes bâton décrites dans <span class="citation">V2. Porte de la Tour (p. 169)</span>. Si le personnage s'éloigne ensuite de la porte, les boutons disparaissent à nouveau. Les boutons apparaissent à des endroits différents à chaque fois, mais l'ordre des boutons lorsqu'ils se déplacent autour du sceau reste toujours le même.
 ![[Tower Door.png]]
-Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
+Chacun des huit boutons représente une rune arcanique différente. Un joueur maîtrisant l'Arcane, ou qui réussit un test d'Intelligence (Arcane) DD 10, identifie les runes comme les symboles des huit écoles de magie. L'ordre des symboles, se déplaçant dans le sens antihoraire autour du sceau, est toujours : illusion, abjuration, nécromancie, invocation, divination, enchantement, transmutation, évocation.
 
-A player who compares the platinum signet ring to the symbols notices that the evocation and necromancy runes exactly match the appearance of their corresponding symbols on the door. To unlock the door, the players must press the buttons in the order given by the pattern of crossed lines on the signet ring, beginning with either the evocation or necromancy symbol and moving along the lines in the proper sequence. 
+Un joueur qui compare l'anneau chevalière en platine aux symboles remarque que les runes d'évocation et de nécromancie correspondent exactement à l'apparence de leurs symboles correspondants sur la porte. Pour déverrouiller la porte, les joueurs doivent appuyer sur les boutons dans l'ordre donné par le motif de lignes croisées sur l'anneau chevalière, en commençant soit par le symbole d'évocation soit par celui de nécromancie et en suivant les lignes dans la bonne séquence.
 
-The two possible proper sequences are:
+Les deux séquences correctes possibles sont :
 
-* evocation, divination, illusion, transmutation, conjuration, abjuration, enchantment, necromancy
-* necromancy, enchantment, abjuration, conjuration, transmutation, illusion, divination, evocation
+* évocation, divination, illusion, transmutation, invocation, abjuration, enchantement, nécromancie
+* nécromancie, enchantement, abjuration, invocation, transmutation, illusion, divination, évocation
 
-Each time a button is pressed, its symbol glows with the color of its corresponding school of magic: evocation (red), divination (silver), illusion (purple), transmutation (green), conjuration (brown), abjuration (yellow), enchantment (pink), and necromancy (blue).
+Chaque fois qu'un bouton est pressé, son symbole brille de la couleur de son école de magie correspondante : évocation (rouge), divination (argent), illusion (violet), transmutation (vert), invocation (brun), abjuration (jaune), enchantement (rose) et nécromancie (bleu).
 
-A creature that touches any part of the door other than buttons without first unlocking it receives a mild, but painful electric shock. A creature that attempts to break down the door must succeed on a DC 25 Strength check; on a failure, a stroke of lightning blasts out from the door in a straight line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. (Triggering the lightning multiple times doesn't cause the door to collapse.)
+Une créature qui touche toute partie de la porte autre que les boutons sans l'avoir d'abord déverrouillée reçoit une légère mais douloureuse décharge électrique. Une créature qui tente d'enfoncer la porte doit réussir un test de Force DD 25 ; en cas d'échec, un éclair jaillit de la porte en ligne droite sur 30 mètres de long et 1,50 mètre de large. Chaque créature sur la ligne doit réussir un jet de sauvegarde de Dextérité DD 15, subissant 8d6 dégâts de foudre en cas d'échec, ou la moitié en cas de réussite. (Déclencher la foudre plusieurs fois ne provoque pas l'effondrement de la porte.)
 
-If eight different symbols are pressed in an incorrect sequence, their lights briefly flicker, then go out again. The first time this happens, the griffon statues atop the tower roof—four disguised **gargoyles**—come to life and attack. The gargoyles fight to the death.
+Si huit symboles différents sont pressés dans une séquence incorrecte, leurs lumières scintillent brièvement, puis s'éteignent. La première fois que cela se produit, les statues de griffon au sommet du toit de la tour — quatre **gargouilles** déguisées — s'animent et attaquent. Les gargouilles combattent jusqu'à la mort.
 
-> [!combat]- **Combat - The Gargoyles**  
-> **Combat Level**: Oppressive
-> **Expected Character Level**: 4
-> **Allies:** Szoldar Szoldarovich (CR 1/2)
-> **Expected HP Consumption:** 85%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combat - Les Gargouilles**
+> **Niveau de Combat** : Oppressif
+> **Niveau de Personnage Attendu** : 4
+> **Alliés :** Szoldar Szoldarovich (CR 1/2)
+> **Consommation de PV Attendue :** 85%
+>
+> ### **Ennemis :**
+>
+> | |3 Joueurs | 4 Joueurs | 5 Joueurs | 6 Joueurs |
 > |-|-|-|-|-|
-> | Gargoyle | 2 | 3 | 4 | 5 |
+> | Gargouille | 2 | 3 | 4 | 5 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Équilibrage :**
+> Si vous avez moins ou plus de 5 joueurs, modifiez la rencontre comme suit :
 >
-> | Number of Players | Modification |
+> | Nombre de Joueurs | Modification |
 > |-|-|
-> | 3 | Two of the gargoyles are damaged and cannot animate or fight. |
-> | 4 | One of the gargoyles is damaged and cannot animate or fight. |
-> | 6 | Add a fifth gargoyle. |
+> | 3 | Deux des gargouilles sont endommagées et ne peuvent ni s'animer ni combattre. |
+> | 4 | Une des gargouilles est endommagée et ne peut ni s'animer ni combattre. |
+> | 6 | Ajoutez une cinquième gargouille. |
 
 
 ### 2. The Scaffolding

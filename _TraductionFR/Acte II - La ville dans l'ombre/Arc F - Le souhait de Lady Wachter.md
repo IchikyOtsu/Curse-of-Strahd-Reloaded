@@ -1,40 +1,41 @@
-_An adventure for five 4th-level characters._
+_Une aventure pour cinq personnages de niveau 4._
 
-In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
+Dans cet arc, si les joueurs ont défié la volonté du Baron lors de leur premier matin après être entrés dans Vallaki, si eux ou Ireena ont été observés en train de rendre visite aux réfugiés baroviens à l'extérieur de la porte est, ou s'ils ont fait part de leur aversion pour le Baron Vallakovich à Nikolai ou Karl Wachter à l'Auberge de l'Eau Bleue, les joueurs reçoivent une lettre livrée par Ernst Larnak, le messager et espion de Lady Fiona Wachter, qui les invite à dîner à la Maison Wachter (Wachterhaus) ce soir-là.
 
-When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that Baron Vargas Vallakovich is a menace who must be deposed.
+Lorsque les joueurs arrivent à la Maison Wachter cette nuit-là, Lady Wachter leur souhaite la bienvenue à Vallaki et entreprend de leur offrir du vin, de la nourriture et de la conversation. Tout au long de la soirée, elle interroge subtilement les joueurs sur leurs capacités et leurs objectifs, tout en s'efforçant de les convaincre que le Baron Vargas Vallakovich est une menace qui doit être destituée.
 
-If Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, Izek Strazni, and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
+Si Lady Wachter détermine que les joueurs sont des alliés convenables, elle leur demande de tuer le bras droit du Baron, Izek Strazni, et de lui rapporter sa tête. Lady Wachter promet la sécurité des réfugiés baroviens, ainsi qu'un paiement supplémentaire, si les joueurs réussissent.
 
-If the players accept Lady Wachter’s assignment, Ernst provides them with a bottle of poisoned wine for use in intoxicating Izek, as well as information that the players can use to track Izek in order to assassinate him. The players can find Izek in Vallaki’s town square, and eventually track him to the shore of Lake Zarovich, where—if the players successfully planted it—he drinks the poisoned wine.
+Si les joueurs acceptent la mission de Lady Wachter, Ernst leur fournit une bouteille de vin empoisonné à utiliser pour intoxiquer Izek, ainsi que des informations que les joueurs peuvent utiliser pour traquer Izek afin de l'assassiner. Les joueurs peuvent trouver Izek sur la place de la ville de Vallaki, et finalement le traquer jusqu'à la rive du Lac Zarovich, où — si les joueurs ont réussi à la placer — il boit le vin empoisonné.
 
-If the players deliver Izek’s severed head to Lady Wachter, she visits Baron Vallakovich under cover of darkness the following night, accompanied by a trio of **cult fanatics.** Upon viewing Izek’s head, the Baron surrenders peacefully to Lady Wachter’s rule. The following morning, the Baron publicly abdicates to Lady Wachter in Vallaki’s town square.
+Si les joueurs livrent la tête tranchée d'Izek à Lady Wachter, elle rend visite au Baron Vallakovich à la faveur de la nuit suivante, accompagnée d'un trio de **fanatiques de la secte**. À la vue de la tête d'Izek, le Baron se rend pacifiquement à l'autorité de Lady Wachter. Le lendemain matin, le Baron abdique publiquement en faveur de Lady Wachter sur la place de la ville de Vallaki.
 
-> [!abstract]+ **Tea with Fiona**
-> If the players visit Wachterhaus before receiving a formal invitation, Lady Wachter is happy to immediately have tea with them if they express an interest in overthrowing the Baron. Otherwise, her manservant Haliq makes an appointment for them to meet with her the following day.
+> [!abstract]+ **Le thé avec Fiona**
+> 
+> Si les joueurs visitent la Maison Wachter avant de recevoir une invitation formelle, Lady Wachter est heureuse de prendre immédiatement le thé avec eux s'ils expriment un intérêt pour le renversement du Baron. Sinon, son serviteur Haliq prend rendez-vous pour qu'ils la rencontrent le lendemain.
 
-# F1. The Blue Water Inn
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+# F1. L'Auberge de l'Eau Bleue
 
-If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or Ireena visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
+<span class="citation"><em>Cette scène se déroule au Chapitre 5 : Zone N2.</em></span>
 
-The envelope is addressed to whichever player first introduced themselves to Nikolai and Karl Wachter on the night of their first arrival or, if the players did not interact with Nikolai and Karl in the taproom, whichever player first identified themselves to the guards at Vallaki’s gates that same day.
+Si les joueurs ont défié le Baron Vallakovich ou sont intervenus en faveur de Willemina lors de leur premier matin à Vallaki, si eux ou Ireena ont visité le camp des réfugiés baroviens à un moment donné de leur séjour à Vallaki, ou si les joueurs ont fait part de leur aversion pour le Baron Vallakovich à Nikolai ou Karl Wachter à l'Auberge de l'Eau Bleue, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] leur remet une enveloppe à leur retour à l'Auberge de l'Eau Bleue cette même nuit.
 
-Urwin doesn’t know who the letter is from, but can tell the players that it was delivered by a scruffy-looking man wearing a muddy, but well-made brown cloak who was very insistent that the players receive it. (The man was Ernst Larnak, Lady Wachter’s spy.) 
+L'enveloppe est adressée au joueur qui s'est présenté en premier à Nikolai et Karl Wachter le soir de leur première arrivée ou, si les joueurs n'ont pas interagi avec Nikolai et Karl dans la salle commune, au joueur qui s'est identifié en premier aux gardes aux portes de Vallaki ce même jour.
 
-The envelope contains the following letter, with the blank filled with the name of whichever player the envelope was addressed to:
+Urwin ne sait pas de qui vient la lettre, mais peut dire aux joueurs qu'elle a été livrée par un homme d'apparence négligée portant une cape brune boueuse, mais de bonne facture, qui a beaucoup insisté pour que les joueurs la reçoivent. (L'homme était Ernst Larnak, l'espion de Lady Wachter.) 
 
-<div class="sidebar">
-<p>Dear _____ and esteemed companions,</p>
-<p>I hope this missive finds you in good health and high spirits. Vallaki appears to have been blessed by your presence and the promise of goodwill you bear with you.</p>
-<p>It has come to my attention that our paths, though they wind through such trying times, bear a striking convergence. Accordingly, I write to you today with a humble invitation to dine at my home, Wachterhaus, at sundown tomorrow evening. You may find it on Vallaki’s northern road, a short distance from the Zarovich Gate.</p>
-<p>I trust that this setting shall provide a quiet and welcoming environment to discuss matters of mutual interest and concern. My doors, as they have always been, stand open to those who wish for the best for the good people of Barovia.</p>
-<p>Should you choose to accept, simply present this invitation at the door to my estate. I gladly await your presence tomorrow evening. Until then, I remain,</p>
-<p>Sincerely yours,</p>
-<p>Lady Fiona Wachter</p>
-</div>
+L'enveloppe contient la lettre suivante, avec l'espace vide rempli par le nom du joueur à qui l'enveloppe était adressée :
 
-If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation">Vallaki Lore (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+<div class="description">
+<p>Cher/Chère _____ et estimés compagnons,</p>
+<p>J'espère que cette missive vous trouvera en bonne santé et de bonne humeur. Vallaki semble avoir été bénie par votre présence et la promesse de bienveillance que vous portez avec vous.</p>
+<p>Il a été porté à mon attention que nos chemins, bien qu'ils serpentent à travers des temps si difficiles, présentent une convergence frappante. En conséquence, je vous écris aujourd'hui avec une humble invitation à dîner chez moi, à la Maison Wachter, au coucher du soleil demain soir. Vous pouvez la trouver sur la route nord de Vallaki, à une courte distance de la Porte de Zarovich.</p>
+<p>Je suis convaincue que ce cadre offrira un environnement calme et accueillant pour discuter de questions d'intérêt et de préoccupation mutuels. Mes portes, comme elles l'ont toujours été, restent ouvertes à ceux qui souhaitent le meilleur pour les braves gens de Barovie.</p>
+<p>Si vous choisissez d'accepter, présentez simplement cette invitation à la porte de mon domaine. J'attends votre présence avec joie demain soir. Dans cette attente, je demeure,</p>
+<p>Cordialement,</p>
+<p>Lady Fiona Wachter</p></div>
+
+Si les joueurs interrogent Urwin au sujet de Lady Wachter, il peut partager toutes les informations la concernant décrites dans [[Ch5. La ville de Vallaki#Savoir de Vallaki (Lore)||Savoir de vallaki]]. Il peut également raconter que, selon la légende de la ville, les parents et le frère aîné de Lady Wachter ont été tués dans un mystérieux accident lorsqu'elle était adolescente. (Urwin, qui n'a emménagé à Vallaki qu'il y a dix ans, ne peut ni confirmer ni infirmer cette histoire.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
