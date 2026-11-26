@@ -6,7 +6,13 @@ At St. Andral's Church, the players will be tasked with recovering the stolen bo
 
 Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, Izek Strazni prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
 
-Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
+The evening following the restoration of the bones, a letter from Strahd von Zarovich arrives from himself, inviting the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
+
+Act II ends the morning after the players' first full moon in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete. 
+
+ >[!info]+ **Dealing with Izek Strazni**
+ > [[Arc F - Lady Wachter's Wish]] and [[Arc G - The Strazni Siblings]] unfold simultaneously, but only one will likely play out to completion depending on what players chose to do.
+
 
 # Milestones
 The players begin this act at 4th level and end it at 5th level, with each player gaining an equal amount of milestone XP when they successfully do any of the following:
@@ -31,9 +37,9 @@ Before the players arrive, the ringmaster Rictavio reserves a room at the Blue W
 
 **The players arrive in Vallaki at dusk.**
 
-That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.
+That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort. Father Lucian witnesses the theft, but does not identify the perpetrator in the dark.
 ## Neyavr 3
-At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
+Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
 
 Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc G - The Strazni Siblings]] if Izek has not already seen Ireena.
 
@@ -137,7 +143,7 @@ Together with Lady Wachter and her **cult fanatics**, the players set off for Ol
 ### Neyavr 7
 With the full moon—and, in [[Arc H - The Lost Soul]], Victor's *etherealness* ritual—just over twenty-four hours away, the players take a daytrip to the village of Krezk in [[Arc I - The Walls of Krezk]], hoping to pick wolfsbane that Dr. Rudolph van Richten can use to quell the curse of lycanthropy for one among them. 
 
-After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. The players then return to Krezk to pick wolfsbane. Given the proximity of the Abbey of Saint Markovia, the players also ascend to the Abbey's gates, where they meet the Abbot and are informed to return in two days to meet with Ezmerelda d'Avenir, their foretold ally in ***Arc M: Strahd's Enemy***.
+After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. The players then return to Krezk to pick wolfsbane. Given the proximity of the Abbey of Saint Markovia, the players also ascend to the Abbey's gates, where they meet the Abbot and are informed to return in two days to meet with Ezmerelda d'Avenir, their foretold ally in [[Arc K - The Fallen Abbey]].
 ### Neyavr 8
 The players return to Vallaki and spend a day of downtime exploring the town and acquiring gear. That night, the players join Victor and Lady Wachter to travel to the Ethereal Plane in [[Arc H - The Lost Soul]], where they do battle with the spirit of Leo Dilisnya while Victor restores Stella's soul to her body.
 ## The Cautious Explorers
@@ -165,7 +171,7 @@ That night, the players escape from Old Bonegrinder and return to Vallaki, where
 ### Neyavr 6
 The players set off for the village of Krezk in [[Arc I - The Walls of Krezk]]. After receiving Baron Krezkov's quest, the players travel south to the ruins of Berez, where the witch Baba Lysaga scries on Ilya Krezkov in exchange for Baron Krezkov's gift. 
 
-The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever in exchange for a promise to undertake ***Arc N: Something Borrowed.*** The players are informed that their foretold ally in ***Arc M: Strahd's Enemy***, Ezmerelda d'Avenir, will return to the Abbey in two days.
+The players then return to Krezk and ascent to the Abbey of Saint Markovia, where they meet the Abbot. The Abbot heals their cackle fever, asking for no payment. The players are informed that their foretold ally in [[Arc K - The Fallen Abbey]], Ezmerelda d'Avenir, will return to the Abbey in two days.
 ### Neyavr 7
 The players return to Vallaki and find that Ireena has been kidnapped by Izek Strazni in [[Arc G - The Strazni Siblings]]. The players gain entry to the Baron's mansion with Victor's help and do battle with Izek in the corridors of the manor. 
 

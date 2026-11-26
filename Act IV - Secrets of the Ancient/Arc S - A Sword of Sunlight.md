@@ -10,11 +10,11 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > [!lore]+ **Operations of the Amber Temple**
 > More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
 > 
-> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
+> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7e. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#S5b. Eastern Temple, Lower Floor|East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#S6c. Amber Vault|Amber Vault]].
 >
 > While residing at the temple, the society’s **archmage** stayed in [[#S7. Archmage’s Quarters]], while its senior **mages** kept separate chambers in the [[#West Quarters]] and [[#East Quarters]]. One senior **mage** was always present to supervise the society’s **apprentice wizards**, who slept in bunk beds in the [[#West Barracks]] and [[#East Barracks]]. Senior **mages** and the **archmage** took meals in their own rooms.
 >
-> Members of the society guarded the temple from the [[#West Guard Post]] and [[#East Guard Post]] in eight-hour shifts, with four **apprentice wizards** and one **mage** assigned to each shift. Apprentices shared bunk beds, ate in the [[#Dining Hall]], and took guard duty on alternating days. When not guarding the temple, apprentices either gathered in the [[#Lecture Hall]] to learn from a senior mage, practiced spellcasting in the [[#Training Hall]], or helped with cleaning, cooking in the [[#Architect’s Room]] (then a kitchen), scribing scrolls in the [[#West Scroll Repository]] and [[#East Scroll Repository]], brewing potions in the [[#Brewing Room]], and otherwise assisting senior mages with their work.
+> Members of the society guarded the temple from the [[#West Guard Post]] and [[#East Guard Post]] in eight-hour shifts, with four **apprentice wizards** and one **mage** assigned to each shift. Apprentices shared bunk beds, ate in the [[#Dining Hall]], and took guard duty on alternating days. When not guarding the temple, apprentices either gathered in the [[#Lecture Hall]] to learn from a senior mage, practiced spellcasting in the [[#Training Hall]], or helped with cleaning, cooking in the [[#Architect’s Room]] (then a kitchen), scribing scrolls in the [[#West Scroll Repository]] and East Scroll Repository, brewing potions in the [[#Brewing Room]], and otherwise assisting senior mages with their work.
 >
 > The temple contained two treasuries—[[#S6a. West Treasury]] and [[#S6b. East Treasury]]—which contained magical artifacts guarded by one **amber golem** each. Above them, rear balconies in [[#S2b. Atrium]] led to two shrines to the temple’s god of secrets. Apprentices advanced through the society’s ranks by undergoing trials at these shrines: those who resisted the terror roused by the *antipathy* spell of the [[#Shrine of Fear]] were promoted to journeymen and given authority over the other apprentices, while journeymen who resisted the *sympathy* spell of the [[#Shrine of Temptation]] became full-fledged wizards, permitted to journey with senior **mages** abroad to capture and transport new vestiges for the temple.
 
@@ -29,15 +29,15 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > Although the perpetrator was caught and executed, the murder left the wizards of the Amber Temple insular and fearful. As the security wards continued to weaken, the vestiges reached out from their dreamless sleep within their sarcophagi and whispered to their captors in their sleep, driving them further into delusion and paranoia. 
 >
-> The leader of the society, an archmage named Exethanter, adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, Exethanter’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits lingered as **wraiths** and **specters** in the [[#Dining Hall]].
+> The leader of the society, an archmage named Exethanter, adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, Exethanter’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits still linger as **wraiths** and **specters** in the [[#Dining Hall]].
 >
 > The society fractured. Wizards barricaded themselves in their rooms, and battles erupted in the halls. Some looted the catacombs or treasuries, then fled. In the end, only one wizard remained: Vilnius. Driven mad by his paranoia, Vilnius became terrified that enemies lurked everywhere outside of the temple, and hid himself away in the [[#Lecture Hall]] until he starved to death. The Dark Powers—born from the vestiges’ dark miasma, the clash of powerful magics, and the psychic resonance of so many violent deaths—entrapped his soul there, taking sustenance from his terror and despair.
 >
-> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation">X33a. Vault of Shalx (p. 191)</span> in [[East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of amber shards, which soon spread through the valley below and the lands far beyond. 
+> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation">X33a. Vault of Shalx (p. 191)</span> in [[#S5b. Eastern Temple, Lower Floor|East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of amber shards, which soon spread through the valley below and the lands far beyond. 
 >
-> The temple, broken, shadowed, and hollow, slumbered forgotten in the mountains—until the dusk elf mage Patrina Velikovna stumbled upon the secret of its existence nearly two thousand years later. Escorted to the valley by a Vistani caravan after Strahd crushed the dusk elves’ rebellion, Patrina found her way to the temple, where she disarmed its arcane wards and sought the secrets that lay within. Disregarding the weaker vestiges that dwelled in the [[#East Vaults]] and [[#West Vaults]], it wasn’t long before Patrina uncovered her true prize: the ocean of arcane knowledge that dwelled in [[#S7b. Archmage’s Library]]—as well as the ghost of the **archmage** Exethanter who dwelled there.
+> The temple, broken, shadowed, and hollow, slumbered forgotten in the mountains—until the dusk elf mage Patrina Velikovna stumbled upon the secret of its existence nearly two thousand years later. Escorted to the valley by a Vistani caravan after Strahd crushed the dusk elves’ rebellion, Patrina found her way to the temple, where she disarmed its arcane wards and sought the secrets that lay within. Disregarding the weaker vestiges that dwelled in the [[#S5b. Eastern Temple, Lower Floor|East Vaults]] and [[#West Vaults]], it wasn’t long before Patrina uncovered her true prize: the ocean of arcane knowledge that dwelled in [[#S7b. Archmage’s Library]]—as well as the ghost of the **archmage** Exethanter who dwelled there.
 >
-> Moved by Patrina’s tale of the dusk elves’ persecution, Exethanter reluctantly agreed to take her on as an apprentice. Unbeknownst to him, however, Patrina secretly obtained forbidden tomes from the temple’s shelves and studied the dark arts, even as she communed with the vestige of Tenebrous within [[#S6c. Amber Vault]], hoping to grow powerful enough to become a lich. When Exethanter learned of her duplicity, he attempted to banish her from the temple—but Patrina overpowered him instead, binding his spirit and sealing it away within [[#S7d. Ritual Chamber]], where he could trouble her no more.
+> Moved by Patrina’s tale of the dusk elves’ persecution, Exethanter reluctantly agreed to take her on as an apprentice. Unbeknownst to him, however, Patrina secretly obtained forbidden tomes from the temple’s shelves and studied the dark arts, even as she communed with the vestige of Tenebrous within [[#S6c. Amber Vault]], hoping to grow powerful enough to become a lich. When Exethanter learned of her duplicity, he attempted to banish her from the temple—but Patrina overpowered him instead, binding his spirit and sealing it away within [[#S7e. Ritual Chamber]], where he could trouble her no more.
 >
 > With Exethanter’s ghost dispatched, Patrina set out to reshape the temple in her own image. She raised the society’s long-dead wizards as **flameskulls**, reprogrammed the **amber golems** to obey her commands, and keyed the temple’s wards to admit her alone. 
 >
@@ -101,7 +101,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > * Its true name is Turul, and it was once the familiar of the Seeker, who is now Madam Eva.
 > * Its nest lies upon the peak of Mt. Ghakis.
 > * It is no friend of Strahd’s.
-> * If the players previously encountered it as a raven in [[Arc M - The Dragon's Manor]], it was the raven they encountered.
+> * It was the raven encountered in [[Arc M - The Dragon's Manor]] (if the party did in fact encounter it there).
 > * It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s instructions. (The roc won’t explain why, or disclose the gem’s location.)
 > * It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.)
 >
@@ -396,7 +396,7 @@ This area is largely as described in <span class="citation">X15. Southwest Annex
 <p>A tall, broad-shouldered woman clad in wolfskin clutches a tall, single-bladed spear with a curved end, just beside a stocky man with thick, black stubble and a greataxe across his back. Dark bags hang under their bloodshot eyes.</p>
 </div>
 
-The woman is Diona, the eldest daughter of Chief Diegia (use the statistics of a **champion** with AC 15 (leather armor) and a glaive instead of a greatsword). The man is Coryllus, a **berserker**, and Diona’s most loyal friend. Both have three levels of exhaustion.
+The woman is Diona, the eldest daughter of Chief Diegia (use the statistics of a **champion** with AC 14 (hide armor) and a glaive instead of a greatsword). The man is Coryllus, a **berserker**, and Diona’s most loyal friend. Both have three levels of exhaustion.
 
 If the players enter without Diona or Coryllus’s invitation, the two Mountain Folk ready themselves for battle and demand, fiercely and warily, that the players identify themselves. “If you’re pilgrims of evil," Coryllus warns hoarsely, “or if you’ve done something to Meda and Duras, you won’t live long to regret it."
 
@@ -728,7 +728,7 @@ The staff is a *staff of frost*, with the following changes:
 The first time a player picks up the *staff of frost*, if they did so at Vilnius’s request, a soft woman’s voice whispers into their mind: “*Vilnius doesn’t deserve this staff. Use its power to deceive him, and take it for yourself.*"
 
 > [!info]+ **The Whispering Voice**
-> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]] or [[Arc Q - A Shining Beacon#The Abbot’s Redemption|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
+> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]] or [[Arc Q - A Shining Beacon#The Abbot's Redemption|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
 ## S4b. Western Temple, Lower Floor
 ### West Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
@@ -831,7 +831,7 @@ If the player passes through the amber archway or accepts Delban’s gift, the t
 > Each time the player uses Drizlash’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Drizlash’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Drizlash’s dark gift, and resets to 5 each time the player gains an additional stage of Drizlash’s amber corruption.
 >  
 > * **Stage Four.** The player gains a +3 bonus to their Dexterity score and the flaw: “Only raw flesh can satiate my hunger, and I am always hungry." Its skin becomes a pale white-blue, and fangs grow in its mouth.  
-> * **Stage Five.** The player gains a **phase spider’s** ***web walker***, ***multiattack***, ***bite***, and ***ethereal sight*** features, and the flaw: “I suffer from extreme paranoia, and am quick to anger."
+> * **Stage Five.** The player gains a **phase spider’s** (2024) ***web walker***, ***multiattack***, ***bite***, and ***ethereal sight*** features, and the flaw: “I suffer from extreme paranoia, and am quick to anger."
 > * *Stage Six.* The player transforms into a **phase spider** under the DM’s control. 
 #### Vault of Harkotha
 <span class="citation">This scene takes place in Chapter 13, Area X33e</span>
@@ -972,7 +972,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 > Each time the player uses Vaund’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Vaund’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Vaund’s dark gift, and resets to 5 each time the player gains an additional stage of Vaund’s amber corruption.
 >  
 > * **Stage Four.** The player gains a +3 bonus to their Dexterity score and the flaw: “I do not feel joy, sorrow, or love—only hate, rage, and apathy." Its skin becomes a pale, ethereal blue, and its lips freeze into a permanent, ghoulish smile.  
-> * **Stage Five.** The player gains an **invisible stalker’s** ***air form***, ***multiattack***, and ***wind swipe*** features, and the flaw: “I despise reminders of what I once was, and what I have become."  
+> * **Stage Five.** The player gains an **invisible stalker’s** (2024) ***air form***, ***multiattack***, and ***wind swipe*** features, and the flaw: “I despise reminders of what I once was, and what I have become."  
 > * **Stage Six.** The player transforms into an **invisible stalker** under the DM’s control.  
 
 > [!info]+ **East Sarcophagus (Tomb of Seriach).**  
@@ -1176,7 +1176,8 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 <br>
 <strong>Languages</strong> Common, Abyssal  
 <br>
-<strong>Challenge</strong> 9 (5,000 XP)  
+<strong>Challenge</strong> 9 (5,000 XP)
+<br>
 <strong>Proficiency Bonus</strong> +4  <br>
 <hr>
 <p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
@@ -1510,7 +1511,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 > * **Stage Five.** The player gains a **cambion’s** ***fire ray*** feature, and the flaw: “I exult in every opportunity for wickedness and perversion."
 > * **Stage Six.** The player transforms into a **cambion** under the DM’s control.  
 
-> [!info]+ **East Sarcophagus (Tomb of Khirad).**  
+> [!info]+ **North Sarcophagus (Tomb of Khirad).**  
 > If a player touches this sarcophagus, read:  
 >  
 > ---  
@@ -1782,14 +1783,14 @@ Patrina greets the players with mocking warmth, thanking them for freeing her fr
 * More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
 * "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl a mere century old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
 * Whether the players respond or not, Patrina continues: "I won't claim the glory or honor of being the first to call for rebellion, but I'd gladly claim the glory of being among the first when Barov’s son took the throne." She chuckles darkly, a low, throaty sound. "We thought him a naive starling—scarcely fifty summers old. How wrong we were."
-* She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the Vistani, who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “Of course, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
+* She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the Vistani, who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “In retrospect, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
 * “Of course," Patrina adds, “when the Vistani bore us to the valley, it soon became clear that this was to be our prison—and, in time, our graves." She smiles. “Thankfully, a chance encounter with a knight, a few drinks, and a *touch* of enchantment allowed me to learn of a temple high in the mountains—one that held the secrets to excising the scourge of the von Zaroviches and returning my people to their proper place."
-* She sniffs. "Of course, the old ghost I found here was suspicious about me—but even he crumbled in the end. I had an entire playground of new magic to explore, and I knew that another stupid, selfish old man wasn't about to stop me from getting what was mine." She shrugs. "So I studied. I learned. I waited. And by the time he found out… Well, by then, it was too late, wasn't it?"
+* She sniffs. "Naturally, the old ghost I found here was suspicious about me—but even he crumbled in the end. I had an entire playground of new magic to explore, and I knew that another stupid, selfish old man wasn't about to stop me from getting what was mine." She shrugs. "So I studied. I learned. I waited. And by the time he found out… Well, by then, it was too late, wasn't it?"
 * "With dear Exethanter gone," she continues, "the future was mine for the taking. Most of the vestiges here were pathetic, offering only tainted scraps of power, but one..." She shudders with delight. "One offered *so much more*. Perhaps you've encountered it?"
 * If a player offers any name but "Tenebrous," Patrina is irritated and snaps, "A fool's answer. No, I speak of the vestige of Tenebrous—the gatekeeper of *true* power." If the player names Tenebrous, she nods smugly with a delighted smirk. "Oh, yes. And it wasn't power that would claim and devour me, like so many of these other weaklings offered. No; this was power that had to be *earned*. And I knew I wasn't yet worthy of it."
 * "In the meantime," Patrina continues, "dear Strahd came to the valley, as I'd long expected. By now, I'd realized that von Zarovich himself was only a man—a puppet of the age. If I were to kill him, one of his generals would rise up to take his place. My people would still be entrapped, weak, and squabbling for scraps. No; I realized that if I wanted to claim my people’s future, I needed to *use* that throne Zarovich had erected—not merely vacate it."
 * "Strahd may have been mature for a human," Patrina continues, "but he was so transparently *mortal*, as all humans are. So terrified of death and age—when I finally gained an audience with him, it was easy to prey upon that fear, to nurture it until it became a monster ready to devour his heart. He would have done anything to escape it, then—and I gave him a way out." 
-* "He joined me to visit the Temple," she adds, “at my invitation, of course. He communed with Tenebrous as I had—though he insisted upon visiting with the other vestiges within the temple's vault. It was his own humble curiosity, he assured me; a general, wishing to know of threats within his realm. I indulged his whims, a mistake I now regret."
+* "He joined me to visit the Temple," she adds, “at my invitation, mind you. He communed with Tenebrous as I had—though he insisted upon visiting with the other vestiges within the temple's vault. It was his own humble curiosity, he assured me; a general, wishing to know of threats within his realm. I indulged his whims, a mistake I now regret."
 * "You may understand my shock, then, when he denied Tenebrous's gift. He claimed, at least then, that matters of empire claimed his attention, preventing him from further delving into the study of magic. I thought it a trick of the light, but there was a glint of hunger in his eyes as he beheld the Vampyr's sarcophagus."
 * "And then—the Federovna girl." Patrina’s mouth twists in distaste. "Strahd’s darling little brother, the accursed prince, finds this comely little village girl and spirits her away to the castle. Strahd spends all of his spare time entertaining the happy couple—but I knew the lust in his eyes for what it was. Our lessons in magic dwindled, and soon ceased. I *bored* him now; in her, he had found a treasure that surpassed any I could offer him." Patrina takes a sharp breath. “And then—the wedding. The day the skies turned red. The day he ascended far beyond my power."
 * Pausing, Patrina shakes her head, then continues: "When I learned what he had become, I redoubled my studies of the dark arts. I knew that he had now grown beyond my power to control. And so I began to pursue Tenebrous's gift more vigorously—until, soon, I had assembled all of the pieces I needed to finalize its enactment."
@@ -1866,7 +1867,7 @@ Patrina then attacks.
 <h2>Patrina, Vengeful Wraith</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
-<strong>Armor Class</strong> 13  
+<strong>Armor Class</strong> 14  
 <br>
 <strong>Hit Points</strong> 285 (38d8 + 48)  
 <br>
@@ -1895,7 +1896,7 @@ Patrina then attacks.
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9  
+<strong>Saving Throws</strong> Con +10, Int +12, Wis +9, Cha +10  
 <br>
 <strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8  
 <br>
@@ -1909,7 +1910,8 @@ Patrina then attacks.
 <br>
 <strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
+<strong>Challenge</strong> 18 (20,000 XP)
+<br>
 <strong>Proficiency Bonus</strong> +6  
 <hr>
 <p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
@@ -1991,7 +1993,8 @@ Patrina then attacks.
 <br>
 <strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
+<strong>Challenge</strong> 18 (20,000 XP)
+<br>
 <strong>Proficiency Bonus</strong> +6  
 <hr>
 <p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>
@@ -2000,14 +2003,14 @@ Patrina then attacks.
 <p><strong><em>Shadowblade.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">12 (2d8 + 3) necrotic damage</span>.</p>
 <p><strong><em>Life Drain.</em></strong> <em>Melee Spell Attack:</em> +12 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">8 (2d4 + 3) necrotic damage</span>. If the target is a creature, its hit point maximum decreases by an amount equal to the damage taken, and Patrina regains hit points equal to the damage dealt.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Crackling Doom.</em></strong> Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
-<p><strong><em>Negative Energy Burst.</em></strong> Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
+<p><strong><em>Crackling Doom.</em></strong> 1st-level evocation, 30-foot cone, components V S M, instantaneous. Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
+<p><strong><em>Negative Energy Burst.</em></strong> 1st-level necromancy, 5-foot-radius sphere, components V S M, instantaneous. Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
 <h3>Reactions</h3>
 <p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry (1/Round).</em></strong> <em>Trigger:</em> Patrina is hit by a melee or ranged attack while holding the <em>Sunsword</em>. <em>Effect:</em> Patrina adds <span class="highlight">+6</span> to her Armor Class against that attack, possibly causing it to miss.</p>
-<p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
-<p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
+<p><strong><em>Vile Teleport (1/Round).</em></strong> <em>1st-level necromancy, self, components V S M, instantaneous. Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
+<p><strong><em>Fell Rebuke.</em></strong> <em> 1st-level necromancy, self, components V S M, instantaneous. Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
 </div>
 
 When Patrina dies, read:
@@ -2152,7 +2155,7 @@ Players who read Exethanter’s spellbook find that, in addition to the spells d
 
 If the players arrive here in Exethanter’s company to discuss the *Tome of Strahd* or the Ladies of the Fanes, he responds as follows:
 
-* **Tome of Strahd.** If the players give Exethanter the *Tome of Strahd*, he inspects it for a few moments, using his ghostly *mage hand* to flip through the pages while stroking his beard thoughtfully. “A fascinating cipher," he murmurs. “It’s one I’m not intimately familiar with, but I enjoyed a hobby of cryptography in my youth, and the structure here is similar to some I have read in the past." If the players appear interested, Exethanter suggests that they leave it with him for analysis, noting (without boasting) that he should require “no more than—oh, forty-eight hours to crack it." (Exethanter promises to communicate any findings to the players via his *sending* spell.)
+* **Tome of Strahd.** If the players give Exethanter the *Tome of Strahd*, he inspects it for a few moments, using his ghostly *mage hand* to flip through the pages while stroking his beard thoughtfully. “A fascinating cipher," he murmurs. “It’s one I’m not intimately familiar with, but I enjoyed a hobby of cryptography in my youth, and the structure here is similar to some I have read in the past." If the players appear interested, Exethanter suggests that they leave it with him for analysis, noting (without boasting) that he should require “no more than—oh, an hour or two to crack it." (Exethanter welcomes the players to rest a while in his quarters whilst he focuses on deciphering the code.)
 * **Ladies of the Fanes.** If the player ask for a means to commune with or conjure the diminished essence of a vestige (e.g., the remnants of a deity), he directs the players to his spellbook, which documents the incantation, components, and instructions for carrying out the *Rite of Conjured Divinity* (see below). (The players, he promises, are free to copy the spells therein for their own use if they wish to.)
 
 > [!info]+ **The Rite of Conjured Divinity**
@@ -2161,7 +2164,37 @@ If the players arrive here in Exethanter’s company to discuss the *Tome of Str
 > To perform the Rite, the caster and four other individuals must first use chalk or similar means to draw a circled pentagram, at least fifteen feet across, at or within a location where the entity’s presence is strongest. Each ritualist must then stand beside a different point of the star, while the caster places the powdered amber at the circle’s center.
 >
 > The Rite has a lengthy incantation, which takes approximately one minute to complete and requires the caster and other ritualists to repeat the entity’s name three times, sounding the chime each time. The third time the chime is struck, the entity manifests within the pentagram, where it remains for the next 10 minutes.
-## S7d. Ritual Chamber
+
+
+## S7d. Exethanter's Warning
+
+Two hours after the players leave the *Tome of Strahd* with Exethanter’s spirit in [[Arc S - A Sword of Sunlight]], an increasingly agitated Exethanter gathers the players around the *Tome* to convey the following information:
+
+* The *Tome* describes Strahd’s plan to use a giant crystalline heart to conduct the energy from three leyline crossings in Barovia (i.e., points where two leylines intersect).
+* Strahd intends to control this raw, unfettered power using a “token of divinity" that is “like, but not of," the magic that dwells in the three leylines.
+* Using the leylines’ power, and the power stored in the heart’s vast reserves, Strahd will surround the crystalline heart with a shell of thousands of living human souls, each infused with apathy, fear, and despair. This process will tear the souls from their owners’ bodies, leaving the original hosts undead husks obedient to Strahd’s commands.
+* Strahd has determined that the Mists surrounding Barovia are impenetrable—except for one thirteen-day period every thirteen centuries, when the planes and stars align to form a Grand Conjunction. When the Grand Conjunction reaches its zenith, and the boundaries between worlds grow thinnest, Strahd intends to use the fortified heart as a battering ram to break through the Mists and free Barovia from its prison—consuming every soul in the process.
+* The Grand Conjunction begins in one day’s time, and will reach its zenith in three—and if even a single leyline remains under Strahd’s control on that date, every living soul in the valley may be lost.
+
+Exethanter, who is clearly horrified, agitated, and somewhat impressed by the audacity of Strahd’s plans, urges the players to do whatever they can to thwart Strahd’s plans before the Grand Conjunction begins.
+
+
+> [!info]+ **The Grand Conjunction**
+> At dusk on the first night of the Grand Conjunction, and on each night thereafter, the skies split to reveal glimpses of other worlds. Read:
+>
+> ---
+>
+> *As the grey daylight fades, and the Moon begins to rise above the trees, the stars follow it into the sky—but they are no longer alone.*
+>
+> *Strange, alien constellations join them from behind, forming a bright, shimmering tapestry that hangs across the sky. Other moons, too, float amidst the darkness, their orbiting shadows falling across the surfaces of great, distant planets. In the void beyond, sparkling nebulae drift across unfathomable vacuums, their light crossing windows into other realms—a sea of endless fire, a bloodstained expanse, a mount that rings with celestial hymns.*
+>
+> *These sights amidst the heavens are obscured only by a thin sphere of mist, from which Barovia’s false stars twinkle like patches on a blanket. Beyond them, in the center of it all, stand thirteen bright stars in near-perfect alignment.*
+>
+> ---
+>
+> The thirteen stars grow increasingly aligned each night, reaching perfect alignment on the third night following Exethanter’s message.
+
+## S7e. Ritual Chamber
 <span class="citation">This scene takes place in Chapter 13, Areas X28 and X29.</span>
 
 This area is largely as described in <span class="citation">X28. Hidden Phylactery (p. 189)</span> and <span class="citation">X29. Secret Room (p. 189)</span>. However, the phylactery belongs not to Exethanter, but the **arcanaloth** Neferon, as discussed in **Neferon's Phylactery** above. This phylactery, which has an AC of 20 and 20 hit points, can’t be damaged or destroyed except by radiant damage dealt by the *Sunsword* or a spell of 5th level or higher.
@@ -2177,7 +2210,7 @@ Neferon—as “Heinrich"—asks the players to identify any physical items they
 
 “Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of the Keepers of the Feather, or the existence of the *Tome of Strahd*. Due to Elder Burebis' *modify memory* spell, players will not be able to offer the location of Soldav as their secret.)
 
-However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
+However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its potential to produce sunlight (through the use of identify, because it's been lit, or by some other means). "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
 
 If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as [[#^heinrichsdiscipline|Heinrich's Discipline]] and [[#^neferonstactics|Neferon's Tactics]] above.
 

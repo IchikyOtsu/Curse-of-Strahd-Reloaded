@@ -26,7 +26,7 @@ Though the First Folk were the first to claim the valley, they were far from the
 
 When the forces of evil sought to claim the vestiges’ power for their own, the wizards resolved to guard the Temple themselves, and built a road from the Temple through the mountains to import supplies. To protect it, they constructed the defenses described in <span class="citation">T1. Gatehouse Portcullis</span>, <span class="citation">T2. Demon Statues</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span> along the winding Tsolenka Pass. 
 
-However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. Within three generations, nearly all of the wizards were dead as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>.
+However, these defenses could not stop the wizards themselves from falling to the vestiges’ corruption. As some wizards rejected tradition and let curiosity get the better of them, paranoia and in-fighting set in. Within three generations, all of the wizards were dead, leaving nothing but their ghosts to haunt the halls.
 ## Fall of the First Folk
 The seven tribes of the First Folk kept largely apart from one another until, one day, a young, impulsive warrior named Kavan entered the Whispering Wall, eager to set foot within its forbidden mists. In the fog, Kavan saw greatness—*his* greatness—and emerged with a deep and terrible ambition.
 
@@ -130,7 +130,7 @@ However, Strahd did not suffer peace well. Restless, and feeling like his best y
 
 Near-ageless and fair, the elven Patrina knew well of humanity’s fear of death. Where others saw a powerful conqueror, Patrina saw a man of middling age fast-approaching his twilight years. She whispered in his ear the name of the Amber Temple—and the secret of immortality it concealed—and Strahd eagerly listened.
 
-Upon Strahd’s arrival at the Amber Temple, the lich Exethanter welcomed him with open arms, as described <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. Patrina led him to an amber sarcophagus deep in the temple, to the vestige that offered the dark gift of Tenebrous: the secret of lichdom. She spoke to him of the grand power he could wield—of the ageless aeons through which he could conquer. 
+Upon Strahd’s arrival at the Amber Temple, Patrina led him to an amber sarcophagus deep in the temple, to the vestige that offered the dark gift of Tenebrous: the secret of lichdom. She spoke to him of the grand power he could wield—of the ageless aeons through which he could conquer. 
 
 What she left unspoken, of course, was that the vestige’s dark gift could be wielded only by an archmage capable of the highest circles of magic—a level that, with his fledgling skill, Strahd could reach only with her aid and influence.
 
@@ -267,9 +267,9 @@ It was in the archives of the Amber Temple that Strahd learned his new name. "Va
 ## Ghosts of the Past
 Eager to put Tatyana out of his mind, Strahd lured more women to the castle in rapid succession, taking several of them as brides before draining their lives and turning them into vampire spawn. Rahadin, his ever-faithful chamberlain, ensured that Strahd’s victims were made comfortable during their stay, as described in <span class="citation">Rahadin (p. 236)</span>. The first of these was a woman named Sasha Ivliskova, who Strahd would later seal in a crypt beneath Ravenloft after tiring of her. (See <span class="citation">Crypt 20: Sasha Ivliskova (p. 89)</span>).
 
-By the time a month had passed since Strahd’s transformation, Patrina had learned of Tatyana’s death and Strahd’s terrible curse. Though taken aback by his decision to accept the Vampyr's dark gift, she saw an opportunity within her circumstances. She returned to Ravenloft to win Strahd’s heart—and Strahd accepted her offer of marriage with amusement. 
+By the time a month had passed since Strahd’s transformation, Patrina had learned of Tatyana’s death and Strahd’s terrible curse. Taken aback by his decision to accept the Vampyr's dark gift, she redoubled her own efforts in the dark arts, planning to enter lichdom. 
 
-Before they could be wed, however, Kasimir Velikov, Patrina’s brother, learned of their plot. Helpless to keep her from Strahd, but determined to thwart the vampire’s plans, he rallied the dusk elves to stone her to death. In response, Strahd demanded her body—which he sealed in the castle crypts—and sent Rahadin to punish her killers, as described in <span class="citation">Kasimir Velikov (p. 232)</span> and <span class="citation">Rahadin (p. 236)</span>.
+Before her plans could come to fruition, however, Kasimir Velikov, Patrina’s brother, accidentally stumbled upon her machinations. Witnessing the depths of her evil actions, Kasimir slew his sister. In response, Strahd demanded her body—which he sealed in the castle crypts—and sent Rahadin to punish her killers, as described in <span class="citation">Kasimir Velikov (p. 232)</span> and <span class="citation">Rahadin (p. 236)</span>.
 
 When news of the dusk elf massacre reached Saint Markovia’s ears, she knew that she could wait no longer. Markovia rallied her followers and declared holy war on Castle Ravenloft—and when Strahd sent a group of vampire spawn to the Abbey, destroyed them with contempt.
 

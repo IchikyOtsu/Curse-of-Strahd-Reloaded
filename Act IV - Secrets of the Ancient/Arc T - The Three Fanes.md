@@ -113,7 +113,7 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 > The spear then loses the properties of a *blood spear* and becomes a +2 *spear of warning* with the following additional properties:
 > * If you throw this spear as a ranged attack, it flies back to your hand at the end of your turn. 
 > * You can use a bonus action to cause harmless emerald-green flames to wreathe the spear’s blade, or to extinguish those flames. While aflame, the spear sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
-> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier, and the spear regains all expended uses at dawn.
+> * When you ignite the spear’s blade, or as a bonus action while the spear’s blade is aflame, you can cast *hunter’s mark*. When cast in this way, the spell doesn’t require your concentration. You can cast this spell a number of times equal to your Wisdom modifier (with one cast for a modifier of 0 or below), and the spear regains all expended uses at dawn.
 
 > [!info]+ **Reconsecrating the Fanes**
 > For the players to reconsecrate the Fanes, the following events must come to pass
@@ -288,9 +288,8 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > [!item]+ **Beacon of Private Sanctum**
 > *Wondrous item, rare*
 >
-> When its command word is spoken, this six-inch iron cage gains the effects of a *private sanctum* spell. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it. 
->
-> Once activated, the beacon can’t be activated again until the next dawn.
+> Once per day (resetting at dawn), the bearer of this six-inch iron cage may speak its command word to cast *private sanctum* with no material components. When cast indoors in this way, the *private sanctum* extends no further than the walls of the structure that contains it.
+
 ### St. Andral’s Church
 If the players pass <span class="citation">N1. St. Andral’s Church (p. 97)</span> during the daytime, read:
 
@@ -501,31 +500,7 @@ If the players reduce Strahd's second form to 155 hit points or fewer, he snarls
 </div>
 
 On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 
-## T2d. Exethanter’s Warning
-Forty-eight hours after the players leave the *Tome of Strahd* with Exethanter’s spirit in [[Arc S - A Sword of Sunlight]], he contacts them simultaneously using a continuous, multi-target _sending_ spell to convey the following information:
 
-* The *Tome* describes Strahd’s plan to use a giant crystalline heart to conduct the energy from three leyline crossings in Barovia (i.e., points where two leylines intersect).
-* Strahd intends to control this raw, unfettered power using a “token of divinity" that is “like, but not of," the magic that dwells in the three leylines.
-* Using the leylines’ power, and the power stored in the heart’s vast reserves, Strahd will surround the crystalline heart with a shell of thousands of living human souls, each infused with apathy, fear, and despair. This process will tear the souls from their owners’ bodies, leaving the original hosts undead husks obedient to Strahd’s commands.
-* Strahd has determined that the Mists surrounding Barovia are impenetrable—except for one thirteen-day period every thirteen centuries, when the planes and stars align to form a Grand Conjunction. When the Grand Conjunction reaches its zenith, and the boundaries between worlds grow thinnest, Strahd intends to use the fortified heart as a battering ram to break through the Mists and free Barovia from its prison—consuming every soul in the process.
-* The Grand Conjunction begins in one day’s time, and will reach its zenith in three—and if even a single leyline remains under Strahd’s control on that date, every living soul in the valley may be lost.
-
-Exethanter, who is clearly horrified, agitated, and somewhat impressed by the audacity of Strahd’s plans, urges the players to do whatever they can to thwart Strahd’s plans before the Grand Conjunction begins.
-
-> [!info]+ **The Grand Conjunction**
-> At dusk on the first night of the Grand Conjunction, and on each night thereafter, the skies split to reveal glimpses of other worlds. Read:
->
-> ---
->
-> *As the grey daylight fades, and the Moon begins to rise above the trees, the stars follow it into the sky—but they are no longer alone.*
->
-> *Strange, alien constellations join them from behind, forming a bright, shimmering tapestry that hangs across the sky. Other moons, too, float amidst the darkness, their orbiting shadows falling across the surfaces of great, distant planets. In the void beyond, sparkling nebulae drift across unfathomable vacuums, their light crossing windows into other realms—a sea of endless fire, a bloodstained expanse, a mount that rings with celestial hymns.*
->
-> *These sights amidst the heavens are obscured only by a thin sphere of mist, from which Barovia’s false stars twinkle like patches on a blanket. Beyond them, in the center of it all, stand thirteen bright stars in near-perfect alignment.*
->
-> ---
->
-> The thirteen stars grow increasingly aligned each night, reaching perfect alignment on the third night following Exethanter’s message.
 # T3. The Witch of Berez
 ## T3a. Berez Outskirts
 The players’ approach to Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise this area’s description as follows:
@@ -699,7 +674,11 @@ This area is largely as described in <span class="citation">U5. Marina’s Monum
 <p>An ethereal, golden figure kneels before the monument.</p>
 </div>
 
+![[Marina's Monument.png]]
+<span class="credit">"Marina's Monument" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 The golden figure is the spirit of Sergei von Zarovich (use the statistics of a **phantom warrior**). 
+
 
 > [!lore]+ **Sergei’s Spirit**
 > When Strahd killed him at his wedding nearly four centuries ago, Sergei’s ghost awoke to find itself entrapped within the Mists, unable to pass on to the afterlife. As the Mists’ first ghost, Sergei has learned how to avoid the cycles of reincarnation that return Barovia’s souls to their next lives. Although Strahd has long searched for his soul, Sergei has also learned how to hide himself away from his brother’s eyes, too fearful—and ashamed—to allow Strahd to find him.
@@ -709,6 +688,11 @@ The golden figure is the spirit of Sergei von Zarovich (use the statistics of a 
 > When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
 >
 > Today, Sergei generally conceals himself near the border of the Deep Ethereal, so as to avoid the watchful eyes of Strahd’s **nightmare** and ghostly servants. However, he occasionally dares to visit Marina’s Monument, where he pays his respects to the woman he failed to save, and the woman his actions condemned. Sergei dreads the day that he might encounter Tatyana’s soul again—and hopes fervently that day will never come.
+
+
+![[Sergei.png]]
+<span class="credit">"Sergei von Zarovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
 ### Sergei’s Surprise
 If the players draw Sergei’s attention, or otherwise fail to conceal their entry to this area, read:
 
@@ -1133,9 +1117,9 @@ If the players, after investigating the hut, learn that the raven is an illusion
 
 Each creature within the hut must immediately succeed on a DC 20 Dexterity saving throw or be grappled by Baba Lysaga’s **creeping hut**. Continue:
 
-<div clas="description">
+<div class="description">
 <p>The shreds of the hill and ruined hut fall away—revealing, beneath them, a thatched roof, a ramshackle wooden hut, and an enormous tree stump whose roots thrust into the air and mire. Twin iron cages hang from its eaves, filled with scores of shrieking, screaming ravens entrapped within.</p>
-<p>Floating beside the hut, standing in an upside-down, hollowed-out giant’s skull, is an old, gnarled woman. Her white hair stands twin horns upon her head, then falls down into multiple iron-tipped braids that dangle like daggers across her chest. Her dark eyes burn from the depths of her wrinkled, sunken face, her long, yellowed nails curling like claws before her chest.</p>
+<p>Standing in an upside-down, hollowed-out giant’s skull that floats beside the hut, is an old, gnarled woman. Her white hair stands like twin horns upon her head, then falls down into multiple iron-tipped braids that dangle like daggers across her chest. Her dark eyes burn from the depths of her wrinkled, sunken face, her long, yellowed nails curling like claws before her chest.</p>
 <p>"You’ve had your fun, my dears," Baba Lysaga rasps. “Now, I believe it is time for <em>mine.</em>."
 </div>
 Baba Lysaga then attacks.
@@ -1155,7 +1139,7 @@ Baba Lysaga then attacks.
 > [!info]+ **Silverthorn Chain**
 > A length of *silverthorn chain* is lined with tiny silver thorns. A lycanthrope touching *silverthorn chain* can’t regenerate or transform.
 >
-> A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
+> A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. Treat spells that target creatures as having an effect on the chain. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
 
 > [!combat]- **Combat - The Witch**  
 > **Combat Level**: Bruising (phase one), Mild (phase two)
@@ -1667,7 +1651,7 @@ Soon after arriving, Arturi softly shares that he “still remembers" the camp a
 When the players are ready to begin, Arturi and Van Richten begin the blood rite. Read:
 
 <div class="description">
-<p>Arturi draws a knife from his boot, an obsidian-black blade glinting dully in the light. He seizes Van Richten’s left wrist and shakes his hand until the fingers open—then exposes his own palm and opens it as well.</p>
+<p>Arturi draws a knife from his boot, an obsidian-black blade glinting dully in the light. He seizes Van Richten’s left wrist and shakes his hand until the fingers open, cutting into the flesh of his palm with the blade—then exposes his own palm and opens it as well.</p>
 <p>With a sound clap, their hands clasp, Van Richten’s swinging to meet his. A heartbeat passes—and then both men pull away, hissing in pain as smoke billows from their hands.</p>
 </div>
 
@@ -1738,7 +1722,7 @@ It takes one minute, or ten rounds, for the wagons to be fully consumed in flame
 <p>The woods rustle with approaching footsteps. Slowly, hunched, shambling shapes emerge from the darkness.</p>
 </div>
 
-A new wave of undead appears at the beginning of the third round of combat, and at the beginning of each round thereafter, as follows:
+From a distance of 60ft, a new wave of undead appears at the beginning of the third round of combat, and at the beginning of each round thereafter, as follows:
 
 * **Round 3.** Thirteen **zombies**
 * **Round 4.** Six **ghouls**
@@ -1878,7 +1862,7 @@ Shortly after the fight ends, read:
 
 When their mirth has quelled, Arturi and Van Richten thank the players for their kindness and aid. “We owe you a debt that can never be repaid," Van Richten says. A player with a passive Wisdom (Insight) score of 12 or higher notices that his eyes are smiling, as though a great weight has been lifted off of his shoulders.
 
-If asked about his next intentions, Van Richtens considers the eastern mountains thoughtfully. “I do not know," he says at last. “But I feel that your accomplishments are rapidly pushing Von Zarovich to act. Arabelle’s prophecy still rings in my ears, as do Madam Eva’s final words to me. I shall remain by Vallaki, for now, if only to protect the Vistani there from harm. But when the day comes, I shall be ready."
+If asked about his next intentions, Van Richten considers the eastern mountains thoughtfully. “Ravenloft looms ever closer," he says at last. “I feel that your accomplishments are rapidly pushing Von Zarovich to act. Arabelle’s prophecy still rings in my ears, as do Madam Eva’s final words to me. If they're right, I will be needed in the village of Barovia imminently."
 ### Erasmus’ Return
 With Van Richten’s curse lifted, Erasmus van Richten’s ghost is finally able to cross over into the Material Plane. Shortly after the undead horde retreats, read:
 
@@ -2092,7 +2076,7 @@ As the players approach <span class="citation">The Megaliths (p. 128)</span>, re
 <p>A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.</p>
 </div>
 
-The area within the cloud of fog is heavily obscured. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+The area within the cloud of fog is has limited visibility, with players only being able to see 10ft from them. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
 
 > [!info]+ **Fear of Sunlight**
 > The **vampiric mists** that haunt the Mountain Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
@@ -2111,6 +2095,9 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 * Rahadin realized that, unlike his “lord," Strahd, his flesh was weak—even as an elf, he had _aged_ across the past four centuries, growing old and feeble. He resolved to address his “weakness"—and did so by visiting the Amber Temple, where he claimed the vestiges’ gifts for his own.
 
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
+
+![[Corrupted_Rahadin_transparent.png]]
+* Amended various typos, broken links, and errors in formatting
 
 
 > [!combat]- **Combat - Rahadin's Vengeance**  
@@ -2162,7 +2149,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
 <strong>Resistances</strong> bludgeoning, piercing, and slashing damage
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
 <strong>Languages</strong> Common, Elvish<br>
@@ -2175,9 +2162,9 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 20 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 20 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 18 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
 <p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
 <p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
@@ -2222,7 +2209,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 </table>
 <hr>
 <strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
+<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +16, Perception +15, Stealth +18<br>
 <strong>Resistances</strong> bludgeoning, cold, fire, lightning, piercing, and slashing damage
 <strong>Immunities</strong> poison, charmed, frightened, poisoned
 <strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
@@ -2236,7 +2223,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
-<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
+<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 18 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
